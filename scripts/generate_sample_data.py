@@ -1,6 +1,9 @@
 from utils.config import RANDOM_SEED
 from utils.helpers import initialize_seed
 from generators.products import generate_products
+from generators.stores import generate_stores
+from generators.employees import generate_employees
+from generators.campaigns import generate_campaigns
 
 from generators.customers import generate_customers
 
@@ -15,6 +18,9 @@ def main():
 
     generate_customers()
     generate_products()
+    generate_stores()
+    generate_employees()
+    generate_campaigns()
 
     print()
     print("Generation Complete.")
