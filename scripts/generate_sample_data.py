@@ -1,6 +1,9 @@
 from utils.config import RANDOM_SEED
 from utils.helpers import initialize_seed
 
+from generators.customers import generate_customers
+
+
 def main():
 
     initialize_seed(RANDOM_SEED)
@@ -8,9 +11,12 @@ def main():
     print("=" * 60)
     print("RetailMart Enterprise Dataset Generator")
     print("=" * 60)
-    print("Seed initialized successfully.")
+
+    generate_customers()
+
     print()
-    print("Dataset generation will begin in the next sprint.")
+    print("Generation Complete.")
+
 
 if __name__ == "__main__":
     main()
