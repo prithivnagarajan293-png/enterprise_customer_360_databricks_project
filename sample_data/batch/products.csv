@@ -1,1001 +1,1001 @@
-product_id,product_name,category,brand,unit_price,cost_price,is_active
-P000001,Cream,Beauty,Zenith,18923.1,22226.86,True
-P000002,Headphones,Electronics,Fusion,32744.86,20686.83,True
-P000003,Juice,Grocery,Prime,47927.21,14994.68,True
-P000004,Cap,Fashion,EcoLife,42293.22,11872.82,True
-P000005,Tea,Grocery,Elite,25100.09,24426.98,True
-P000006,Phone,Electronics,Prime,19417.42,8956.32,True
-P000007,Tennis Racket,Sports,Nimbus,21527.05,8990.39,True
-P000008,Football,Sports,Urban,35924.41,20556.35,True
-P000009,Perfume,Beauty,Fusion,39252.91,7542.67,True
-P000010,Face Wash,Beauty,Nova,11550.46,3964.12,True
-P000011,Snacks,Grocery,Zenith,34165.58,3745.32,True
-P000012,Tea,Grocery,EcoLife,28736.02,5675.45,True
-P000013,Face Wash,Beauty,Zenith,47728.79,13898.03,True
-P000014,Tablet,Electronics,Vision,3442.54,7506.6,False
-P000015,Coffee,Grocery,Urban,47634.77,12075.8,True
-P000016,Table,Home,Elite,21229.84,22062.37,True
-P000017,Face Wash,Beauty,Urban,39654.1,15456.25,True
-P000018,Cream,Beauty,Vision,38657.86,11073.31,True
-P000019,Lipstick,Beauty,Vision,34153.9,18665.65,True
-P000020,Headphones,Electronics,Urban,22486.86,26567.42,True
-P000021,Headphones,Electronics,Apex,16969.79,7648.95,True
-P000022,Tea,Grocery,Elite,1397.32,4929.59,True
-P000023,Shirt,Fashion,Elite,7612.04,16315.24,True
-P000024,Monitor,Electronics,Urban,18445.4,28547.8,False
-P000025,Perfume,Beauty,Vision,17009.85,22763.09,False
-P000026,Headphones,Electronics,Zenith,4164.15,14603.68,True
-P000027,Chair,Home,Urban,20599.2,13584.44,True
-P000028,Lipstick,Beauty,Elite,6565.52,27306.78,False
-P000029,Tablet,Electronics,Elite,48162.5,7638.43,True
-P000030,Snacks,Grocery,Nimbus,16105.93,7210.08,False
-P000031,Lipstick,Beauty,Elite,37827.1,13633.69,False
-P000032,Yoga Mat,Sports,Fusion,42899.66,331.23,True
-P000033,Sofa,Home,Urban,47092.94,19698.85,False
-P000034,Coffee,Grocery,Elite,31988.73,14198.95,True
-P000035,Phone,Electronics,Vision,8934.65,17425.32,False
-P000036,Juice,Grocery,Urban,45629.2,29509.81,True
-P000037,Shirt,Fashion,Nova,15179.51,8463.14,True
-P000038,Lipstick,Beauty,Zenith,36295.55,6555.64,True
-P000039,Perfume,Beauty,Urban,19412.13,25700.55,True
-P000040, Lamp ,Home,Nova,22805.21,23394.54,True
-P000041,Lipstick,Beauty,Zenith,20736.47,3565.14,True
-P000042,Headphones,Electronics,Nimbus,23685.56,9234.87,False
-P000043,Shoes,Fashion,Urban,20974.55,13866.97,False
-P000044,Table,Home,Fusion,34187.86,6342.15,True
-P000045,Shirt,Fashion,Vision,29040.5,18285.21,True
-P000046,Juice,Grocery,EcoLife,42927.75,22262.21,True
-P000047,Yoga Mat,Sports,Nimbus,36472.8,5500.79,False
-P000048,Phone,Electronics,EcoLife,6697.62,12322.52,False
-P000049,Monitor,Electronics,Zenith,44169.28,26716.6,False
-P000050,Lipstick,Beauty,Zenith,2139.92,19644.92,False
-P000051,Lamp,Home,Vision,24900.42,17698.32,False
-P000052,Laptop,Electronics,Nova,47322.99,22790.72,True
-P000053,Phone,Electronics,EcoLife,29893.99,5213.12,True
-P000054,Cricket Bat,Sports,Apex,10165.64,6993.26,True
-P000055,Phone,Electronics,Vision,30877.45,27875.76,True
-P000056,Jacket,Fashion,Nova,39396.16,24441.14,True
-P000057,Tennis Racket,Sports,Vision,34034.54,119.07,True
-P000058,Coffee,Grocery,Vision,17117.07,16153.69,False
-P000059,Jeans,Fashion,Nimbus,15345.48,4139.38,True
-P000060,Lamp,Home,Nova,1747.01,11507.08,True
-P000061,Cap,Fashion,EcoLife,16882.95,15974.66,True
-P000062,Chair,Home,Elite,48096.14,18970.95,True
-P000063,Jeans,Fashion,Urban,17568.15,9365.0,True
-P000064,Perfume,Beauty,Urban,12454.31,13349.79,True
-P000065,Sofa,Home,Urban,40055.65,14416.15,False
-P000066,Face Wash,Beauty,EcoLife,19904.68,20378.13,True
-P000067,Shelf,Home,Prime,8522.31,7510.74,True
-P000068,Football,Sports,Elite,31109.46,21526.6,True
-P000069,Face Wash,Beauty,Fusion,46132.93,28545.04,True
-P000070,Face Wash,Beauty,Nimbus,26271.73,14546.88,False
-P000071,Chair,Home,Apex,40091.79,24176.69,True
-P000072, Cricket Bat ,Sports,Nimbus,40889.96,14242.99,False
-P000073,Shoes,Fashion,Elite,21412.8,7071.92,True
-P000074,Perfume,Beauty,Zenith,324.01,9759.23,True
-P000075,Shelf,Home,Zenith,15679.75,20559.0,True
-P000076,Phone,Electronics,Prime,36558.06,19699.7,True
-P000077,Headphones,Electronics,Urban,14948.12,28416.11,True
-P000078,Tennis Racket,Sports,EcoLife,24964.63,4167.8,True
-P000079,Tablet,Electronics,Fusion,20811.12,26239.66,True
-P000080,Rice,Grocery,Elite,17840.03,12202.33,False
-P000081,Shoes,Fashion,Prime,41279.31,6932.86,False
-P000082,Headphones,Electronics,,45436.53,10282.55,True
-P000083,Chair,Home,Nimbus,48383.01,15255.27,False
-P000084,Table,Home,EcoLife,10886.75,16070.52,True
-P000085,Football,Sports,Elite,43234.99,10100.41,True
-P000086,Table,Home,Fusion,24322.79,8073.34,True
-P000087,Perfume,Beauty,Nimbus,31749.96,258.67,True
-P000088,Laptop,Electronics,Nimbus,21671.04,18298.67,False
-P000089,Coffee,Grocery,Nova,30909.52,10544.41,True
-P000090,Laptop,Electronics,EcoLife,7821.4,21728.49,True
-P000091,Table,Home,Vision,35281.1,29087.46,False
-P000092,Tablet,Electronics,Nimbus,32407.52,5971.24,False
-P000093,Lipstick,Beauty,EcoLife,8160.11,27289.26,True
-P000094,Lipstick,Beauty,Urban,40546.65,2365.89,True
-P000095,Face Wash,Beauty,Elite,14192.88,4987.97,True
-P000096,Tennis Racket,Sports,Zenith,15204.93,25783.38,True
-P000097,Sofa,Home,EcoLife,40554.06,24810.44,False
-P000098,Lamp,Home,Prime,17356.77,2437.87,True
-P000099,Rice,Grocery,Prime,15088.92,17274.39,False
-P000100,Juice,Grocery,Vision,38010.27,19390.63,False
-P000101,Cricket Bat,Sports,Apex,14923.64,19078.92,True
-P000102,Tea,Grocery,Apex,31169.53,13900.07,False
-P000103,Shelf,Home,Fusion,18158.97,3354.01,False
-P000104,Tea,Grocery,Vision,44726.92,26003.14,True
-P000105,Shelf,Home,Nimbus,2439.08,24192.12,True
-P000106,Perfume,Beauty,Apex,6355.52,14153.46,False
-P000107,Laptop,Electronics,Nova,28424.45,334.04,True
-P000108,Tennis Racket,Sports,Zenith,11479.92,12485.23,True
-P000109,Lamp,Home,Fusion,34756.69,29071.71,True
-P000110,Sofa,Home,Apex,29735.58,27689.14,True
-P000111,Cricket Bat,Sports,Nova,29812.1,2581.63,True
-P000112,Rice,Grocery,Elite,33970.62,4491.84,True
-P000113,Laptop,Electronics,Zenith,9298.9,5509.26,True
-P000114,Tablet,Electronics,Zenith,48004.08,9881.35,True
-P000115,Laptop,Electronics,EcoLife,13368.17,27556.27,True
-P000116,Sofa,Home,Nimbus,26421.66,22122.0,False
-P000117,Jeans,Fashion,Prime,28802.91,19139.28,True
-P000118,Face Wash,Beauty,Fusion,45588.53,14464.92,False
-P000119,Tablet,Electronics,Vision,-1.0,645.38,True
-P000120,Lamp,Home,Prime,37113.52,13975.95,True
-P000121,Tennis Racket,Sports,Nova,2231.03,6123.63,True
-P000122,Perfume,Beauty,Nova,21672.97,25280.68,False
-P000123,Tablet,Electronics,Apex,-1.0,15121.98,True
-P000124,Tea,Grocery,Urban,13064.4,28153.3,True
-P000125,Table,Home,Elite,20087.56,14806.64,True
-P000126,Rice,Grocery,Fusion,22199.44,10942.36,True
-P000127,Cream,Beauty,Nimbus,9903.0,28680.94,False
-P000128,Perfume,Beauty,Apex,16041.29,6399.75,True
-P000129,Tea,Grocery,Prime,25717.87,16760.18,True
-P000130,Jacket,Fashion,Vision,12481.19,23954.4,True
-P000131,Table,Home,Nova,46719.26,7011.68,True
-P000132,Table,Home,Nova,9121.35,6938.58,True
-P000133,Phone,Electronics,Prime,14726.7,14295.81,True
-P000134,Monitor,Electronics,EcoLife,18777.98,21451.65,False
-P000135,Chair,Home,Vision,11584.56,1392.43,True
-P000136,Football,Sports,Prime,12502.05,4005.47,True
-P000137,Headphones,Electronics,Elite,18345.31,10727.02,False
-P000138,Monitor,Electronics,Apex,31739.09,20963.02,True
-P000139,Table,Home,Apex,47320.54,11828.44,True
-P000140,Monitor,Electronics,Nimbus,7897.84,24399.72,True
-P000141,Sofa,Home,Vision,25583.52,24389.21,False
-P000142,Perfume,Beauty,Nimbus,4647.54,7521.51,True
-P000143,Tablet,Electronics,Vision,36488.38,9336.31,True
-P000144,Monitor,Electronics,Zenith,5592.75,20775.6,True
-P000145,Jacket,Fashion,Elite,44717.41,11800.34,True
-P000146,Shelf,Home,Prime,49035.01,12316.91,True
-P000147,Football,Sports,Fusion,6792.98,25569.62,True
-P000148,Juice,Grocery,Vision,15865.54,327.28,True
-P000149,Yoga Mat,Sports,Elite,15701.78,8710.4,True
-P000150,Cap,Fashion,EcoLife,33010.57,15054.2,True
-P000151,Juice,Grocery,Nimbus,22325.09,26324.07,True
-P000152,Table,Home,Fusion,1296.54,28001.48,True
-P000153,Snacks,Grocery,Nova,5554.28,2405.49,True
-P000154,Football,Sports,Nova,36660.71,18016.88,False
-P000155,Perfume,Beauty,EcoLife,29735.45,1196.03,False
-P000156,Rice,Grocery,Fusion,46919.71,16668.13,True
-P000157,Yoga Mat,Sports,EcoLife,36719.57,2703.42,True
-P000158,Football,Sports,Urban,31422.75,19842.11,False
-P000159,Jacket,Fashion,EcoLife,26861.51,4851.35,False
-P000160,Shelf,Home,Nova,700.37,28479.93,False
-P000161,Chair,Home,EcoLife,5701.77,20079.5,True
-P000162,Cricket Bat,Sports,Vision,22959.26,10583.56,True
-P000163,Headphones,Electronics,EcoLife,11241.48,21746.68,True
-P000164,Cream,Beauty,Nova,38455.46,18129.63,True
-P000165, Tablet ,Electronics,Urban,48849.43,18246.57,True
-P000166,Yoga Mat,Sports,Elite,13084.59,14450.14,True
-P000167,Yoga Mat,Sports,EcoLife,25803.6,12564.8,True
-P000168,Monitor,Electronics,Urban,38166.79,26801.8,True
-P000169,Tennis Racket,Sports,Urban,21612.26,10565.27,True
-P000170,Cricket Bat,Sports,Apex,12522.3,22527.3,True
-P000171,Juice,Grocery,Vision,29469.71,4439.16,True
-P000172,Sofa,Home,EcoLife,41761.23,10415.73,True
-P000173,Table,Home,Zenith,35204.94,14489.22,True
-P000174,Phone,Electronics,Elite,18988.55,20641.01,False
-P000175,Monitor,Electronics,Prime,41998.5,3276.55,True
-P000176,Face Wash,Beauty,Prime,729.5,3149.72,True
-P000177,Rice,Grocery,Prime,47701.42,28661.38,True
-P000178,Shoes,Fashion,,32943.39,29903.79,True
-P000179,Perfume,Beauty,EcoLife,49677.04,21611.64,True
-P000180,Face Wash,Beauty,Fusion,31591.76,7145.2,False
-P000181,Sofa,Home,Fusion,4960.1,6475.93,True
-P000182,Jeans,Fashion,EcoLife,11065.97,20153.95,True
-P000183,Monitor,Electronics,Elite,14623.38,9420.5,True
-P000184,Cream,Beauty,Nova,24636.76,29211.06,True
-P000185,Headphones,Electronics,Nimbus,28363.04,19332.35,True
-P000186,Jacket,Fashion,Fusion,7714.94,18594.96,True
-P000187,Shirt,Fashion,EcoLife,30321.21,11358.88,True
-P000188,Jeans,Fashion,Zenith,38921.66,18973.5,True
-P000189,Phone,Electronics,Prime,12565.6,3932.7,True
-P000190,Tablet,Electronics,Fusion,37203.55,13575.66,True
-P000191,Sofa,Home,Elite,32998.83,15583.78,True
-P000192,Shirt,Fashion,EcoLife,42556.95,5021.75,True
-P000193,Shirt,Fashion,Fusion,20187.09,1351.16,True
-P000194,Table,Home,Nimbus,6441.78,15839.77,True
-P000195,Jacket,Fashion,Nimbus,1778.91,16728.37,True
-P000196,Football,Sports,Urban,7112.7,11757.7,True
-P000197,Lipstick,Beauty,Apex,15216.26,493.65,True
-P000198,Cap,Fashion,Prime,12628.0,16349.38,False
-P000199, Chair ,Home,Vision,43428.49,7079.43,True
-P000200,Shoes,Fashion,Nova,11395.55,2256.52,True
-P000201,Perfume,Beauty,Prime,19074.93,11450.42,True
-P000202,Shirt,Fashion,Nimbus,38135.45,20102.61,False
-P000203,Headphones,Electronics,Elite,1322.91,13653.29,True
-P000204,Perfume,Beauty,Elite,40747.68,24136.91,True
-P000205,Tea,Grocery,Fusion,47825.01,20312.42,True
-P000206,Jacket,Fashion,Fusion,28053.93,20088.97,True
-P000207,Shirt,Fashion,Nova,11100.18,2400.83,True
-P000208,Chair,Home,EcoLife,5271.87,28318.85,True
-P000209,Shirt,Fashion,Urban,46089.33,20937.36,True
-P000210,Sofa,Home,Elite,22302.22,17638.03,True
-P000211,Shoes,Fashion,Zenith,2023.76,10866.7,True
-P000212,Lipstick,Beauty,Nova,40352.94,27086.91,False
-P000213,Tablet,Electronics,EcoLife,22992.69,6419.77,True
-P000214,Chair,Home,Apex,40485.28,10642.94,False
-P000215,Shoes,Fashion,Zenith,6344.65,22948.89,False
-P000216,Jacket,Fashion,Nimbus,13512.78,1686.85,True
-P000217,Phone,Electronics,Vision,42906.79,28123.9,True
-P000218,Cap,Fashion,Nimbus,30710.5,29088.81,False
-P000219,Monitor,Electronics,Vision,12421.92,3240.95,True
-P000220,Tennis Racket,Sports,Elite,9372.52,18920.7,True
-P000221,Laptop,Electronics,Fusion,944.38,5076.5,False
-P000222,Jeans,Fashion,Elite,35170.87,16717.81,True
-P000223,Yoga Mat,Sports,Vision,4470.7,25103.65,True
-P000224,Monitor,Electronics,Nimbus,20361.71,10002.0,False
-P000225,Phone,Electronics,Urban,11370.38,1171.68,True
-P000226,Laptop,Electronics,Apex,22096.54,28519.97,False
-P000227,Tennis Racket,Sports,EcoLife,18990.69,19085.55,True
-P000228,Lipstick,Beauty,EcoLife,3559.89,412.91,True
-P000229,Football,Sports,Nova,49412.57,27644.53,False
-P000230,Football,Sports,Elite,22281.34,28493.04,True
-P000231,Juice,Grocery,Urban,28748.69,9332.77,True
-P000232,Chair,Home,Zenith,26437.48,3363.91,True
-P000233,Football,Sports,Nimbus,35203.87,12722.57,True
-P000234,Tablet,Electronics,Nimbus,1278.94,27661.31,True
-P000235,Shoes,Fashion,Elite,47246.18,24314.1,True
-P000236,Face Wash,Beauty,Zenith,14037.87,7009.25,True
-P000237,Snacks,Grocery,Fusion,49247.85,27772.25,True
-P000238,Table,Home,Nimbus,49283.36,14427.35,True
-P000239,Table,Home,Urban,12265.77,87.81,True
-P000240,Cap,Fashion,Nimbus,29221.99,11572.57,False
-P000241,Jeans,Fashion,Fusion,35909.89,28719.48,False
-P000242,Juice,Grocery,Vision,5277.91,13660.18,True
-P000243,Cricket Bat,Sports,Apex,25377.68,21543.83,True
-P000244,Shelf,Home,Urban,42305.3,11314.67,True
-P000245,Coffee,Grocery,Nimbus,7756.35,14400.91,False
-P000246,Face Wash,Beauty,Elite,13112.65,2393.31,True
-P000247,Cap,Fashion,Vision,39572.44,26841.66,False
-P000248,Face Wash,Beauty,Zenith,46867.56,12941.11,True
-P000249,Cap,Fashion,Elite,23936.78,6908.42,True
-P000250,Cricket Bat,Sports,Elite,44053.73,3686.98,True
-P000251,Shirt,Fashion,Fusion,34904.55,17644.07,True
-P000252,Shoes,Fashion,Fusion,15182.76,6298.35,False
-P000253,Laptop,Electronics,Apex,33164.82,18870.34,True
-P000254,Jacket,Fashion,Nova,42363.06,6961.76,True
-P000255,Jeans,Fashion,Zenith,34810.95,29466.55,False
-P000256,Cricket Bat,Sports,Urban,16175.5,18149.89,True
-P000257,Shirt,Fashion,Nimbus,46203.44,11713.43,True
-P000258,Laptop,Electronics,Elite,39210.2,23898.36,True
-P000259,Rice,Grocery,Elite,40917.02,12752.77,False
-P000260,Monitor,Electronics,Zenith,9707.07,7774.79,True
-P000261,Snacks,Grocery,EcoLife,4186.84,28429.39,True
-P000262,Laptop,Electronics,EcoLife,25648.49,19671.7,True
-P000263,Lipstick,Beauty,Fusion,41627.18,18753.58,False
-P000264,Cricket Bat,Sports,Vision,33725.3,6580.64,True
-P000265,Shoes,Fashion,EcoLife,6330.96,20304.26,False
-P000266,Coffee,Grocery,Fusion,42818.31,28163.74,True
-P000267,Juice,Grocery,Elite,30334.83,3837.03,True
-P000268,Cream,Beauty,Prime,1147.46,6439.02,True
-P000269,Face Wash,Beauty,Apex,6166.06,11562.97,True
-P000270,Phone,Electronics,Vision,20731.65,22949.08,False
-P000271,Cream,Beauty,Fusion,25386.47,9540.08,True
-P000272,Yoga Mat,Sports,Fusion,13768.36,25106.2,True
-P000273,Shelf,Home,Elite,35679.55,22038.47,True
-P000274,Jeans,Fashion,EcoLife,7544.33,26611.79,False
-P000275,Football,Sports,Prime,19088.66,18094.96,False
-P000276,Lipstick,Beauty,Nimbus,42301.15,17051.73,True
-P000277,Sofa,Home,Prime,45359.17,12463.51,True
-P000278,Shoes,Fashion,EcoLife,13993.21,28844.95,False
-P000279,Snacks,Grocery,Fusion,25414.05,26169.64,True
-P000280,Tablet,Electronics,Vision,11117.24,12811.27,True
-P000281,Perfume,Beauty,Urban,28140.24,14393.14,True
-P000282,Shoes,Fashion,Nimbus,33773.23,23462.97,True
-P000283,Juice,Grocery,Prime,39021.94,15942.87,True
-P000284,Sofa,Home,Nimbus,4988.65,4600.72,True
-P000285,Cricket Bat,Sports,Zenith,8498.11,12403.07,False
-P000286,Football,Sports,Vision,7373.13,9753.83,True
-P000287,Monitor,Electronics,Nova,8842.93,9618.27,False
-P000288,Cricket Bat,Sports,Zenith,48511.55,23909.83,True
-P000289,Lipstick,Beauty,Zenith,42650.47,9509.62,True
-P000290,Monitor,Electronics,Prime,12817.31,13570.6,True
-P000291,Laptop,Electronics,Zenith,33803.08,29629.79,False
-P000292,Phone,Electronics,EcoLife,21342.26,28840.96,False
-P000293,Juice,Grocery,Fusion,5293.24,4851.36,True
-P000294,Coffee,Grocery,Vision,10478.91,23904.66,True
-P000295,Jacket,Fashion,Vision,1700.46,28434.6,True
-P000296,Cream,Beauty,Apex,49711.89,16780.65,False
-P000297,Table,Home,Elite,2061.84,14177.51,True
-P000298,Phone,Electronics,Zenith,11553.43,12831.44,True
-P000299,Cap,Fashion,Urban,7552.36,129.95,True
-P000300,Laptop,Electronics,Nimbus,22514.54,724.05,True
-P000301,Shelf,Home,Zenith,12743.88,20218.87,False
-P000302,Coffee,Grocery,Zenith,30692.29,12924.96,True
-P000303,Juice,Grocery,Urban,3404.5,18759.93,True
-P000304,Shoes,Fashion,Elite,34253.12,633.55,True
-P000305, Laptop ,Electronics,EcoLife,5829.69,9142.06,True
-P000306,Coffee,Grocery,Prime,21520.79,5228.9,True
-P000307,Phone,Electronics,Fusion,635.69,13581.31,True
-P000308,Sofa,Home,Nova,7761.68,19643.1,True
-P000309,Phone,Electronics,Apex,34171.86,26320.8,True
-P000310,Lamp,Home,Urban,40363.24,17250.75,False
-P000311,Cream,Beauty,EcoLife,1603.78,18204.03,False
-P000312,Juice,Grocery,Vision,6286.0,25215.0,False
-P000313,Face Wash,Beauty,EcoLife,23615.15,20298.04,True
-P000314,Table,Home,Nova,12786.53,8389.52,True
-P000315,Laptop,Electronics,Fusion,5069.55,11759.36,False
-P000316,Laptop,Electronics,EcoLife,14440.98,23673.93,True
-P000317,Perfume,Beauty,Elite,16526.97,19693.85,False
-P000318,Tennis Racket,Sports,Prime,29047.33,12415.58,True
-P000319,Perfume,Beauty,Nimbus,6566.74,2921.98,True
-P000320,Tablet,Electronics,Nova,32744.43,28931.5,False
-P000321,Face Wash,Beauty,Elite,36567.31,23196.45,True
-P000322,Jeans,Fashion,Urban,18686.65,20959.02,True
-P000323,Shelf,Home,Nova,16286.42,25131.73,True
-P000324,Yoga Mat,Sports,Apex,11827.08,27640.95,True
-P000325,Tea,Grocery,Zenith,49753.42,5271.99,True
-P000326,Coffee,Grocery,Nimbus,18270.21,23159.07,True
-P000327,Tablet,Electronics,Prime,40871.86,9614.27,False
-P000328,Lamp,Home,Zenith,35235.8,16587.29,True
-P000329,Football,Sports,Vision,4214.56,13382.01,True
-P000330,Chair,Home,Apex,45432.95,10794.39,True
-P000331,Snacks,Grocery,Zenith,5974.87,16329.88,True
-P000332,Jeans,Fashion,Prime,30496.7,26791.56,True
-P000333,Tea,Grocery,Apex,33071.47,10965.74,True
-P000334,Tablet,Electronics,Urban,28220.19,13316.49,False
-P000335,Football,Sports,Elite,34062.91,23568.37,True
-P000336,Tablet,Electronics,Urban,23440.02,29148.4,False
-P000337,Shoes,Fashion,Elite,4479.38,11702.19,True
-P000338,Face Wash,Beauty,Nova,39919.81,3315.44,True
-P000339,Coffee,Grocery,Prime,5902.66,6192.93,False
-P000340,Snacks,Grocery,Nimbus,38864.93,1870.6,True
-P000341,Jacket,Fashion,Fusion,34069.86,2156.92,True
-P000342,Headphones,Electronics,Apex,19581.75,3219.53,True
-P000343,Coffee,Grocery,Nimbus,30254.47,19189.58,True
-P000344,Football,Sports,Urban,34826.99,28054.49,True
-P000345,Shelf,Home,Zenith,37433.6,26463.75,True
-P000346,Shelf,Home,Urban,36720.63,28898.91,False
-P000347,Perfume,Beauty,EcoLife,38671.11,7783.17,True
-P000348,Face Wash,Beauty,Fusion,34864.16,1581.93,True
-P000349,Rice,Grocery,Zenith,11936.88,17642.2,True
-P000350,Shoes,Fashion,Zenith,34231.15,19294.98,True
-P000351,Shoes,Fashion,Elite,42514.95,1344.29,False
-P000352,Cream,Beauty,Fusion,6858.34,19225.47,True
-P000353,Jeans,Fashion,Apex,38452.75,24918.82,True
-P000354,Juice,Grocery,Nova,46840.47,22022.09,True
-P000355,Cap,Fashion,EcoLife,10543.97,18356.16,True
-P000356,Snacks,Grocery,Nova,23156.86,18198.8,False
-P000357,Cap,Fashion,Urban,22576.93,22702.02,False
-P000358,Jacket,Fashion,EcoLife,3694.96,14334.69,True
-P000359,Sofa,Home,Nova,24491.4,28659.59,True
-P000360,Headphones,Electronics,Elite,40337.88,25213.91,False
-P000361,Football,Sports,Vision,15883.52,814.94,True
-P000362,Cricket Bat,Sports,Fusion,29235.02,4500.94,True
-P000363,Snacks,Grocery,Urban,14197.81,7127.07,True
-P000364,Tennis Racket,Sports,Prime,47701.37,10024.27,True
-P000365,Coffee,Grocery,Vision,4441.22,29990.36,True
-P000366,Juice,Grocery,Urban,9858.82,13785.09,True
-P000367,Tea,Grocery,Elite,14308.7,13542.18,True
-P000368,Perfume,Beauty,Vision,7068.74,3882.37,True
-P000369,Yoga Mat,Sports,Elite,14671.76,23776.71,True
-P000370,Monitor,Electronics,Vision,35547.02,9453.2,True
-P000371,Juice,Grocery,Nova,45671.03,4506.46,True
-P000372,Football,Sports,Zenith,12648.67,5877.12,True
-P000373,Shoes,Fashion,Nimbus,13777.33,14129.71,False
-P000374,Phone,Electronics,Elite,27595.51,7515.98,True
-P000375,Coffee,Grocery,Zenith,33882.34,22686.95,True
-P000376,Tennis Racket,Sports,Nova,21936.21,12186.37,True
-P000377,Table,Home,EcoLife,32490.46,19703.65,True
-P000378,Jacket,Fashion,Apex,14235.84,16745.84,True
-P000379,Chair,Home,Apex,18611.82,9749.07,True
-P000380,Lipstick,Beauty,Nova,6390.86,12266.3,True
-P000381,Football,Sports,Zenith,24971.11,23056.4,True
-P000382,Table,Home,Prime,24459.12,25741.88,True
-P000383,Perfume,Beauty,Apex,33950.87,12361.24,True
-P000384,Cream,Beauty,Vision,20075.34,11342.04,True
-P000385,Football,Sports,Prime,47352.61,5553.66,True
-P000386,Face Wash,Beauty,Urban,47449.99,20312.21,False
-P000387,Headphones,Electronics,Nimbus,1952.6,19317.28,False
-P000388,Laptop,Electronics,Urban,33942.94,5220.67,True
-P000389,Shelf,Home,Vision,12717.29,18367.46,False
-P000390,Yoga Mat,Sports,Prime,45626.99,11502.66,True
-P000391,Cream,Beauty,Vision,37769.97,24546.03,True
-P000392,Snacks,Grocery,Prime,28941.77,11368.84,True
-P000393,Laptop,Electronics,,11294.13,14437.5,True
-P000394,Lamp,Home,Nova,43308.01,26936.58,True
-P000395,Shelf,Home,Vision,32653.15,13361.92,True
-P000396,Lamp,Home,Nova,15846.27,18632.25,True
-P000397,Yoga Mat,Sports,Prime,44544.14,28009.29,True
-P000398,Cricket Bat,Sports,Prime,8023.09,19824.0,True
-P000399,Phone,Electronics,Fusion,48804.41,16624.52,True
-P000400,Jacket,Fashion,Fusion,18347.17,17408.72,True
-P000401,Tea,Grocery,Zenith,20476.76,25347.04,False
-P000402,Rice,Grocery,Fusion,44317.21,28526.7,False
-P000403,Sofa,Home,Urban,8926.51,13857.91,False
-P000404,Face Wash,Beauty,Apex,23516.75,16446.28,True
-P000405,Headphones,Electronics,Nova,40542.13,20987.29,True
-P000406,Tennis Racket,Sports,Zenith,23458.33,23274.31,True
-P000407,Football,Sports,Prime,45253.61,15442.78,False
-P000408,Shelf,Home,Apex,7837.65,15697.46,True
-P000409,Cream,Beauty,Fusion,34382.17,2182.46,False
-P000410,Shirt,Fashion,Zenith,1439.6,10280.92,False
-P000411,Monitor,Electronics,Fusion,1760.44,11646.42,False
-P000412,Perfume,Beauty,Vision,3806.11,25187.93,False
-P000413,Tennis Racket,Sports,,48473.76,17337.99,True
-P000414,Rice,Grocery,Prime,23363.98,15734.72,True
-P000415,Sofa,Home,Prime,27876.56,10860.86,True
-P000416,Tea,Grocery,Elite,41938.9,23764.51,True
-P000417,Perfume,Beauty,Nimbus,27862.71,7887.65,True
-P000418,Face Wash,Beauty,Nova,46555.0,3599.07,True
-P000419,Snacks,Grocery,Fusion,24346.35,26957.44,True
-P000420,Chair,Home,Zenith,23420.23,3148.64,True
-P000421,Tennis Racket,Sports,Nova,14320.56,6786.82,True
-P000422,Juice,Grocery,Nimbus,-1.0,20996.67,True
-P000423,Football,Sports,Nova,16443.4,2067.84,True
-P000424,Perfume,Beauty,Nova,33846.65,1577.34,True
-P000425,Tennis Racket,Sports,Nova,36352.99,404.03,True
-P000426,Sofa,Home,Apex,28310.77,4946.0,True
-P000427,Snacks,Grocery,Prime,1735.33,408.06,True
-P000428,Face Wash,Beauty,Urban,45232.91,23727.15,False
-P000429,Jacket,Fashion,Urban,32036.18,26051.28,False
-P000430,Cap,Fashion,Zenith,37433.49,7669.43,True
-P000431,Jeans,Fashion,Fusion,33189.02,20429.68,True
-P000432,Coffee,Grocery,Nova,14135.9,12163.68,True
-P000433,Jeans,Fashion,Zenith,14656.86,28237.68,True
-P000434,Phone,Electronics,Vision,22983.44,23440.25,True
-P000435,Yoga Mat,Sports,Fusion,37103.77,23154.82,False
-P000436,Football,Sports,Fusion,38379.41,193.71,True
-P000437,Jacket,Fashion,Elite,40435.89,13761.26,True
-P000438,Cap,Fashion,Apex,30807.31,11760.02,True
-P000439,Shoes,Fashion,Nimbus,30652.5,15489.47,True
-P000440,Cap,Fashion,Fusion,8628.68,22047.42,True
-P000441,Tennis Racket,Sports,Apex,16601.98,16969.88,False
-P000442,Table,Home,Apex,18756.88,7342.42,True
-P000443,Football,Sports,Elite,45077.97,2761.35,True
-P000444,Snacks,Grocery,Urban,40053.97,25854.99,True
-P000445,Yoga Mat,Sports,EcoLife,30523.43,20065.95,True
-P000446,Cream,Beauty,Prime,3911.07,10741.13,False
-P000447,Monitor,Electronics,Vision,2710.53,19789.43,True
-P000448,Tea,Grocery,EcoLife,514.87,22792.82,True
-P000449,Lamp,Home,Apex,7827.68,18505.18,False
-P000450,Coffee,Grocery,Nova,16813.83,9989.87,True
-P000451,Face Wash,Beauty,EcoLife,43236.71,21561.94,True
-P000452,Tablet,Electronics,Zenith,48589.97,7698.77,True
-P000453,Tennis Racket,Sports,Fusion,345.5,5276.42,True
-P000454, Football ,Sports,Zenith,36080.8,27569.58,False
-P000455,Chair,Home,Apex,21546.03,13767.44,False
-P000456,Cap,Fashion,Nova,40452.74,10356.91,True
-P000457,Cream,Beauty,Fusion,22356.11,28285.05,False
-P000458,Face Wash,Beauty,Nimbus,49658.22,15765.86,False
-P000459,Shoes,Fashion,Apex,16536.53,7776.57,False
-P000460,Shirt,Fashion,Vision,13953.98,3510.62,True
-P000461,Snacks,Grocery,Vision,20855.85,26721.11,True
-P000462,Tea,Grocery,Nimbus,21804.71,20876.62,True
-P000463,Rice,Grocery,Nimbus,10518.86,11337.46,True
-P000464,Perfume,Beauty,Elite,7744.24,8400.06,True
-P000465,Jacket,Fashion,Nimbus,12195.82,21577.07,True
-P000466,Football,Sports,Elite,49061.3,12317.21,False
-P000467,Table,Home,Vision,43403.79,1909.97,False
-P000468,Headphones,Electronics,Urban,30703.13,15577.88,True
-P000469,Chair,Home,Fusion,1852.65,21211.26,False
-P000470,Tea,Grocery,Vision,12478.98,6434.74,False
-P000471,Coffee,Grocery,Zenith,3463.55,12445.0,True
-P000472,Shoes,Fashion,Zenith,43623.02,10596.71,True
-P000473,Laptop,Electronics,Prime,31314.61,6330.72,True
-P000474,Cricket Bat,Sports,EcoLife,45213.53,16210.61,True
-P000475,Yoga Mat,Sports,Elite,16015.6,26466.03,True
-P000476,Lipstick,Beauty,EcoLife,20126.86,6987.82,False
-P000477,Shoes,Fashion,Elite,26191.98,910.23,True
-P000478,Jeans,Fashion,Elite,46913.27,27450.36,False
-P000479,Football,Sports,Urban,41725.64,18422.91,False
-P000480,Lipstick,Beauty,Prime,26889.16,26722.31,True
-P000481,Football,Sports,Urban,7790.36,7314.04,True
-P000482,Coffee,Grocery,Nimbus,27065.66,26018.08,False
-P000483,Phone,Electronics,Vision,37315.03,27543.03,True
-P000484,Yoga Mat,Sports,EcoLife,21880.29,8824.75,False
-P000485,Juice,Grocery,EcoLife,19521.03,12852.9,True
-P000486,Lamp,Home,Prime,26506.3,22176.49,True
-P000487,Coffee,Grocery,Prime,413.98,29818.54,False
-P000488,Cricket Bat,Sports,Apex,21937.81,2445.81,True
-P000489,Cricket Bat,Sports,EcoLife,11455.04,6694.83,True
-P000490,Tea,Grocery,Zenith,12211.62,26726.69,True
-P000491,Table,Home,Zenith,25035.32,21429.42,True
-P000492,Tablet,Electronics,Urban,10726.98,15945.68,False
-P000493,Chair,Home,Prime,38819.86,6657.76,True
-P000494,Shelf,Home,Urban,40809.15,24312.69,True
-P000495,Jeans,Fashion,Apex,2183.77,21818.29,True
-P000496,Shoes,Fashion,Urban,14588.65,12345.81,True
-P000497,Face Wash,Beauty,Zenith,32497.03,8830.49,True
-P000498,Yoga Mat,Sports,,26918.11,28632.49,True
-P000499,Face Wash,Beauty,Apex,20046.57,19365.46,True
-P000500,Face Wash,Beauty,Urban,19067.67,354.27,True
-P000501,Lipstick,Beauty,Fusion,25023.11,6886.51,True
-P000502,Coffee,Grocery,Nimbus,42422.22,28947.04,True
-P000503,Cap,Fashion,,16581.69,16063.04,False
-P000504,Laptop,Electronics,Fusion,44569.27,7212.6,True
-P000505,Cap,Fashion,Nimbus,33906.71,8407.47,True
-P000506,Tennis Racket,Sports,Nova,24460.67,769.68,True
-P000507,Chair,Home,Elite,6525.8,21566.4,True
-P000508,Shelf,Home,EcoLife,1543.9,3563.98,False
-P000509,Headphones,Electronics,Prime,27260.66,7470.15,False
-P000510,Perfume,Beauty,Urban,44565.52,16466.03,True
-P000511,Monitor,Electronics,Nova,47337.62,11010.96,True
-P000512,Lamp,Home,Apex,41901.49,5971.93,False
-P000513,Football,Sports,Prime,31830.81,13523.06,True
-P000514,Face Wash,Beauty,Elite,-1.0,27783.76,True
-P000515,Face Wash,Beauty,Nimbus,18467.74,20920.29,True
-P000516,Jacket,Fashion,Urban,28460.46,18367.58,True
-P000517,Shirt,Fashion,Urban,16278.09,19473.72,False
-P000518,Shelf,Home,Elite,22211.21,9045.86,True
-P000519,Shirt,Fashion,,11290.38,10381.97,True
-P000520,Tea,Grocery,Prime,36979.52,19900.98,True
-P000521,Chair,Home,Zenith,44721.58,23220.52,True
-P000522,Headphones,Electronics,Urban,4904.41,2059.68,True
-P000523,Tablet,Electronics,Urban,24622.16,21330.45,True
-P000524,Chair,Home,Vision,2113.97,24214.65,True
-P000525,Yoga Mat,Sports,Nimbus,44097.22,13923.72,True
-P000526,Cream,Beauty,Apex,47558.46,5697.16,True
-P000527,Coffee,Grocery,Prime,36202.42,2792.28,True
-P000528,Tea,Grocery,Apex,579.39,21081.81,True
-P000529,Cricket Bat,Sports,Apex,32234.89,23839.25,True
-P000530,Lipstick,Beauty,Elite,8883.77,21510.66,True
-P000531,Jeans,Fashion,Urban,23961.94,9543.69,True
-P000532,Rice,Grocery,Apex,46261.14,14379.66,True
-P000533,Phone,Electronics,Vision,45221.45,9781.28,False
-P000534,Laptop,Electronics,EcoLife,45012.22,2654.46,True
-P000535,Sofa,Home,Vision,13173.11,15095.07,True
-P000536,Football,Sports,Vision,10795.52,23025.76,False
-P000537,Coffee,Grocery,Zenith,21433.2,12509.52,True
-P000538,Cricket Bat,Sports,Apex,40987.39,3523.44,True
-P000539,Chair,Home,Prime,31000.37,26491.39,True
-P000540,Perfume,Beauty,Vision,2067.73,8735.47,True
-P000541,Perfume,Beauty,Prime,30941.65,28526.1,True
-P000542,Perfume,Beauty,Nimbus,19054.32,12394.45,True
-P000543,Table,Home,Elite,41242.63,3275.39,True
-P000544,Cream,Beauty,Elite,33567.99,5806.19,False
-P000545,Cream,Beauty,Elite,22169.21,4590.55,False
-P000546,Juice,Grocery,Zenith,2786.34,9046.76,True
-P000547,Football,Sports,Nova,42927.05,6568.77,True
-P000548,Perfume,Beauty,EcoLife,39679.86,14400.05,True
-P000549,Shirt,Fashion,Elite,12034.97,6218.03,True
-P000550,Phone,Electronics,Apex,47639.0,7941.72,True
-P000551,Football,Sports,Zenith,3923.0,26836.26,False
-P000552,Tennis Racket,Sports,Nova,41336.18,14903.15,True
-P000553,Coffee,Grocery,Urban,35403.56,19607.91,True
-P000554,Chair,Home,Fusion,37819.54,6308.58,False
-P000555,Phone,Electronics,Zenith,47988.08,15139.66,True
-P000556,Laptop,Electronics,Urban,38550.11,20716.3,False
-P000557,Phone,Electronics,Nimbus,30641.37,25798.42,True
-P000558,Headphones,Electronics,Fusion,43495.35,730.16,True
-P000559,Lipstick,Beauty,Fusion,45708.47,25886.74,False
-P000560,Cricket Bat,Sports,Prime,49342.06,7472.17,False
-P000561,Laptop,Electronics,Zenith,5493.94,20451.56,True
-P000562,Monitor,Electronics,Zenith,43345.73,2017.76,True
-P000563,Face Wash,Beauty,Vision,12557.39,6525.27,True
-P000564,Headphones,Electronics,Urban,44488.66,23360.57,True
-P000565,Cap,Fashion,EcoLife,27647.76,18710.38,True
-P000566,Lamp,Home,Urban,30028.96,205.86,False
-P000567,Table,Home,EcoLife,42560.81,9784.42,True
-P000568,Tea,Grocery,EcoLife,47282.97,22293.7,True
-P000569,Shirt,Fashion,Vision,31048.29,3474.12,False
-P000570,Phone,Electronics,Apex,26017.07,4994.54,True
-P000571,Yoga Mat,Sports,EcoLife,28083.61,6225.44,False
-P000572,Lamp,Home,Nimbus,42075.28,5815.63,True
-P000573,Perfume,Beauty,Nova,12979.07,7099.8,True
-P000574,Tennis Racket,Sports,EcoLife,15628.93,12661.69,True
-P000575,Face Wash,Beauty,Zenith,47192.13,8009.18,False
-P000576,Lamp,Home,Elite,6600.44,12039.73,True
-P000577,Tennis Racket,Sports,Urban,44524.05,17273.87,False
-P000578,Football,Sports,Elite,13081.39,15425.9,True
-P000579,Perfume,Beauty,Elite,37489.91,8117.17,True
-P000580,Jacket,Fashion,Prime,27248.1,21216.67,True
-P000581,Juice,Grocery,Elite,3727.31,16193.5,True
-P000582,Tablet,Electronics,Fusion,45879.9,25799.44,False
-P000583,Laptop,Electronics,EcoLife,30417.83,12020.08,True
-P000584,Shoes,Fashion,Urban,35492.94,8124.92,True
-P000585,Jeans,Fashion,Fusion,25088.73,7441.62,True
-P000586,Lamp,Home,Zenith,4566.29,8044.18,True
-P000587,Sofa,Home,Apex,31630.98,9477.09,True
-P000588,Lipstick,Beauty,Fusion,39417.67,908.43,True
-P000589,Laptop,Electronics,Elite,30088.59,12439.19,True
-P000590,Lamp,Home,Prime,47827.41,29061.79,False
-P000591,Face Wash,Beauty,Apex,34380.75,20729.44,False
-P000592,Coffee,Grocery,Fusion,39912.34,6991.03,True
-P000593,Rice,Grocery,Nimbus,16309.72,20391.45,False
-P000594,Monitor,Electronics,Vision,13006.02,23437.73,True
-P000595,Tennis Racket,Sports,Nova,27225.43,2135.51,False
-P000596,Tea,Grocery,Nova,12103.35,24496.58,True
-P000597,Lipstick,Beauty,Vision,43593.09,28838.18,False
-P000598,Laptop,Electronics,Fusion,8718.75,14636.07,True
-P000599,Snacks,Grocery,Urban,43826.02,3767.2,True
-P000600,Lipstick,Beauty,Apex,14325.68,22477.96,False
-P000601,Lipstick,Beauty,Apex,6995.59,2582.08,False
-P000602,Tea,Grocery,Fusion,6608.49,10316.71,True
-P000603,Laptop,Electronics,Fusion,48345.49,22287.45,True
-P000604,Juice,Grocery,Vision,13618.02,13855.67,True
-P000605,Tea,Grocery,Nimbus,9287.82,9425.68,True
-P000606,Cricket Bat,Sports,EcoLife,11474.85,4911.07,True
-P000607,Snacks,Grocery,Nimbus,24372.03,2778.34,True
-P000608,Laptop,Electronics,Zenith,736.69,16707.76,True
-P000609,Shelf,Home,Apex,31849.27,10168.33,False
-P000610,Phone,Electronics,Nova,42836.1,26225.01,True
-P000611,Lipstick,Beauty,Elite,34972.66,25602.96,True
-P000612,Coffee,Grocery,Urban,35710.29,23227.36,True
-P000613, Coffee ,Grocery,Zenith,8532.2,16069.51,False
-P000614,Tea,Grocery,Fusion,32955.9,17234.66,True
-P000615,Coffee,Grocery,Nova,45923.37,12465.95,True
-P000616,Tennis Racket,Sports,Zenith,47534.22,14196.98,True
-P000617,Cap,Fashion,EcoLife,6581.74,21876.36,True
-P000618,Face Wash,Beauty,Nova,33789.28,15676.13,True
-P000619,Laptop,Electronics,Zenith,36413.3,3668.6,False
-P000620,Laptop,Electronics,Apex,46657.93,7770.96,False
-P000621,Rice,Grocery,Elite,49967.99,25694.95,True
-P000622,Monitor,Electronics,Zenith,18225.72,9137.76,True
-P000623,Cricket Bat,Sports,EcoLife,45870.59,25746.46,True
-P000624,Coffee,Grocery,Vision,24902.38,21662.28,False
-P000625,Cap,Fashion,Zenith,22978.71,1742.36,True
-P000626,Coffee,Grocery,Urban,12188.3,10063.31,True
-P000627,Chair,Home,EcoLife,41432.78,16540.51,True
-P000628,Lamp,Home,Zenith,28630.39,17587.4,False
-P000629,Juice,Grocery,Fusion,36427.84,4494.66,False
-P000630,Jeans,Fashion,EcoLife,49638.27,24876.9,True
-P000631,Football,Sports,Fusion,15441.2,22751.52,True
-P000632,Laptop,Electronics,Nova,9526.7,29791.07,False
-P000633,Monitor,Electronics,Nova,22406.2,24331.74,False
-P000634,Perfume,Beauty,EcoLife,31612.53,22566.84,False
-P000635,Juice,Grocery,Nimbus,11317.33,1145.7,True
-P000636,Cream,Beauty,Apex,25279.89,17836.34,False
-P000637,Tennis Racket,Sports,EcoLife,22068.88,12310.51,True
-P000638,Face Wash,Beauty,Urban,3057.33,14269.42,True
-P000639,Tea,Grocery,Urban,19808.88,13277.17,False
-P000640,Yoga Mat,Sports,Urban,33881.39,2739.88,True
-P000641,Perfume,Beauty,Zenith,49896.99,8179.82,False
-P000642,Lipstick,Beauty,Nova,42969.32,24203.64,True
-P000643,Shoes,Fashion,Prime,37764.32,1877.25,False
-P000644,Lamp,Home,Nimbus,49585.6,6811.75,True
-P000645,Lamp,Home,Apex,17331.13,28593.26,True
-P000646,Cricket Bat,Sports,Vision,604.44,27320.09,True
-P000647,Tennis Racket,Sports,Nova,36648.79,6851.65,True
-P000648,Tennis Racket,Sports,Prime,32400.08,8189.3,False
-P000649,Juice,Grocery,Urban,6196.37,10310.81,True
-P000650,Football,Sports,Nova,36034.08,10776.92,True
-P000651,Yoga Mat,Sports,Nimbus,46542.11,5863.97,False
-P000652,Cricket Bat,Sports,Vision,49646.18,3929.08,True
-P000653,Juice,Grocery,Prime,38689.2,23134.8,True
-P000654,Cricket Bat,Sports,Vision,24914.89,5342.58,True
-P000655,Cream,Beauty,Elite,1863.72,24306.9,False
-P000656,Rice,Grocery,Nova,27206.59,17542.82,True
-P000657,Coffee,Grocery,Apex,46786.72,1069.18,False
-P000658,Tablet,Electronics,Vision,9635.26,26612.33,True
-P000659,Rice,Grocery,EcoLife,44373.15,15463.42,True
-P000660,Jacket,Fashion,Elite,6481.34,19387.81,True
-P000661,Jacket,Fashion,Vision,22050.42,17793.63,True
-P000662,Rice,Grocery,Zenith,47478.93,17162.44,False
-P000663,Perfume,Beauty,Fusion,14860.04,25332.31,True
-P000664,Shoes,Fashion,Prime,4883.37,14709.55,True
-P000665,Cricket Bat,Sports,Fusion,14539.35,9730.1,True
-P000666,Juice,Grocery,Vision,32419.88,29724.79,False
-P000667,Lipstick,Beauty,Nimbus,10288.49,21788.54,True
-P000668,Cream,Beauty,Nimbus,1997.01,18116.75,False
-P000669,Snacks,Grocery,Vision,33918.21,2455.06,True
-P000670,Phone,Electronics,Prime,4820.69,15318.79,False
-P000671,Shoes,Fashion,Elite,34078.67,21838.15,True
-P000672,Shirt,Fashion,Fusion,21852.0,26314.68,False
-P000673,Rice,Grocery,Fusion,32346.99,6733.46,True
-P000674,Yoga Mat,Sports,Zenith,4771.65,8970.4,False
-P000675,Table,Home,EcoLife,29220.4,21738.56,True
-P000676,Rice,Grocery,Vision,26434.08,5596.69,True
-P000677,Yoga Mat,Sports,Prime,7719.93,9791.37,False
-P000678,Lamp,Home,Apex,10374.32,20316.1,False
-P000679,Shelf,Home,Nimbus,12932.84,10137.67,True
-P000680,Phone,Electronics,EcoLife,28187.82,9645.53,True
-P000681,Tennis Racket,Sports,Fusion,38956.89,19604.9,True
-P000682,Headphones,Electronics,Nova,25726.03,6555.15,True
-P000683,Chair,Home,Nova,33143.11,22102.22,False
-P000684,Lamp,Home,Fusion,11150.22,22300.01,True
-P000685,Jacket,Fashion,Zenith,10323.9,21149.08,True
-P000686,Table,Home,Apex,45914.4,13587.93,True
-P000687,Perfume,Beauty,Fusion,33409.84,202.4,True
-P000688,Perfume,Beauty,Nova,30200.09,9105.79,False
-P000689,Football,Sports,Zenith,10472.85,25772.79,True
-P000690,Tennis Racket,Sports,Apex,46206.34,13445.86,True
-P000691,Juice,Grocery,EcoLife,17934.46,10923.87,True
-P000692,Headphones,Electronics,Fusion,39768.48,23617.42,True
-P000693,Cream,Beauty,Zenith,4926.7,12474.27,True
-P000694,Snacks,Grocery,Elite,822.5,10534.58,False
-P000695,Sofa,Home,Fusion,21822.92,17260.72,True
-P000696,Jacket,Fashion,Vision,34464.44,29057.48,False
-P000697,Perfume,Beauty,Urban,6625.32,28304.37,True
-P000698,Tea,Grocery,Fusion,21893.48,27555.81,True
-P000699,Cream,Beauty,Zenith,27161.78,26823.17,False
-P000700,Football,Sports,Nimbus,26480.39,22621.86,True
-P000701,Tennis Racket,Sports,Vision,40782.88,10675.07,False
-P000702,Lipstick,Beauty,Nimbus,10794.66,1265.28,True
-P000703,Tea,Grocery,Nova,7574.87,1400.11,False
-P000704,Jacket,Fashion,Nimbus,47619.86,5003.72,True
-P000705,Jeans,Fashion,Urban,12631.65,12200.73,True
-P000706,Chair,Home,Prime,41030.36,20596.58,False
-P000707,Phone,Electronics,EcoLife,22648.48,203.02,True
-P000708,Sofa,Home,,21038.42,8757.58,False
-P000709,Tablet,Electronics,Nimbus,40138.81,6397.53,False
-P000710,Jacket,Fashion,Apex,23031.84,22052.93,True
-P000711,Rice,Grocery,Fusion,4145.08,5363.71,True
-P000712,Phone,Electronics,Nimbus,40825.78,12181.56,True
-P000713,Cap,Fashion,Fusion,35537.02,21343.16,True
-P000714,Snacks,Grocery,Nova,2216.02,24865.01,True
-P000715,Cap,Fashion,Nimbus,11158.38,6539.42,True
-P000716,Face Wash,Beauty,Fusion,163.35,24456.93,True
-P000717,Shirt,Fashion,Nova,8450.78,10195.14,False
-P000718,Shelf,Home,Nova,5385.81,26285.34,True
-P000719,Phone,Electronics,Apex,40551.27,25691.71,True
-P000720,Perfume,Beauty,Urban,27990.94,11573.77,True
-P000721,Lipstick,Beauty,Nimbus,28453.4,17373.03,True
-P000722,Tennis Racket,Sports,Nova,43866.65,10114.49,True
-P000723,Snacks,Grocery,Vision,41682.38,17312.83,False
-P000724,Monitor,Electronics,Fusion,39768.17,14799.03,False
-P000725,Monitor,Electronics,Nova,32136.32,18329.08,True
-P000726,Cream,Beauty,Prime,37585.56,28434.36,True
-P000727,Headphones,Electronics,Elite,30048.11,2557.69,True
-P000728,Table,Home,Elite,38144.07,8419.48,True
-P000729,Table,Home,Nova,28170.63,28263.27,True
-P000730,Laptop,Electronics,Vision,23952.22,20302.86,False
-P000731,Tennis Racket,Sports,EcoLife,27828.0,11591.44,False
-P000732,Cap,Fashion,Nova,19494.13,3231.19,True
-P000733,Cricket Bat,Sports,Nova,32518.36,27509.66,False
-P000734,Lipstick,Beauty,Elite,21523.38,14737.08,True
-P000735, Chair ,Home,Elite,27762.93,1489.59,True
-P000736,Perfume,Beauty,Elite,33394.55,3996.2,True
-P000737,Snacks,Grocery,Nimbus,46315.64,5910.23,True
-P000738,Shoes,Fashion,Nimbus,43753.35,15263.65,False
-P000739,Cream,Beauty,Nova,21516.63,4561.77,True
-P000740,Shoes,Fashion,Nimbus,21580.69,19760.26,True
-P000741,Monitor,Electronics,Fusion,31699.97,17143.08,False
-P000742,Perfume,Beauty,Apex,18029.58,10346.21,True
-P000743,Phone,Electronics,Nova,42143.17,23788.57,True
-P000744,Perfume,Beauty,Fusion,39322.57,23290.42,True
-P000745,Shoes,Fashion,Fusion,42007.76,26299.46,True
-P000746,Snacks,Grocery,Zenith,45361.13,7736.8,True
-P000747,Jacket,Fashion,Nimbus,16351.6,8450.66,True
-P000748,Headphones,Electronics,Nova,29572.07,24356.07,True
-P000749,Perfume,Beauty,Fusion,41402.02,20784.71,False
-P000750,Shoes,Fashion,Fusion,21666.7,16747.18,True
-P000751,Perfume,Beauty,Zenith,12968.79,18271.24,True
-P000752,Tablet,Electronics,Prime,33291.26,19754.86,True
-P000753,Lipstick,Beauty,Zenith,46502.64,29904.55,False
-P000754,Cricket Bat,Sports,Urban,42413.8,20250.76,True
-P000755,Yoga Mat,Sports,Fusion,30280.5,26350.21,True
-P000756,Chair,Home,Elite,19598.23,25707.58,True
-P000757,Cricket Bat,Sports,EcoLife,49022.46,12055.58,False
-P000758,Jacket,Fashion,EcoLife,16076.42,27203.77,True
-P000759,Juice,Grocery,Prime,30476.64,13407.41,False
-P000760,Laptop,Electronics,Fusion,19408.62,23073.4,False
-P000761,Football,Sports,Vision,15491.23,15686.7,True
-P000762,Yoga Mat,Sports,Zenith,32558.3,3791.83,True
-P000763,Cricket Bat,Sports,Zenith,37325.97,24654.53,True
-P000764,Phone,Electronics,Elite,44852.61,24664.7,False
-P000765,Table,Home,Elite,35868.24,4468.15,True
-P000766,Jeans,Fashion,Vision,17076.12,10280.05,False
-P000767,Laptop,Electronics,EcoLife,16119.35,25115.68,True
-P000768,Face Wash,Beauty,Elite,22685.55,3284.61,True
-P000769,Jeans,Fashion,Nova,31334.28,27250.37,True
-P000770,Jeans,Fashion,Elite,9502.05,3614.86,True
-P000771,Jacket,Fashion,Nova,16536.42,28822.36,True
-P000772,Jeans,Fashion,Vision,7556.21,21781.76,True
-P000773,Monitor,Electronics,Elite,44171.26,27644.64,True
-P000774,Jeans,Fashion,Elite,39662.24,8351.05,True
-P000775,Shirt,Fashion,EcoLife,46319.27,14590.05,True
-P000776,Jeans,Fashion,Zenith,43809.95,14477.32,True
-P000777,Tea,Grocery,Nova,37840.61,2945.23,True
-P000778,Cricket Bat,Sports,Vision,4727.2,14787.98,True
-P000779,Perfume,Beauty,Nova,48009.69,24130.35,False
-P000780,Sofa,Home,Prime,48673.86,10346.92,False
-P000781,Face Wash,Beauty,Vision,33996.21,10880.58,False
-P000782,Tennis Racket,Sports,Urban,43355.4,12539.49,True
-P000783,Cream,Beauty,Vision,37474.37,29764.61,True
-P000784,Shoes,Fashion,Apex,37417.82,3891.43,True
-P000785,Sofa,Home,Elite,3473.66,14004.94,True
-P000786,Perfume,Beauty,Urban,2398.52,7523.36,True
-P000787,Jeans,Fashion,EcoLife,36837.21,5641.3,False
-P000788,Chair,Home,Apex,22124.9,14210.81,False
-P000789,Football,Sports,EcoLife,6512.35,16402.16,False
-P000790,Shoes,Fashion,EcoLife,22392.63,21702.62,True
-P000791,Headphones,Electronics,Urban,10459.6,20536.23,True
-P000792,Juice,Grocery,EcoLife,18059.4,5727.99,True
-P000793,Coffee,Grocery,Fusion,6506.89,19717.18,True
-P000794,Tennis Racket,Sports,Elite,12920.54,28643.12,True
-P000795,Laptop,Electronics,Nova,40282.94,2494.51,True
-P000796,Jeans,Fashion,Nimbus,39443.84,17945.2,True
-P000797,Jacket,Fashion,Apex,13633.92,6182.01,True
-P000798,Face Wash,Beauty,Elite,40557.63,20521.58,True
-P000799,Table,Home,Vision,44369.48,23575.46,False
-P000800,Shelf,Home,Fusion,42115.81,14048.73,True
-P000801,Laptop,Electronics,Vision,39611.99,9111.21,True
-P000802,Cap,Fashion,Nimbus,24867.09,22179.84,True
-P000803,Face Wash,Beauty,Elite,36709.72,15728.61,True
-P000804,Yoga Mat,Sports,Nova,47406.7,29879.46,True
-P000805,Tablet,Electronics,Nimbus,29579.1,14999.28,True
-P000806,Lamp,Home,Fusion,48883.77,6626.74,True
-P000807,Tennis Racket,Sports,Nimbus,43387.52,28579.71,True
-P000808,Chair,Home,Prime,8452.22,6911.9,True
-P000809,Cap,Fashion,Nova,46476.01,13197.21,True
-P000810,Cricket Bat,Sports,Elite,49029.97,21968.48,True
-P000811,Yoga Mat,Sports,Apex,23045.6,21705.56,False
-P000812,Shirt,Fashion,Zenith,998.14,12110.55,False
-P000813,Jacket,Fashion,Nova,286.22,29011.03,False
-P000814,Coffee,Grocery,Prime,42754.89,16511.25,True
-P000815,Phone,Electronics,EcoLife,6440.25,17451.8,True
-P000816,Face Wash,Beauty,EcoLife,8335.15,16690.13,True
-P000817,Cricket Bat,Sports,Fusion,13145.26,23723.8,True
-P000818,Chair,Home,Apex,36123.93,10836.59,False
-P000819,Cream,Beauty,Nova,45016.68,12056.56,False
-P000820,Tablet,Electronics,EcoLife,17680.49,6986.81,True
-P000821,Sofa,Home,Apex,10358.64,10234.55,True
-P000822,Perfume,Beauty,Elite,48332.68,19751.82,False
-P000823,Shirt,Fashion,Prime,48346.89,5480.4,True
-P000824,Cricket Bat,Sports,Zenith,27910.78,2696.03,True
-P000825,Cap,Fashion,Vision,39485.3,7609.99,True
-P000826,Headphones,Electronics,Urban,29011.27,27775.2,True
-P000827,Lipstick,Beauty,Prime,3755.25,7439.98,True
-P000828,Phone,Electronics,Fusion,9751.72,20695.96,True
-P000829,Face Wash,Beauty,Prime,24494.17,13863.42,False
-P000830,Yoga Mat,Sports,Urban,28441.01,10858.36,False
-P000831,Phone,Electronics,Apex,4556.01,7742.32,True
-P000832,Lipstick,Beauty,Vision,38744.05,29876.5,True
-P000833,Lipstick,Beauty,Prime,21674.42,14767.1,True
-P000834,Table,Home,Nimbus,30385.91,20403.33,False
-P000835,Football,Sports,Urban,43307.74,1043.08,True
-P000836,Phone,Electronics,Nimbus,5402.49,9273.05,True
-P000837,Shoes,Fashion,Prime,37494.25,12410.31,True
-P000838,Cricket Bat,Sports,Elite,13151.27,17571.53,True
-P000839,Laptop,Electronics,EcoLife,47542.97,2962.6,False
-P000840,Jacket,Fashion,Nimbus,1025.55,25185.41,True
-P000841,Jacket,Fashion,Vision,26562.75,27668.02,False
-P000842,Yoga Mat,Sports,Zenith,33348.71,11643.78,True
-P000843,Monitor,Electronics,Fusion,5996.76,24038.86,True
-P000844,Cricket Bat,Sports,Fusion,15347.08,20255.07,True
-P000845,Cap,Fashion,Fusion,28423.93,13193.01,True
-P000846,Shoes,Fashion,Nimbus,49210.52,3151.57,True
-P000847,Jacket,Fashion,,9853.92,23058.21,False
-P000848,Football,Sports,Elite,5870.01,10102.5,True
-P000849,Yoga Mat,Sports,Vision,31304.98,5527.47,False
-P000850,Monitor,Electronics,Fusion,25448.02,12218.71,False
-P000851,Laptop,Electronics,EcoLife,17216.82,18168.26,True
-P000852,Cap,Fashion,Fusion,49316.87,14391.54,True
-P000853,Table,Home,Fusion,13762.95,26517.06,True
-P000854,Lamp,Home,Vision,7604.0,11898.62,False
-P000855,Juice,Grocery,Urban,29766.95,24263.83,True
-P000856,Tea,Grocery,EcoLife,22278.05,22255.43,False
-P000857,Lipstick,Beauty,Nimbus,31687.36,29174.79,True
-P000858,Shoes,Fashion,Vision,13826.3,13328.41,True
-P000859,Shirt,Fashion,Prime,12734.07,23250.85,True
-P000860,Yoga Mat,Sports,Prime,30065.74,216.53,True
-P000861,Snacks,Grocery,Nimbus,19978.35,26360.92,True
-P000862,Shirt,Fashion,Vision,22102.22,24451.51,True
-P000863,Perfume,Beauty,Zenith,26296.36,11269.2,True
-P000864,Shelf,Home,Urban,46253.15,17431.36,True
-P000865,Snacks,Grocery,Elite,12458.97,18045.03,True
-P000866,Snacks,Grocery,Nova,34861.71,8337.05,True
-P000867,Cricket Bat,Sports,Zenith,10530.69,29029.33,True
-P000868,Tablet,Electronics,Nova,36113.36,11620.4,True
-P000869,Tea,Grocery,Nova,15779.88,1424.39,True
-P000870,Tennis Racket,Sports,EcoLife,11600.0,16012.24,False
-P000871,Table,Home,Apex,46233.81,14045.01,False
-P000872,Jacket,Fashion,Fusion,37303.79,7466.82,True
-P000873,Cricket Bat,Sports,Nimbus,31004.62,7970.47,True
-P000874,Cream,Beauty,Nova,35464.74,22749.28,True
-P000875,Laptop,Electronics,Elite,1155.3,18867.15,False
-P000876,Headphones,Electronics,EcoLife,5597.73,26221.88,True
-P000877,Headphones,Electronics,Apex,48839.99,7908.01,False
-P000878,Yoga Mat,Sports,Vision,25966.64,29875.56,True
-P000879,Football,Sports,Apex,12655.4,26688.92,False
-P000880,Tea,Grocery,Apex,35320.14,14218.1,True
-P000881,Shirt,Fashion,Urban,33467.2,23067.59,True
-P000882,Football,Sports,Prime,38050.26,918.35,False
-P000883,Face Wash,Beauty,Urban,21692.39,14139.84,False
-P000884,Monitor,Electronics,Elite,47077.84,18011.44,True
-P000885,Juice,Grocery,Elite,43148.5,17121.06,True
-P000886,Lamp,Home,Zenith,12752.33,17966.74,True
-P000887,Rice,Grocery,Vision,45470.41,7491.39,False
-P000888,Face Wash,Beauty,Nova,16789.86,20818.04,True
-P000889,Football,Sports,Nova,31435.63,22627.37,True
-P000890,Laptop,Electronics,Fusion,13439.67,14903.94,False
-P000891,Cream,Beauty,EcoLife,34068.44,9076.65,True
-P000892,Cream,Beauty,Nova,11477.1,15550.46,True
-P000893,Cricket Bat,Sports,Fusion,46491.86,9890.47,True
-P000894,Rice,Grocery,Apex,43894.28,18624.72,False
-P000895,Shelf,Home,Nova,30755.52,5714.81,False
-P000896,Cream,Beauty,Fusion,40199.07,7727.05,True
-P000897, Yoga Mat ,Sports,EcoLife,16348.54,18744.04,True
-P000898,Shoes,Fashion,Nova,27586.21,19786.72,True
-P000899,Snacks,Grocery,Vision,1295.35,29875.65,True
-P000900,Tennis Racket,Sports,Fusion,353.44,21411.72,True
-P000901,Lamp,Home,Nimbus,31287.23,1669.85,True
-P000902,Table,Home,Nova,44956.75,18231.2,False
-P000903,Cricket Bat,Sports,Vision,1164.41,18031.9,True
-P000904,Sofa,Home,Fusion,17695.95,29073.14,True
-P000905,Headphones,Electronics,Nimbus,32169.09,3564.32,True
-P000906,Shirt,Fashion,Prime,34162.6,6293.99,True
-P000907,Laptop,Electronics,Prime,43332.45,18857.27,True
-P000908,Chair,Home,EcoLife,48821.97,9824.42,True
-P000909,Jeans,Fashion,Vision,4011.47,28423.75,True
-P000910,Rice,Grocery,Fusion,46670.69,3833.14,True
-P000911,Cap,Fashion,Elite,39109.93,1024.35,True
-P000912, Tablet ,Electronics,Apex,26581.26,21279.06,True
-P000913,Lipstick,Beauty,Zenith,37848.71,14588.13,False
-P000914,Shelf,Home,EcoLife,47064.49,4553.31,True
-P000915,Tea,Grocery,Vision,26360.71,3194.09,True
-P000916,Cream,Beauty,Zenith,7352.45,20370.81,True
-P000917,Tennis Racket,Sports,Prime,29385.39,26048.8,True
-P000918,Lipstick,Beauty,Prime,43554.05,10985.63,False
-P000919,Juice,Grocery,EcoLife,39193.78,19858.43,True
-P000920,Shoes,Fashion,Nimbus,2146.83,1656.45,True
-P000921,Face Wash,Beauty,Nimbus,16484.41,9134.78,False
-P000922,Football,Sports,Urban,843.16,21272.79,True
-P000923,Lipstick,Beauty,Nimbus,36998.61,26549.02,True
-P000924,Rice,Grocery,EcoLife,28648.22,19649.49,True
-P000925,Tennis Racket,Sports,Nova,11942.62,10006.46,False
-P000926,Tennis Racket,Sports,,39214.33,18059.96,True
-P000927,Shoes,Fashion,EcoLife,25587.9,25771.15,True
-P000928,Coffee,Grocery,Zenith,21988.1,9925.57,False
-P000929,Yoga Mat,Sports,Zenith,13648.32,17254.0,True
-P000930,Shoes,Fashion,Elite,6396.93,15453.72,True
-P000931,Cap,Fashion,Vision,24178.12,14124.62,True
-P000932,Headphones,Electronics,Nova,35563.67,26231.27,True
-P000933,Lipstick,Beauty,EcoLife,41623.18,17097.26,False
-P000934,Tennis Racket,Sports,Elite,21875.21,4020.53,True
-P000935,Yoga Mat,Sports,Elite,7786.5,10952.21,True
-P000936,Shirt,Fashion,Prime,38848.51,12956.23,True
-P000937,Perfume,Beauty,Fusion,15126.18,23478.04,True
-P000938,Cricket Bat,Sports,Zenith,19925.31,5960.46,True
-P000939,Shoes,Fashion,Elite,34702.2,6098.65,True
-P000940,Football,Sports,Nova,17015.34,28813.45,True
-P000941,Cream,Beauty,Apex,17724.29,18693.49,True
-P000942,Jacket,Fashion,Prime,47915.14,12747.68,True
-P000943,Sofa,Home,Zenith,34997.84,25826.26,False
-P000944,Football,Sports,EcoLife,41036.57,18402.21,True
-P000945,Cap,Fashion,Elite,1595.47,12550.39,True
-P000946,Jeans,Fashion,Elite,23735.1,11148.18,True
-P000947,Juice,Grocery,EcoLife,16120.89,4802.33,False
-P000948,Cream,Beauty,Vision,19609.36,11542.28,True
-P000949,Cream,Beauty,Elite,33444.66,12636.01,True
-P000950,Rice,Grocery,Elite,1767.26,11185.58,True
-P000951,Perfume,Beauty,Elite,5490.54,25244.51,True
-P000952,Phone,Electronics,Fusion,14323.27,1037.7,True
-P000953,Coffee,Grocery,Vision,47027.51,13031.2,False
-P000954,Perfume,Beauty,Prime,45491.39,19987.4,True
-P000955,Face Wash,Beauty,EcoLife,8561.03,19663.75,True
-P000956,Cream,Beauty,EcoLife,14927.99,28580.12,False
-P000957,Perfume,Beauty,Fusion,38668.95,12996.69,True
-P000958,Tea,Grocery,Prime,36983.5,16333.14,True
-P000959,Perfume,Beauty,Prime,14767.91,22298.59,False
-P000960,Tennis Racket,Sports,Zenith,13976.89,21851.53,False
-P000961,Shoes,Fashion,Nova,12957.09,19464.91,True
-P000962,Coffee,Grocery,Zenith,30003.62,13051.11,True
-P000963,Tennis Racket,Sports,EcoLife,4736.93,20807.04,False
-P000964,Tennis Racket,Sports,Apex,30508.26,5104.5,False
-P000965,Face Wash,Beauty,Elite,15367.17,28498.68,False
-P000966,Cream,Beauty,Nimbus,30868.57,10082.04,True
-P000967,Shoes,Fashion,Fusion,20228.43,19625.15,True
-P000968,Lipstick,Beauty,Nova,47083.26,18816.83,True
-P000969,Face Wash,Beauty,Apex,38307.05,17695.04,False
-P000970,Football,Sports,Elite,33098.28,16156.35,True
-P000971,Cream,Beauty,Vision,33282.95,19515.3,True
-P000972,Jacket,Fashion,EcoLife,24583.2,5612.88,True
-P000973,Lamp,Home,Vision,11597.15,21224.73,True
-P000974,Headphones,Electronics,Elite,10267.26,12439.53,True
-P000975,Snacks,Grocery,Urban,24839.04,7376.0,True
-P000976,Shoes,Fashion,Nimbus,19313.6,24012.48,True
-P000977,Juice,Grocery,Fusion,32621.13,19999.23,True
-P000978,Yoga Mat,Sports,EcoLife,33882.37,1670.65,True
-P000979,Shirt,Fashion,Prime,45836.54,19134.18,False
-P000980,Juice,Grocery,Apex,31993.47,28222.14,True
-P000981,Lamp,Home,Vision,8363.88,1140.81,False
-P000982,Tablet,Electronics,Fusion,17821.07,26490.17,True
-P000983,Chair,Home,Nova,14662.78,2679.01,False
-P000984,Tennis Racket,Sports,Zenith,35796.41,25970.49,True
-P000985,Phone,Electronics,Urban,4232.82,17254.44,True
-P000986,Rice,Grocery,Urban,20501.51,18839.12,True
-P000987,Sofa,Home,EcoLife,16043.27,16325.52,True
-P000988,Table,Home,Prime,-1.0,15046.09,False
-P000989,Yoga Mat,Sports,Vision,9389.72,14724.56,True
-P000990,Jeans,Fashion,Vision,10302.32,2918.87,False
-P000991,Monitor,Electronics,Nimbus,48530.08,22113.52,False
-P000992,Laptop,Electronics,Urban,7639.95,18114.01,True
-P000993,Jacket,Fashion,Apex,29060.9,23010.34,True
-P000994,Perfume,Beauty,Urban,42377.51,14218.79,True
-P000995,Cap,Fashion,Nimbus,21517.8,28726.48,True
-P000996,Sofa,Home,EcoLife,41099.39,1390.18,True
-P000997,Juice,Grocery,Zenith,36605.51,22273.26,True
-P000998,Phone,Electronics,Nova,21462.52,374.64,True
-P000999,Chair,Home,Fusion,27533.01,13700.44,True
-P001000,Lamp,Home,Elite,14197.56,13437.99,True
+product_id,product_name,category,brand,popularity_score,inventory_quantity,supplier_name,unit_price,cost_price,is_active
+P000001,Perfume,Beauty,Zenith,0.551,1236,Vertex Imports,228.92,12660.98,False
+P000002,Snacks,Grocery,Fusion,0.401,192,Apex Manufacturing,7449.36,8494.07,False
+P000003,Perfume,Beauty,Apex,0.312,798,Retail Source India,11196.28,6824.34,True
+P000004,Yoga Mat,Sports,Urban,0.78,525,Retail Source India,21527.05,8990.39,True
+P000005,Football,Sports,Vision,0.687,41,Apex Manufacturing,39252.91,7542.67,True
+P000006,Lipstick,Beauty,Zenith,0.705,469,Vertex Imports,6621.35,24439.8,True
+P000007,Snacks,Grocery,Zenith,0.724,252,Retail Source India,3550.65,25908.12,True
+P000008,Table,Home,EcoLife,0.358,801,Apex Manufacturing,47728.79,13898.03,True
+P000009,Monitor,Electronics,Vision,0.261,509,Apex Manufacturing,36458.41,23439.72,True
+P000010,Table,Home,Nova,0.356,231,Apex Manufacturing,28612.2,27880.21,True
+P000011,Lipstick,Beauty,Zenith,0.544,565,Retail Source India,622.18,25951.94,True
+P000012,Lamp,Home,Urban,0.652,1031,Vertex Imports,9686.99,25183.92,True
+P000013,Phone,Electronics,Zenith,0.449,668,Global Supplies Ltd,24052.9,10175.25,True
+P000014,Cricket Bat,Sports,Urban,0.335,333,Global Supplies Ltd,15282.48,27225.02,True
+P000015,Shelf,Home,Vision,0.405,1170,Vertex Imports,18445.4,28547.8,False
+P000016,Lipstick,Beauty,Vision,0.525,1234,Apex Manufacturing,5088.32,27871.97,True
+P000017,Tennis Racket,Sports,Vision,0.197,841,Retail Source India,22649.87,1756.67,True
+P000018,Laptop,Electronics,Fusion,0.107,190,Apex Manufacturing,12743.16,24284.08,True
+P000019,Chair,Home,Fusion,0.659,236,Retail Source India,22731.92,24990.21,False
+P000020,Yoga Mat,Sports,Fusion,0.816,19,Apex Manufacturing,14062.78,9339.41,False
+P000021,Tea,Grocery,Vision,0.807,1308,Apex Manufacturing,38039.18,1385.99,True
+P000022,Chair,Home,Fusion,0.756,1479,Apex Manufacturing,16733.22,22660.16,False
+P000023,Cap,Fashion,Urban,0.328,0,Vertex Imports,27187.97,26912.31,True
+P000024,Cream,Beauty,Zenith,0.745,444,Global Supplies Ltd,27115.92,29725.27,False
+P000025,Monitor,Electronics,Apex,0.378,105,Apex Manufacturing,29758.14,25468.87,True
+P000026,Lipstick,Beauty,Apex,0.784,846,Global Supplies Ltd,5348.79,1584.19,False
+P000027,Cricket Bat,Sports,Zenith,0.541,1379,Vertex Imports,20974.55,13866.97,False
+P000028,Chair,Home,Nimbus,0.424,1038,Vertex Imports,13491.32,29669.97,True
+P000029,Sofa,Home,Nimbus,0.631,1403,Apex Manufacturing,26468.39,10498.8,False
+P000030,Headphones,Electronics,Fusion,0.744,1492,Retail Source India,9181.62,25971.78,False
+P000031,Phone,Electronics,Prime,0.872,1122,Apex Manufacturing,1785.12,23037.52,False
+P000032,Yoga Mat,Sports,Zenith,0.68,959,Global Supplies Ltd,37867.75,6193.36,False
+P000033,Table,Home,Zenith,0.608,376,Apex Manufacturing,3580.98,23570.47,True
+P000034,Tennis Racket,Sports,Urban,0.336,1134,Retail Source India,21030.2,5663.57,True
+P000035,Cricket Bat,Sports,Prime,0.487,335,Prime Distribution,9710.36,28252.14,True
+P000036,Headphones,Electronics,Vision,0.69,470,Vertex Imports,14068.16,725.6,False
+P000037,Snacks,Grocery,Fusion,0.664,529,Prime Distribution,34034.54,119.07,True
+P000038,Rice,Grocery,Urban,0.589,802,Vertex Imports,38948.55,17983.63,True
+P000039,Sofa,Home,Vision,0.616,99,Global Supplies Ltd,39294.95,25851.5,True
+P000040, Jeans ,Fashion,EcoLife,0.523,1088,Apex Manufacturing,39015.63,10252.25,True
+P000041,Monitor,Electronics,EcoLife,0.773,524,Prime Distribution,18169.29,28894.41,True
+P000042,Face Wash,Beauty,Urban,0.456,909,Apex Manufacturing,38030.62,9115.36,True
+P000043,Shirt,Fashion,Nova,0.615,868,Retail Source India,26548.7,28819.53,False
+P000044,Headphones,Electronics,Nova,0.44,1208,Prime Distribution,8522.31,7510.74,True
+P000045,Football,Sports,Elite,0.693,1468,Vertex Imports,28053.11,28935.52,True
+P000046,Lipstick,Beauty,Prime,0.649,966,Retail Source India,26271.73,14546.88,False
+P000047,Lamp,Home,Elite,0.459,322,Vertex Imports,28412.46,23926.25,True
+P000048,Face Wash,Beauty,Zenith,0.859,1182,Apex Manufacturing,15554.5,3489.92,True
+P000049,Chair,Home,Prime,0.65,1037,Global Supplies Ltd,23603.27,630.61,True
+P000050,Rice,Grocery,EcoLife,0.619,693,Global Supplies Ltd,7588.14,685.01,True
+P000051,Juice,Grocery,Nova,0.284,1001,Vertex Imports,14948.12,28416.11,True
+P000052,Football,Sports,Zenith,0.692,1348,Global Supplies Ltd,2872.13,26646.98,False
+P000053,Football,Sports,Zenith,0.511,36,Global Supplies Ltd,17840.03,12202.33,False
+P000054,Shirt,Fashion,Nova,0.441,1477,Apex Manufacturing,2864.57,16059.89,True
+P000055,Shoes,Fashion,Vision,0.416,1173,Vertex Imports,25433.66,14827.67,True
+P000056,Tea,Grocery,Fusion,0.646,1319,Global Supplies Ltd,21369.61,23878.85,True
+P000057,Jeans,Fashion,Nimbus,0.37,275,Apex Manufacturing,24322.79,8073.34,True
+P000058,Lipstick,Beauty,Nimbus,0.699,14,Global Supplies Ltd,18312.63,21684.89,False
+P000059,Cricket Bat,Sports,Zenith,0.717,56,Retail Source India,6543.42,2254.74,True
+P000060,Laptop,Electronics,EcoLife,0.371,1482,Vertex Imports,6403.76,6844.0,True
+P000061,Cream,Beauty,Nova,0.8,1178,Prime Distribution,37722.15,17585.44,True
+P000062,Face Wash,Beauty,Urban,0.647,1293,Vertex Imports,45732.83,24326.09,True
+P000063,Yoga Mat,Sports,Nimbus,0.705,170,Vertex Imports,30116.94,29209.19,False
+P000064,Jacket,Fashion,Zenith,0.499,226,Vertex Imports,45745.54,9005.85,False
+P000065,Sofa,Home,Prime,0.556,708,Retail Source India,4078.45,27774.0,True
+P000066,Rice,Grocery,Apex,0.709,962,Apex Manufacturing,11858.16,27723.93,False
+P000067,Juice,Grocery,Zenith,0.388,528,Vertex Imports,9644.34,9206.21,True
+P000068,Shoes,Fashion,Zenith,0.637,337,Retail Source India,48726.86,11322.93,False
+P000069,Phone,Electronics,Fusion,0.758,629,Prime Distribution,44726.92,26003.14,True
+P000070,Lamp,Home,Nimbus,0.227,463,Vertex Imports,46411.98,19435.86,True
+P000071,Chair,Home,Nimbus,0.82,103,Global Supplies Ltd,36077.65,17050.34,True
+P000072, Perfume ,Beauty,Urban,0.617,978,Apex Manufacturing,6459.5,26375.48,False
+P000073,Tennis Racket,Sports,Prime,0.339,535,Retail Source India,7774.11,1039.94,False
+P000074,Perfume,Beauty,Nimbus,0.761,1470,Vertex Imports,46155.33,18904.4,True
+P000075,Headphones,Electronics,Prime,0.607,222,Global Supplies Ltd,37631.89,5571.18,True
+P000076,Cricket Bat,Sports,Elite,0.465,672,Apex Manufacturing,28621.74,23649.39,True
+P000077,Rice,Grocery,Apex,0.339,1250,Prime Distribution,10949.64,9932.28,True
+P000078,Yoga Mat,Sports,Prime,0.374,1103,Prime Distribution,41719.8,28886.67,True
+P000079,Cream,Beauty,Fusion,0.855,985,Apex Manufacturing,39882.79,2518.48,True
+P000080,Shelf,Home,Nova,0.776,340,Apex Manufacturing,38480.49,4947.6,True
+P000081,Tennis Racket,Sports,Vision,0.567,21,Global Supplies Ltd,36013.18,4340.32,True
+P000082,Perfume,Beauty,,0.586,928,Apex Manufacturing,3470.93,25229.3,True
+P000083,Shirt,Fashion,EcoLife,0.62,1445,Vertex Imports,15973.13,19776.83,True
+P000084,Snacks,Grocery,Prime,0.703,255,Apex Manufacturing,31000.24,17980.8,True
+P000085,Coffee,Grocery,Urban,0.788,548,Retail Source India,11309.23,5933.76,True
+P000086,Tea,Grocery,Nimbus,0.163,654,Prime Distribution,36993.15,20172.47,True
+P000087,Coffee,Grocery,EcoLife,0.608,1421,Prime Distribution,16785.26,5983.93,True
+P000088,Chair,Home,Zenith,0.443,697,Prime Distribution,31490.66,25155.8,True
+P000089,Laptop,Electronics,Vision,0.58,207,Prime Distribution,7711.1,22756.68,True
+P000090,Tablet,Electronics,EcoLife,0.549,1463,Apex Manufacturing,7948.4,7289.74,True
+P000091,Phone,Electronics,Elite,0.566,257,Prime Distribution,41092.82,9833.27,True
+P000092,Tennis Racket,Sports,Urban,0.888,664,Retail Source India,42974.05,1671.46,True
+P000093,Snacks,Grocery,Nova,0.476,311,Vertex Imports,47320.54,11828.44,True
+P000094,Tablet,Electronics,Prime,0.547,762,Global Supplies Ltd,6666.64,7015.48,True
+P000095,Tennis Racket,Sports,Elite,0.674,510,Vertex Imports,45180.59,10511.43,True
+P000096,Tea,Grocery,Nimbus,0.904,140,Retail Source India,35676.24,14139.86,True
+P000097,Coffee,Grocery,Urban,0.538,248,Apex Manufacturing,21668.91,6956.89,True
+P000098,Jeans,Fashion,Nova,0.805,881,Global Supplies Ltd,37274.53,4067.13,True
+P000099,Tea,Grocery,EcoLife,0.711,1466,Apex Manufacturing,11948.58,3986.13,True
+P000100,Cricket Bat,Sports,Elite,0.506,592,Prime Distribution,2831.27,18233.05,False
+P000101,Face Wash,Beauty,Fusion,0.679,943,Global Supplies Ltd,15372.99,20590.87,False
+P000102,Monitor,Electronics,EcoLife,0.217,1214,Global Supplies Ltd,5554.28,2405.49,True
+P000103,Tennis Racket,Sports,Nova,0.748,1228,Prime Distribution,24331.05,15427.66,True
+P000104,Lipstick,Beauty,Nova,0.482,800,Global Supplies Ltd,19355.1,7330.04,True
+P000105,Yoga Mat,Sports,Zenith,0.736,721,Global Supplies Ltd,26419.37,20567.29,False
+P000106,Perfume,Beauty,Urban,0.696,1353,Retail Source India,19152.29,29798.17,True
+P000107,Cricket Bat,Sports,EcoLife,0.201,981,Prime Distribution,35755.33,4739.96,True
+P000108,Tea,Grocery,EcoLife,0.323,1369,Vertex Imports,22426.69,18986.6,False
+P000109,Table,Home,Apex,0.159,1056,Prime Distribution,36384.87,21372.03,True
+P000110,Perfume,Beauty,Fusion,0.684,1065,Retail Source India,29241.02,29659.94,True
+P000111,Tablet,Electronics,Urban,0.926,1244,Retail Source India,10300.54,13870.45,True
+P000112,Jeans,Fashion,Apex,0.663,890,Apex Manufacturing,26390.07,21710.37,False
+P000113,Shirt,Fashion,EcoLife,0.524,1006,Global Supplies Ltd,4291.65,9164.44,False
+P000114,Phone,Electronics,Nimbus,0.78,823,Prime Distribution,49845.93,7505.87,True
+P000115,Perfume,Beauty,Zenith,0.423,300,Global Supplies Ltd,36015.98,4084.35,True
+P000116,Cricket Bat,Sports,Vision,0.45,961,Apex Manufacturing,24157.34,7296.53,True
+P000117,Phone,Electronics,EcoLife,0.616,1212,Prime Distribution,41998.5,3276.55,True
+P000118,Cream,Beauty,Prime,0.142,211,Prime Distribution,13204.8,1774.43,True
+P000119,Shirt,Fashion,Nova,0.712,700,Vertex Imports,-1.0,988.95,True
+P000120,Tea,Grocery,EcoLife,0.807,1163,Apex Manufacturing,20132.93,13774.52,False
+P000121,Table,Home,Elite,0.56,27,Prime Distribution,39936.87,23169.58,True
+P000122,Perfume,Beauty,Nova,0.185,1188,Global Supplies Ltd,14623.38,9420.5,True
+P000123,Face Wash,Beauty,Nova,0.622,1462,Vertex Imports,-1.0,29748.11,False
+P000124,Cap,Fashion,Fusion,0.759,312,Retail Source India,30997.94,20810.95,True
+P000125,Phone,Electronics,Fusion,0.373,689,Prime Distribution,22671.85,9852.83,False
+P000126,Laptop,Electronics,Prime,0.458,265,Prime Distribution,44842.32,8644.75,True
+P000127,Tennis Racket,Sports,Zenith,0.813,209,Prime Distribution,18035.34,19795.89,True
+P000128,Shirt,Fashion,EcoLife,0.812,339,Retail Source India,44139.83,408.57,True
+P000129,Cricket Bat,Sports,Nova,0.737,235,Prime Distribution,10953.74,3856.34,True
+P000130,Jeans,Fashion,Nimbus,0.2,1140,Apex Manufacturing,40002.9,12517.71,True
+P000131,Table,Home,Nimbus,0.513,1129,Vertex Imports,15207.03,4701.02,True
+P000132,Lamp,Home,Apex,0.729,305,Vertex Imports,26880.89,25099.94,True
+P000133,Rice,Grocery,Zenith,0.445,157,Vertex Imports,18412.86,6829.59,True
+P000134,Monitor,Electronics,Nova,0.73,778,Apex Manufacturing,31601.79,24374.59,True
+P000135,Tablet,Electronics,Vision,0.717,837,Global Supplies Ltd,19223.42,783.99,False
+P000136,Monitor,Electronics,Nimbus,0.801,254,Global Supplies Ltd,40747.68,24136.91,True
+P000137,Coffee,Grocery,Fusion,0.898,1385,Retail Source India,7236.43,9148.03,False
+P000138,Cricket Bat,Sports,Vision,0.489,92,Prime Distribution,13165.5,8463.07,True
+P000139,Phone,Electronics,Elite,0.885,1151,Global Supplies Ltd,15671.32,28465.88,True
+P000140,Headphones,Electronics,Vision,0.373,1302,Global Supplies Ltd,22302.22,17638.03,True
+P000141,Shirt,Fashion,Nova,0.628,848,Global Supplies Ltd,28668.98,8282.97,True
+P000142,Cricket Bat,Sports,Apex,0.713,1030,Apex Manufacturing,26375.7,2122.81,True
+P000143,Phone,Electronics,Urban,0.763,798,Vertex Imports,15803.65,3798.04,True
+P000144,Cricket Bat,Sports,Zenith,0.681,111,Apex Manufacturing,36309.63,868.28,True
+P000145,Football,Sports,Nimbus,0.696,1256,Retail Source India,22543.9,18147.84,True
+P000146,Lamp,Home,Vision,0.561,1259,Vertex Imports,4539.18,24483.82,False
+P000147,Shirt,Fashion,Fusion,0.156,343,Apex Manufacturing,37977.97,13555.06,True
+P000148,Headphones,Electronics,EcoLife,0.224,1001,Apex Manufacturing,12147.65,20579.08,True
+P000149,Laptop,Electronics,EcoLife,0.683,1318,Vertex Imports,14836.6,23614.82,True
+P000150,Shirt,Fashion,Nova,0.558,591,Global Supplies Ltd,3165.5,13252.33,False
+P000151,Cricket Bat,Sports,EcoLife,0.552,1301,Retail Source India,40833.8,17748.71,True
+P000152,Perfume,Beauty,Nova,0.844,504,Apex Manufacturing,40425.37,809.33,True
+P000153,Tennis Racket,Sports,Nova,0.758,910,Apex Manufacturing,47489.24,22968.31,True
+P000154,Coffee,Grocery,Nimbus,0.852,1219,Prime Distribution,40466.34,24485.4,True
+P000155,Cricket Bat,Sports,Elite,0.873,151,Apex Manufacturing,5420.19,21119.35,False
+P000156,Monitor,Electronics,Apex,0.69,348,Global Supplies Ltd,13475.67,8847.05,True
+P000157,Jacket,Fashion,Fusion,0.596,465,Prime Distribution,11741.35,19876.28,True
+P000158,Tea,Grocery,Fusion,0.94,701,Vertex Imports,47012.15,6902.91,True
+P000159,Tennis Racket,Sports,Nova,0.792,1488,Prime Distribution,18073.64,27210.8,True
+P000160,Shoes,Fashion,Nimbus,0.673,787,Apex Manufacturing,48999.34,6472.55,False
+P000161,Rice,Grocery,Nimbus,0.614,934,Prime Distribution,5277.91,13660.18,True
+P000162,Tennis Racket,Sports,Prime,0.476,1014,Prime Distribution,46461.81,5922.48,True
+P000163,Cream,Beauty,Urban,0.915,498,Retail Source India,7756.35,14400.91,False
+P000164,Cream,Beauty,Elite,0.466,160,Prime Distribution,13746.63,6062.71,True
+P000165, Yoga Mat ,Sports,Fusion,0.591,68,Apex Manufacturing,392.59,10946.93,True
+P000166,Yoga Mat,Sports,Urban,0.605,256,Global Supplies Ltd,44053.73,3686.98,True
+P000167,Shirt,Fashion,Nimbus,0.659,384,Vertex Imports,37530.76,11824.69,False
+P000168,Lamp,Home,EcoLife,0.729,917,Global Supplies Ltd,5171.05,8914.32,True
+P000169,Jeans,Fashion,Vision,0.681,486,Vertex Imports,33104.46,14289.31,True
+P000170,Tea,Grocery,Fusion,0.564,1194,Prime Distribution,18169.58,3827.99,True
+P000171,Shirt,Fashion,Prime,0.559,109,Global Supplies Ltd,2490.73,2452.12,True
+P000172,Juice,Grocery,Nova,0.285,669,Apex Manufacturing,3782.6,2158.88,False
+P000173,Sofa,Home,Apex,0.913,1276,Retail Source India,4186.84,28429.39,True
+P000174,Laptop,Electronics,EcoLife,0.634,1341,Prime Distribution,26589.7,9123.51,False
+P000175,Lipstick,Beauty,EcoLife,0.813,979,Prime Distribution,9912.44,27968.42,True
+P000176,Phone,Electronics,Apex,0.643,1011,Apex Manufacturing,47439.51,7388.11,False
+P000177,Cap,Fashion,Fusion,0.266,283,Prime Distribution,49392.51,23174.4,True
+P000178,Chair,Home,,0.757,1077,Apex Manufacturing,41115.17,3690.85,False
+P000179,Tablet,Electronics,Vision,0.798,318,Prime Distribution,20731.65,22949.08,False
+P000180,Perfume,Beauty,EcoLife,0.405,1281,Retail Source India,29593.64,12444.12,False
+P000181,Football,Sports,Vision,0.363,1182,Global Supplies Ltd,35679.55,22038.47,True
+P000182,Shirt,Fashion,EcoLife,0.365,1300,Apex Manufacturing,40271.66,27349.7,True
+P000183,Yoga Mat,Sports,Vision,0.604,532,Retail Source India,42301.15,17051.73,True
+P000184,Table,Home,Nimbus,0.575,526,Vertex Imports,15134.11,15631.07,True
+P000185,Tea,Grocery,EcoLife,0.588,231,Global Supplies Ltd,3811.84,23505.45,True
+P000186,Chair,Home,Apex,0.177,1449,Retail Source India,1323.64,16879.76,False
+P000187,Headphones,Electronics,Urban,0.733,1216,Global Supplies Ltd,38569.08,27299.9,True
+P000188,Cricket Bat,Sports,Nimbus,0.236,729,Retail Source India,4988.65,4600.72,True
+P000189,Yoga Mat,Sports,Zenith,0.385,844,Prime Distribution,44327.59,29000.44,False
+P000190,Rice,Grocery,Prime,0.406,1041,Vertex Imports,3715.77,23899.31,True
+P000191,Cream,Beauty,Nimbus,0.676,1002,Apex Manufacturing,38501.14,21658.44,True
+P000192,Face Wash,Beauty,Zenith,0.813,646,Vertex Imports,3465.66,28852.03,True
+P000193,Shoes,Fashion,Apex,0.724,150,Global Supplies Ltd,24026.27,6536.31,False
+P000194,Football,Sports,EcoLife,0.582,727,Apex Manufacturing,47896.3,13917.34,False
+P000195,Laptop,Electronics,Urban,0.889,597,Prime Distribution,10343.79,967.34,True
+P000196,Perfume,Beauty,Fusion,0.898,65,Retail Source India,35001.32,17362.19,True
+P000197,Rice,Grocery,EcoLife,0.354,955,Prime Distribution,48081.27,25164.89,True
+P000198,Laptop,Electronics,Zenith,0.724,1068,Retail Source India,10215.87,5194.36,False
+P000199, Lamp ,Home,Urban,0.762,595,Retail Source India,17511.89,5557.57,False
+P000200,Chair,Home,Nimbus,0.597,46,Retail Source India,14816.84,16365.86,True
+P000201,Rice,Grocery,Prime,0.621,1429,Apex Manufacturing,38125.42,6319.75,False
+P000202,Shirt,Fashion,Nimbus,0.747,670,Vertex Imports,16667.64,20548.72,True
+P000203,Monitor,Electronics,Elite,0.197,235,Retail Source India,15248.37,16156.1,True
+P000204,Rice,Grocery,Fusion,0.829,425,Global Supplies Ltd,741.96,12579.33,False
+P000205,Chair,Home,Urban,0.21,1339,Retail Source India,11622.6,21176.41,True
+P000206,Rice,Grocery,Prime,0.829,1310,Vertex Imports,9954.82,13734.05,True
+P000207,Perfume,Beauty,Fusion,0.765,289,Retail Source India,1603.78,18204.03,False
+P000208,Coffee,Grocery,Elite,0.58,873,Retail Source India,19336.8,16766.65,True
+P000209,Phone,Electronics,Nova,0.461,570,Vertex Imports,3307.45,614.85,True
+P000210,Cricket Bat,Sports,Nimbus,0.606,62,Retail Source India,14440.98,23673.93,True
+P000211,Perfume,Beauty,Urban,0.746,194,Apex Manufacturing,20420.12,4323.9,False
+P000212,Rice,Grocery,Nova,0.674,605,Global Supplies Ltd,6038.86,231.83,True
+P000213,Tea,Grocery,Fusion,0.69,1444,Apex Manufacturing,5025.9,21579.19,True
+P000214,Phone,Electronics,Prime,0.736,762,Prime Distribution,34936.73,20904.61,True
+P000215,Juice,Grocery,EcoLife,0.876,664,Retail Source India,41888.92,5833.54,False
+P000216,Coffee,Grocery,Apex,0.445,555,Global Supplies Ltd,47736.88,25532.46,True
+P000217,Yoga Mat,Sports,Prime,0.879,1385,Prime Distribution,29831.14,1449.35,True
+P000218,Laptop,Electronics,Urban,0.769,664,Vertex Imports,25376.46,13090.29,True
+P000219,Cricket Bat,Sports,EcoLife,0.656,362,Apex Manufacturing,2114.8,2519.56,False
+P000220,Jeans,Fashion,Nova,0.915,40,Vertex Imports,45432.95,10794.39,True
+P000221,Juice,Grocery,Zenith,0.33,1113,Apex Manufacturing,3463.61,26670.96,True
+P000222,Chair,Home,Vision,0.545,1438,Vertex Imports,47985.25,23056.61,True
+P000223,Face Wash,Beauty,Nova,0.516,722,Retail Source India,20397.58,9669.2,False
+P000224,Lipstick,Beauty,Elite,0.317,385,Apex Manufacturing,49473.01,23934.56,True
+P000225,Headphones,Electronics,Urban,0.608,292,Apex Manufacturing,43715.05,9787.9,True
+P000226,Monitor,Electronics,Nova,0.654,730,Retail Source India,28564.96,27351.33,True
+P000227,Monitor,Electronics,Prime,0.397,420,Prime Distribution,19007.89,15674.55,False
+P000228,Laptop,Electronics,EcoLife,0.411,939,Apex Manufacturing,34069.86,2156.92,True
+P000229,Headphones,Electronics,Zenith,0.482,216,Global Supplies Ltd,37410.28,21929.15,False
+P000230,Face Wash,Beauty,Nimbus,0.34,215,Vertex Imports,34826.99,28054.49,True
+P000231,Sofa,Home,Zenith,0.755,1063,Vertex Imports,44137.49,4408.74,True
+P000232,Tea,Grocery,EcoLife,0.818,1048,Apex Manufacturing,25675.22,3192.16,True
+P000233,Shelf,Home,Zenith,0.563,497,Global Supplies Ltd,35617.04,26901.52,True
+P000234,Rice,Grocery,Vision,0.625,582,Retail Source India,29161.38,18371.0,True
+P000235,Shirt,Fashion,Apex,0.824,634,Vertex Imports,5604.93,28892.17,False
+P000236,Cricket Bat,Sports,Prime,0.753,277,Apex Manufacturing,32048.45,27791.24,True
+P000237,Rice,Grocery,Zenith,0.799,1163,Global Supplies Ltd,34499.53,978.23,True
+P000238,Table,Home,EcoLife,0.423,1251,Retail Source India,16536.55,18818.91,True
+P000239,Yoga Mat,Sports,Nimbus,0.91,745,Retail Source India,42768.09,13540.66,True
+P000240,Coffee,Grocery,Fusion,0.715,1130,Global Supplies Ltd,18982.99,15811.12,True
+P000241,Shoes,Fashion,Zenith,0.806,1420,Prime Distribution,2933.78,13313.56,True
+P000242,Snacks,Grocery,Zenith,0.899,192,Prime Distribution,15883.52,814.94,True
+P000243,Cricket Bat,Sports,Vision,0.558,320,Prime Distribution,9618.29,21479.12,True
+P000244,Shirt,Fashion,Vision,0.571,1203,Retail Source India,17069.37,28620.36,True
+P000245,Juice,Grocery,Prime,0.436,283,Apex Manufacturing,15821.54,4800.73,True
+P000246,Shoes,Fashion,Urban,0.787,583,Retail Source India,22579.47,7911.33,True
+P000247,Chair,Home,Prime,0.454,987,Apex Manufacturing,3834.35,12745.23,True
+P000248,Tablet,Electronics,Urban,0.507,705,Apex Manufacturing,49336.06,1304.95,True
+P000249,Laptop,Electronics,Elite,0.609,150,Prime Distribution,20963.02,9309.59,True
+P000250,Perfume,Beauty,Zenith,0.782,227,Prime Distribution,5477.9,16933.37,True
+P000251,Rice,Grocery,Nova,0.807,665,Global Supplies Ltd,21936.21,12186.37,True
+P000252,Shelf,Home,EcoLife,0.707,1343,Global Supplies Ltd,18297.42,8916.39,False
+P000253,Lipstick,Beauty,Vision,0.718,525,Vertex Imports,18548.87,24347.79,True
+P000254,Cream,Beauty,Prime,0.915,434,Vertex Imports,21492.32,15016.69,False
+P000255,Lipstick,Beauty,Apex,0.865,443,Prime Distribution,32343.68,14670.35,True
+P000256,Lipstick,Beauty,Nova,0.468,841,Global Supplies Ltd,1558.66,5379.4,True
+P000257,Cricket Bat,Sports,Prime,0.889,868,Retail Source India,966.86,28411.03,True
+P000258,Chair,Home,Zenith,0.549,690,Global Supplies Ltd,20080.51,13764.45,True
+P000259,Cricket Bat,Sports,Zenith,0.176,1477,Global Supplies Ltd,47813.67,20362.55,True
+P000260,Laptop,Electronics,Nimbus,0.81,517,Vertex Imports,30618.91,13740.02,False
+P000261,Shelf,Home,Fusion,0.398,151,Retail Source India,32487.77,20591.72,True
+P000262,Lipstick,Beauty,Elite,0.752,322,Retail Source India,46001.25,23506.74,True
+P000263,Laptop,Electronics,Urban,0.436,983,Global Supplies Ltd,8064.81,27593.35,True
+P000264,Monitor,Electronics,Prime,0.834,1046,Prime Distribution,32653.15,13361.92,True
+P000265,Table,Home,Nova,0.508,1270,Retail Source India,16275.11,22073.38,False
+P000266,Shelf,Home,Prime,0.253,396,Prime Distribution,8023.09,19824.0,True
+P000267,Monitor,Electronics,Prime,0.579,1181,Retail Source India,2745.49,8769.53,False
+P000268,Coffee,Grocery,EcoLife,0.671,281,Vertex Imports,24604.37,443.57,False
+P000269,Snacks,Grocery,Fusion,0.836,543,Apex Manufacturing,7866.01,18847.43,True
+P000270,Table,Home,Vision,0.599,953,Vertex Imports,23516.75,16446.28,True
+P000271,Phone,Electronics,Nimbus,0.476,651,Apex Manufacturing,23458.33,23274.31,True
+P000272,Football,Sports,Nimbus,0.635,1242,Apex Manufacturing,47679.44,4636.94,True
+P000273,Table,Home,Nova,0.78,279,Retail Source India,39852.78,4441.5,False
+P000274,Juice,Grocery,Fusion,0.464,896,Global Supplies Ltd,165.36,5916.46,False
+P000275,Tablet,Electronics,Fusion,0.199,792,Apex Manufacturing,27183.16,366.71,True
+P000276,Headphones,Electronics,Fusion,0.551,966,Retail Source India,41921.87,19097.52,True
+P000277,Cricket Bat,Sports,Vision,0.844,356,Vertex Imports,6763.45,20557.13,True
+P000278,Shoes,Fashion,Apex,0.285,816,Global Supplies Ltd,4328.57,18137.71,True
+P000279,Perfume,Beauty,Zenith,0.093,1438,Global Supplies Ltd,23616.93,20779.57,False
+P000280,Yoga Mat,Sports,Elite,0.544,80,Apex Manufacturing,23420.23,3148.64,True
+P000281,Yoga Mat,Sports,Nova,0.485,460,Apex Manufacturing,48754.59,17390.49,False
+P000282,Cream,Beauty,Prime,0.707,601,Apex Manufacturing,4253.55,1658.57,True
+P000283,Laptop,Electronics,Nimbus,0.867,104,Apex Manufacturing,2644.71,3228.75,True
+P000284,Headphones,Electronics,Nova,0.548,304,Vertex Imports,33289.68,16982.11,True
+P000285,Juice,Grocery,Vision,0.734,1265,Prime Distribution,1735.33,408.06,True
+P000286,Face Wash,Beauty,Zenith,0.542,1278,Retail Source India,23721.21,19470.25,True
+P000287,Rice,Grocery,Nimbus,0.58,1218,Apex Manufacturing,37433.49,7669.43,True
+P000288,Shirt,Fashion,Nimbus,0.763,528,Prime Distribution,2902.2,2547.25,True
+P000289,Phone,Electronics,Vision,0.591,80,Vertex Imports,4736.49,26947.24,True
+P000290,Table,Home,Nimbus,0.765,909,Apex Manufacturing,39831.45,11894.32,False
+P000291,Cricket Bat,Sports,Fusion,0.765,9,Retail Source India,16079.51,14917.31,True
+P000292,Cricket Bat,Sports,Nova,0.782,1066,Vertex Imports,30807.31,11760.02,True
+P000293,Shirt,Fashion,Nimbus,0.202,119,Prime Distribution,47804.53,23919.07,False
+P000294,Chair,Home,Nova,0.719,909,Vertex Imports,13350.11,852.94,False
+P000295,Chair,Home,Urban,0.764,649,Prime Distribution,48703.31,22112.29,True
+P000296,Monitor,Electronics,Elite,0.728,116,Retail Source India,18660.05,20804.8,True
+P000297,Perfume,Beauty,Fusion,0.844,1248,Retail Source India,33448.77,21820.53,True
+P000298,Chair,Home,Urban,0.797,843,Global Supplies Ltd,25054.0,6328.86,False
+P000299,Tea,Grocery,Apex,0.729,1089,Global Supplies Ltd,43891.46,1244.5,True
+P000300,Lamp,Home,Fusion,0.47,708,Retail Source India,48393.5,14885.44,True
+P000301,Phone,Electronics,Urban,0.494,335,Retail Source India,25900.38,26536.9,False
+P000302,Face Wash,Beauty,Nimbus,0.356,131,Vertex Imports,23576.97,20508.51,True
+P000303,Cricket Bat,Sports,Nova,0.493,1195,Prime Distribution,46780.22,28754.4,False
+P000304,Tea,Grocery,Apex,0.724,369,Global Supplies Ltd,13186.3,2401.75,True
+P000305, Cricket Bat ,Sports,Nova,0.787,704,Prime Distribution,31112.59,26916.82,False
+P000306,Yoga Mat,Sports,Fusion,0.692,1031,Retail Source India,32487.74,13677.13,False
+P000307,Cricket Bat,Sports,Apex,0.518,528,Apex Manufacturing,37948.74,28995.96,True
+P000308,Shirt,Fashion,Nimbus,0.868,278,Retail Source India,49557.12,29512.45,False
+P000309,Headphones,Electronics,Nimbus,0.588,1424,Apex Manufacturing,16710.28,29731.84,True
+P000310,Jeans,Fashion,Vision,0.636,55,Global Supplies Ltd,7744.24,8400.06,True
+P000311,Jeans,Fashion,Vision,0.58,1370,Vertex Imports,20415.47,27637.6,True
+P000312,Jeans,Fashion,Fusion,0.351,270,Prime Distribution,43403.79,1909.97,False
+P000313,Headphones,Electronics,Urban,0.689,1061,Global Supplies Ltd,43332.81,29035.62,True
+P000314,Football,Sports,Prime,0.597,613,Prime Distribution,12478.98,6434.74,False
+P000315,Rice,Grocery,Zenith,0.262,847,Prime Distribution,14285.01,13724.22,True
+P000316,Football,Sports,Elite,0.782,215,Prime Distribution,31314.61,6330.72,True
+P000317,Cricket Bat,Sports,Prime,0.659,999,Retail Source India,37938.98,1472.21,False
+P000318,Football,Sports,Apex,0.53,1045,Vertex Imports,25728.61,11332.43,True
+P000319,Cricket Bat,Sports,Apex,0.281,58,Prime Distribution,31461.09,16551.71,True
+P000320,Shirt,Fashion,Prime,0.858,1071,Retail Source India,19123.16,17540.79,True
+P000321,Perfume,Beauty,Nimbus,0.864,1240,Retail Source India,38082.87,5309.31,True
+P000322,Snacks,Grocery,Apex,0.596,73,Vertex Imports,7790.36,7314.04,True
+P000323,Rice,Grocery,Nimbus,0.649,942,Global Supplies Ltd,39654.2,22651.34,True
+P000324,Lamp,Home,Nova,0.422,885,Apex Manufacturing,26195.42,29405.87,True
+P000325,Yoga Mat,Sports,Zenith,0.652,278,Apex Manufacturing,47242.58,21087.58,True
+P000326,Table,Home,EcoLife,0.605,775,Global Supplies Ltd,36146.52,4528.82,False
+P000327,Cricket Bat,Sports,Apex,0.589,163,Global Supplies Ltd,20394.32,19991.85,True
+P000328,Chair,Home,Urban,0.789,1303,Vertex Imports,24068.9,10296.59,False
+P000329,Chair,Home,Prime,0.817,927,Apex Manufacturing,32251.4,23024.75,True
+P000330,Shirt,Fashion,Urban,0.644,1445,Retail Source India,23543.83,1873.82,True
+P000331,Football,Sports,Prime,0.386,705,Apex Manufacturing,46146.77,728.22,True
+P000332,Shirt,Fashion,Prime,0.519,691,Vertex Imports,45421.27,15660.17,True
+P000333,Lipstick,Beauty,Zenith,0.707,600,Global Supplies Ltd,5289.55,14326.45,True
+P000334,Shoes,Fashion,Fusion,0.701,584,Apex Manufacturing,43485.31,13834.03,False
+P000335,Jeans,Fashion,Nova,0.494,570,Retail Source India,33593.04,26938.42,False
+P000336,Tennis Racket,Sports,Vision,0.403,365,Retail Source India,42422.22,28947.04,True
+P000337,Jeans,Fashion,Urban,0.534,952,Apex Manufacturing,1547.47,19794.1,False
+P000338,Chair,Home,Nimbus,0.467,640,Retail Source India,42031.23,20340.8,True
+P000339,Table,Home,Nova,0.62,49,Retail Source India,29772.53,6229.55,True
+P000340,Shelf,Home,Nova,0.437,501,Retail Source India,25631.45,20829.58,True
+P000341,Snacks,Grocery,Zenith,0.296,769,Prime Distribution,27260.66,7470.15,False
+P000342,Lipstick,Beauty,Urban,0.839,1122,Global Supplies Ltd,2005.73,20226.07,True
+P000343,Jacket,Fashion,Vision,0.601,404,Vertex Imports,20244.64,684.22,False
+P000344,Football,Sports,Zenith,0.267,652,Apex Manufacturing,18354.13,12973.23,True
+P000345,Tennis Racket,Sports,Nimbus,0.716,605,Vertex Imports,48039.65,10251.77,True
+P000346,Lipstick,Beauty,Urban,0.18,701,Vertex Imports,44837.89,7237.72,False
+P000347,Sofa,Home,Elite,0.593,615,Retail Source India,18291.04,26708.24,True
+P000348,Tablet,Electronics,Nimbus,0.529,328,Vertex Imports,6635.97,25604.55,True
+P000349,Lamp,Home,Nova,0.883,1369,Retail Source India,32297.36,15043.68,True
+P000350,Tennis Racket,Sports,Elite,0.827,1249,Prime Distribution,4717.32,24975.31,True
+P000351,Football,Sports,Apex,0.511,122,Prime Distribution,2113.97,24214.65,True
+P000352,Cricket Bat,Sports,Nimbus,0.832,948,Prime Distribution,1383.46,21933.0,True
+P000353,Cap,Fashion,Vision,0.795,742,Prime Distribution,8697.91,28118.9,True
+P000354,Snacks,Grocery,Apex,0.13,1438,Prime Distribution,29179.2,29960.12,False
+P000355,Chair,Home,Nova,0.669,184,Prime Distribution,39881.12,2701.99,True
+P000356,Shoes,Fashion,Prime,0.535,1170,Vertex Imports,29191.43,1880.86,True
+P000357,Cap,Fashion,Zenith,0.686,517,Global Supplies Ltd,6901.14,27331.36,True
+P000358,Table,Home,Fusion,0.124,1133,Retail Source India,4439.32,28997.75,True
+P000359,Lamp,Home,Vision,0.467,1028,Vertex Imports,23702.28,6103.75,False
+P000360,Rice,Grocery,Zenith,0.583,851,Global Supplies Ltd,9363.41,7214.54,True
+P000361,Headphones,Electronics,Prime,0.181,338,Retail Source India,4406.99,20889.37,True
+P000362,Perfume,Beauty,Vision,0.212,593,Retail Source India,42978.95,16836.48,True
+P000363,Cream,Beauty,Nimbus,0.234,1116,Retail Source India,35599.09,17372.95,False
+P000364,Jacket,Fashion,Prime,0.404,1172,Global Supplies Ltd,33837.41,26072.35,True
+P000365,Perfume,Beauty,Vision,0.408,803,Retail Source India,36380.3,20900.9,True
+P000366,Yoga Mat,Sports,Vision,0.761,1282,Apex Manufacturing,24503.9,29751.45,True
+P000367,Football,Sports,Vision,0.728,1153,Global Supplies Ltd,30957.19,26641.3,False
+P000368,Shirt,Fashion,Nova,0.323,1479,Prime Distribution,39107.91,736.64,True
+P000369,Cap,Fashion,Apex,0.678,880,Global Supplies Ltd,47911.67,2344.56,False
+P000370,Cricket Bat,Sports,Zenith,0.599,1440,Prime Distribution,17969.49,25796.92,False
+P000371,Chair,Home,Fusion,0.759,427,Global Supplies Ltd,19779.26,25065.68,False
+P000372,Tea,Grocery,Elite,0.298,1375,Global Supplies Ltd,15841.32,26669.94,False
+P000373,Monitor,Electronics,Nimbus,0.688,421,Global Supplies Ltd,21283.82,26095.91,True
+P000374,Phone,Electronics,Nimbus,0.482,1223,Apex Manufacturing,19920.93,18157.65,True
+P000375,Chair,Home,Zenith,0.249,1009,Global Supplies Ltd,37135.25,9582.35,True
+P000376,Tablet,Electronics,Elite,0.477,99,Retail Source India,21100.72,7526.93,True
+P000377,Shirt,Fashion,Nova,0.782,831,Vertex Imports,44488.66,23360.57,True
+P000378,Jacket,Fashion,EcoLife,0.729,1130,Prime Distribution,31190.26,19550.16,True
+P000379,Cricket Bat,Sports,Nova,0.806,1009,Prime Distribution,7192.82,25534.99,True
+P000380,Face Wash,Beauty,Prime,0.725,1127,Vertex Imports,37160.46,10714.32,True
+P000381,Lamp,Home,Elite,0.841,861,Global Supplies Ltd,48196.38,27584.17,True
+P000382,Table,Home,EcoLife,0.661,422,Retail Source India,35550.69,5903.79,True
+P000383,Shelf,Home,EcoLife,0.156,528,Prime Distribution,20618.61,13197.32,True
+P000384,Cricket Bat,Sports,Apex,0.636,982,Vertex Imports,5003.42,6965.1,True
+P000385,Chair,Home,Vision,0.315,681,Vertex Imports,44524.05,17273.87,False
+P000386,Football,Sports,Apex,0.538,618,Global Supplies Ltd,25692.26,3371.7,True
+P000387,Shoes,Fashion,Urban,0.591,1114,Global Supplies Ltd,35366.01,21354.61,False
+P000388,Laptop,Electronics,EcoLife,0.553,208,Vertex Imports,19396.85,979.88,True
+P000389,Football,Sports,EcoLife,0.686,818,Global Supplies Ltd,39156.44,10283.77,True
+P000390,Yoga Mat,Sports,Apex,0.392,815,Retail Source India,48491.85,11424.26,True
+P000391,Table,Home,Elite,0.948,55,Prime Distribution,14574.38,23988.91,True
+P000392,Tea,Grocery,Apex,0.956,1160,Vertex Imports,33760.9,23648.48,True
+P000393,Phone,Electronics,,0.812,189,Retail Source India,47768.52,19323.69,True
+P000394,Table,Home,Prime,0.898,1070,Apex Manufacturing,40013.1,14173.72,True
+P000395,Rice,Grocery,Elite,0.708,1488,Apex Manufacturing,37212.86,24097.5,False
+P000396,Perfume,Beauty,Urban,0.712,113,Retail Source India,16309.72,20391.45,False
+P000397,Monitor,Electronics,Nimbus,0.409,60,Retail Source India,28721.98,12221.31,True
+P000398,Phone,Electronics,Elite,0.404,1419,Vertex Imports,42821.01,22620.83,True
+P000399,Chair,Home,EcoLife,0.696,1150,Vertex Imports,9522.09,22377.88,False
+P000400,Football,Sports,Fusion,0.389,997,Retail Source India,16602.91,19839.95,True
+P000401,Rice,Grocery,Prime,0.678,727,Vertex Imports,14325.68,22477.96,False
+P000402,Cream,Beauty,Prime,0.802,1426,Apex Manufacturing,42144.21,20960.01,True
+P000403,Football,Sports,Urban,0.385,15,Global Supplies Ltd,5701.07,29006.96,True
+P000404,Snacks,Grocery,Vision,0.474,944,Retail Source India,33146.97,8572.76,True
+P000405,Perfume,Beauty,Urban,0.72,838,Prime Distribution,27585.06,24708.2,False
+P000406,Cap,Fashion,EcoLife,0.685,1471,Global Supplies Ltd,34373.89,20521.3,True
+P000407,Laptop,Electronics,Nova,0.606,211,Prime Distribution,34186.1,18707.73,True
+P000408,Cricket Bat,Sports,Elite,0.75,490,Global Supplies Ltd,42836.1,26225.01,True
+P000409,Perfume,Beauty,Apex,0.39,1445,Prime Distribution,15737.62,10550.61,True
+P000410,Perfume,Beauty,Vision,0.617,1381,Retail Source India,40502.92,21402.61,False
+P000411,Coffee,Grocery,EcoLife,0.338,426,Global Supplies Ltd,45923.37,12465.95,True
+P000412,Football,Sports,Zenith,0.892,967,Global Supplies Ltd,41414.14,10282.46,True
+P000413,Juice,Grocery,,0.803,959,Global Supplies Ltd,33789.28,15676.13,True
+P000414,Monitor,Electronics,Nova,0.619,1181,Global Supplies Ltd,5888.08,12524.83,True
+P000415,Cap,Fashion,Apex,0.461,1459,Global Supplies Ltd,48395.05,29980.79,True
+P000416,Headphones,Electronics,Zenith,0.541,621,Prime Distribution,36599.58,9094.11,False
+P000417,Shelf,Home,EcoLife,0.86,1334,Vertex Imports,48506.4,5582.5,False
+P000418,Tea,Grocery,Apex,0.66,1490,Apex Manufacturing,22978.71,1742.36,True
+P000419,Rice,Grocery,Vision,0.389,194,Prime Distribution,4418.65,19511.55,True
+P000420,Face Wash,Beauty,Prime,0.57,1170,Retail Source India,3114.1,12302.53,False
+P000421,Tennis Racket,Sports,Prime,0.65,738,Prime Distribution,27510.76,6489.48,True
+P000422,Football,Sports,Apex,0.567,1369,Retail Source India,-1.0,3297.1,True
+P000423,Laptop,Electronics,Zenith,0.13,1215,Global Supplies Ltd,22406.2,24331.74,False
+P000424,Lipstick,Beauty,EcoLife,0.698,853,Apex Manufacturing,37597.86,28179.65,True
+P000425,Chair,Home,Nova,0.666,1054,Prime Distribution,13720.83,8176.03,True
+P000426,Tea,Grocery,Fusion,0.622,623,Retail Source India,22068.88,12310.51,True
+P000427,Cream,Beauty,Nova,0.813,586,Vertex Imports,40622.5,11879.28,False
+P000428,Table,Home,Fusion,0.54,565,Global Supplies Ltd,38693.37,15319.44,True
+P000429,Yoga Mat,Sports,Apex,0.626,1182,Vertex Imports,274.27,27587.15,True
+P000430,Table,Home,Prime,0.759,124,Prime Distribution,21929.42,5427.56,True
+P000431,Phone,Electronics,Fusion,0.714,523,Vertex Imports,8674.34,27795.83,False
+P000432,Chair,Home,Nimbus,0.854,67,Apex Manufacturing,37698.94,24609.52,True
+P000433,Coffee,Grocery,Urban,0.29,1054,Vertex Imports,7417.23,4497.14,False
+P000434,Tennis Racket,Sports,Urban,0.335,701,Retail Source India,10085.27,22813.69,True
+P000435,Headphones,Electronics,Urban,0.805,429,Apex Manufacturing,36194.15,23023.72,True
+P000436,Chair,Home,Fusion,0.442,528,Prime Distribution,7557.48,28313.11,False
+P000437,Lamp,Home,EcoLife,0.442,286,Prime Distribution,24914.89,5342.58,True
+P000438,Perfume,Beauty,Nova,0.444,469,Apex Manufacturing,41245.15,22013.81,True
+P000439,Phone,Electronics,Nimbus,0.506,1341,Prime Distribution,12624.07,26888.65,True
+P000440,Coffee,Grocery,Apex,0.412,477,Prime Distribution,34171.71,18986.06,True
+P000441,Perfume,Beauty,Fusion,0.7,168,Prime Distribution,18066.36,14631.63,True
+P000442,Jeans,Fashion,Zenith,0.309,1072,Vertex Imports,37661.78,20628.14,True
+P000443,Yoga Mat,Sports,Nimbus,0.712,1106,Global Supplies Ltd,44692.91,19593.82,False
+P000444,Jeans,Fashion,Urban,0.502,1490,Prime Distribution,4883.37,14709.55,True
+P000445,Cricket Bat,Sports,Prime,0.588,61,Vertex Imports,10392.31,4406.81,False
+P000446,Lamp,Home,Nimbus,0.584,1084,Vertex Imports,30875.34,7929.06,True
+P000447,Face Wash,Beauty,Vision,0.7,1171,Global Supplies Ltd,11125.33,13731.59,False
+P000448,Tea,Grocery,Vision,0.721,164,Vertex Imports,1240.58,4991.18,True
+P000449,Face Wash,Beauty,Fusion,0.907,743,Global Supplies Ltd,34078.67,21838.15,True
+P000450,Shirt,Fashion,Fusion,0.587,1329,Retail Source India,20298.84,20149.28,True
+P000451,Cricket Bat,Sports,Vision,0.952,1012,Apex Manufacturing,23604.46,26131.43,False
+P000452,Chair,Home,Nimbus,0.538,1260,Global Supplies Ltd,44539.82,79.04,True
+P000453,Table,Home,Zenith,0.553,312,Global Supplies Ltd,16330.19,17001.09,False
+P000454, Shelf ,Home,Zenith,0.493,1173,Apex Manufacturing,11469.82,18131.34,True
+P000455,Perfume,Beauty,Vision,0.658,712,Vertex Imports,39414.97,8615.6,True
+P000456,Tennis Racket,Sports,Urban,0.413,962,Global Supplies Ltd,25726.03,6555.15,True
+P000457,Lamp,Home,Elite,0.152,299,Apex Manufacturing,47006.73,11436.07,False
+P000458,Lamp,Home,Prime,0.533,799,Apex Manufacturing,10323.9,21149.08,True
+P000459,Shelf,Home,Vision,0.485,1034,Apex Manufacturing,13468.3,6454.12,True
+P000460,Tennis Racket,Sports,Nova,0.78,1188,Global Supplies Ltd,1765.93,360.78,False
+P000461,Tennis Racket,Sports,Nova,0.755,425,Prime Distribution,20726.18,9160.99,False
+P000462,Face Wash,Beauty,Vision,0.715,1052,Vertex Imports,30740.48,18921.52,True
+P000463,Phone,Electronics,Fusion,0.779,1262,Global Supplies Ltd,30013.56,14894.68,False
+P000464,Cap,Fashion,Urban,0.702,1145,Global Supplies Ltd,822.5,10534.58,False
+P000465,Lamp,Home,Fusion,0.588,1176,Vertex Imports,12821.59,14838.04,True
+P000466,Snacks,Grocery,Vision,0.649,1124,Global Supplies Ltd,37235.59,23602.05,True
+P000467,Sofa,Home,Nimbus,0.191,679,Apex Manufacturing,21893.48,27555.81,True
+P000468,Perfume,Beauty,EcoLife,0.781,620,Apex Manufacturing,22182.88,17822.78,True
+P000469,Football,Sports,Apex,0.536,1241,Apex Manufacturing,25454.75,18588.14,True
+P000470,Football,Sports,Urban,0.246,490,Global Supplies Ltd,25624.05,17140.92,False
+P000471,Jeans,Fashion,Nimbus,0.894,338,Vertex Imports,46523.91,8980.2,True
+P000472,Shirt,Fashion,Fusion,0.679,362,Global Supplies Ltd,9414.57,3108.58,True
+P000473,Football,Sports,Vision,0.629,130,Global Supplies Ltd,26103.54,1397.96,True
+P000474,Jeans,Fashion,Apex,0.554,1,Vertex Imports,29411.53,1805.02,False
+P000475,Football,Sports,Apex,0.603,1193,Global Supplies Ltd,32887.96,26446.16,False
+P000476,Laptop,Electronics,Elite,0.789,90,Prime Distribution,36378.52,24493.63,False
+P000477,Coffee,Grocery,Urban,0.655,837,Retail Source India,35576.76,21072.19,True
+P000478,Headphones,Electronics,Apex,0.336,1067,Retail Source India,11158.38,6539.42,True
+P000479,Cream,Beauty,Fusion,0.079,457,Retail Source India,15758.39,22488.78,True
+P000480,Sofa,Home,Zenith,0.408,1062,Global Supplies Ltd,5385.81,26285.34,True
+P000481,Laptop,Electronics,Apex,0.788,953,Global Supplies Ltd,48159.11,2824.65,True
+P000482,Perfume,Beauty,Elite,0.68,1244,Retail Source India,38559.19,3522.28,False
+P000483,Juice,Grocery,Urban,0.205,729,Vertex Imports,6128.63,2891.92,True
+P000484,Cream,Beauty,Zenith,0.283,886,Apex Manufacturing,3932.47,283.22,True
+P000485,Coffee,Grocery,Prime,0.68,417,Prime Distribution,37585.56,28434.36,True
+P000486,Phone,Electronics,Elite,0.682,171,Prime Distribution,48145.66,6639.1,True
+P000487,Headphones,Electronics,Apex,0.669,334,Prime Distribution,2200.35,26152.43,True
+P000488,Headphones,Electronics,Vision,0.614,1384,Global Supplies Ltd,46788.13,14161.98,True
+P000489,Lipstick,Beauty,Fusion,0.371,919,Vertex Imports,27090.97,11690.36,True
+P000490,Headphones,Electronics,Prime,0.85,268,Global Supplies Ltd,32518.36,27509.66,False
+P000491,Face Wash,Beauty,Urban,0.884,879,Vertex Imports,24570.29,2844.41,True
+P000492,Tablet,Electronics,Nova,0.8,129,Retail Source India,4185.25,3687.09,True
+P000493,Juice,Grocery,Vision,0.828,1258,Retail Source India,46315.64,5910.23,True
+P000494,Jeans,Fashion,EcoLife,0.766,1189,Prime Distribution,3072.42,23651.51,True
+P000495,Headphones,Electronics,Urban,0.682,1136,Retail Source India,35085.58,29893.46,True
+P000496,Monitor,Electronics,Fusion,0.699,1168,Apex Manufacturing,43022.88,1499.65,True
+P000497,Shirt,Fashion,Prime,0.293,288,Global Supplies Ltd,42143.17,23788.57,True
+P000498,Perfume,Beauty,,0.769,1411,Retail Source India,38457.1,7632.52,False
+P000499,Monitor,Electronics,Elite,0.728,1023,Global Supplies Ltd,12907.05,24143.05,True
+P000500,Jeans,Fashion,Urban,0.469,1159,Vertex Imports,1588.87,12148.01,True
+P000501,Perfume,Beauty,Prime,0.729,935,Vertex Imports,17089.97,12994.34,True
+P000502,Tea,Grocery,EcoLife,0.858,713,Retail Source India,32727.68,14638.99,True
+P000503,Face Wash,Beauty,,0.5,1362,Retail Source India,32930.47,8746.16,True
+P000504,Yoga Mat,Sports,Zenith,0.852,366,Vertex Imports,42413.8,20250.76,True
+P000505,Cricket Bat,Sports,Fusion,0.684,1229,Vertex Imports,9843.03,2917.0,True
+P000506,Football,Sports,Fusion,0.337,601,Apex Manufacturing,44517.84,9639.06,True
+P000507,Shelf,Home,Fusion,0.343,913,Apex Manufacturing,4331.64,22768.72,False
+P000508,Lamp,Home,EcoLife,0.565,16,Prime Distribution,15491.23,15686.7,True
+P000509,Yoga Mat,Sports,Nimbus,0.86,1382,Apex Manufacturing,24207.53,1426.89,False
+P000510,Jeans,Fashion,Zenith,0.754,1400,Vertex Imports,2335.78,1934.02,True
+P000511,Yoga Mat,Sports,Vision,0.29,302,Vertex Imports,7483.16,5420.38,True
+P000512,Shirt,Fashion,Fusion,0.8,1,Retail Source India,16119.35,25115.68,True
+P000513,Cream,Beauty,Elite,0.599,221,Vertex Imports,47793.92,1744.13,True
+P000514,Tablet,Electronics,Vision,0.519,179,Prime Distribution,-1.0,15475.31,True
+P000515,Football,Sports,Nimbus,0.903,1277,Prime Distribution,14478.93,4524.94,True
+P000516,Lamp,Home,Elite,0.116,174,Prime Distribution,46075.7,17380.63,True
+P000517,Rice,Grocery,Elite,0.778,567,Global Supplies Ltd,14123.77,977.52,False
+P000518,Perfume,Beauty,Vision,0.723,1300,Apex Manufacturing,43809.95,14477.32,True
+P000519,Snacks,Grocery,,0.759,197,Global Supplies Ltd,21411.5,15950.57,True
+P000520,Phone,Electronics,Nimbus,0.881,1395,Retail Source India,4132.44,3316.03,True
+P000521,Headphones,Electronics,Nimbus,0.555,636,Prime Distribution,48673.86,10346.92,False
+P000522,Lipstick,Beauty,Fusion,0.788,1391,Vertex Imports,18144.93,14230.47,True
+P000523,Jacket,Fashion,Fusion,0.427,1438,Vertex Imports,25163.21,28512.99,True
+P000524,Lamp,Home,Zenith,0.796,305,Vertex Imports,15609.74,22448.17,True
+P000525,Coffee,Grocery,Urban,0.329,954,Retail Source India,34010.21,22728.95,True
+P000526,Shirt,Fashion,Vision,0.459,748,Prime Distribution,27745.54,15841.66,False
+P000527,Chair,Home,Apex,0.592,968,Apex Manufacturing,19046.58,11396.96,True
+P000528,Perfume,Beauty,EcoLife,0.915,612,Vertex Imports,35367.79,24842.48,False
+P000529,Headphones,Electronics,Prime,0.242,967,Vertex Imports,10459.6,20536.23,True
+P000530,Snacks,Grocery,EcoLife,0.539,388,Global Supplies Ltd,18633.74,22514.46,True
+P000531,Football,Sports,Nova,0.615,605,Global Supplies Ltd,12920.54,28643.12,True
+P000532,Tablet,Electronics,Elite,0.151,793,Global Supplies Ltd,13940.41,8620.37,True
+P000533,Lipstick,Beauty,Nimbus,0.554,626,Vertex Imports,35420.58,9391.06,True
+P000534,Chair,Home,Nimbus,0.811,198,Global Supplies Ltd,34207.91,10904.62,True
+P000535,Shelf,Home,Nimbus,0.874,337,Retail Source India,21663.59,18477.16,True
+P000536,Laptop,Electronics,Nova,0.755,1296,Vertex Imports,11391.7,9080.76,False
+P000537,Shoes,Fashion,EcoLife,0.733,1129,Apex Manufacturing,31382.25,22023.17,True
+P000538,Cricket Bat,Sports,Nova,0.889,267,Global Supplies Ltd,18381.17,17743.36,False
+P000539,Perfume,Beauty,Zenith,0.589,449,Retail Source India,6465.42,27095.52,True
+P000540,Chair,Home,Prime,0.384,469,Retail Source India,16142.5,16724.6,False
+P000541,Phone,Electronics,Vision,0.725,639,Retail Source India,10995.33,11920.47,False
+P000542,Jeans,Fashion,Zenith,0.462,940,Global Supplies Ltd,11136.89,11580.63,True
+P000543,Football,Sports,Zenith,0.551,1468,Prime Distribution,8186.51,29774.48,True
+P000544,Monitor,Electronics,Prime,0.775,1320,Retail Source India,6440.25,17451.8,True
+P000545,Cream,Beauty,EcoLife,0.381,1137,Vertex Imports,38151.62,4053.22,True
+P000546,Juice,Grocery,Nimbus,0.42,22,Vertex Imports,36123.93,10836.59,False
+P000547,Perfume,Beauty,Nova,0.846,821,Apex Manufacturing,1719.83,8231.27,True
+P000548,Chair,Home,Vision,0.46,541,Prime Distribution,49924.22,15655.48,True
+P000549,Face Wash,Beauty,EcoLife,0.297,1066,Vertex Imports,49074.2,23960.21,True
+P000550,Laptop,Electronics,Apex,0.397,59,Apex Manufacturing,37493.14,14057.09,True
+P000551,Tennis Racket,Sports,Nova,0.502,1454,Prime Distribution,39485.3,7609.99,True
+P000552,Headphones,Electronics,Urban,0.671,740,Retail Source India,40343.87,21307.02,True
+P000553,Chair,Home,Vision,0.626,404,Global Supplies Ltd,10507.83,25602.53,True
+P000554,Coffee,Grocery,Nimbus,0.625,1001,Apex Manufacturing,23114.68,15614.02,False
+P000555,Cricket Bat,Sports,Vision,0.54,1144,Apex Manufacturing,3687.94,25011.8,True
+P000556,Phone,Electronics,Nimbus,0.27,708,Prime Distribution,38744.05,29876.5,True
+P000557,Lipstick,Beauty,Apex,0.395,1006,Prime Distribution,9680.23,18253.78,True
+P000558,Snacks,Grocery,Fusion,0.327,56,Global Supplies Ltd,4789.45,2505.83,True
+P000559,Shirt,Fashion,Nova,0.502,375,Prime Distribution,20693.64,7570.87,True
+P000560,Phone,Electronics,Nimbus,0.684,178,Global Supplies Ltd,43213.94,15761.01,False
+P000561,Headphones,Electronics,Fusion,0.77,512,Apex Manufacturing,35231.38,605.52,True
+P000562,Cap,Fashion,Zenith,0.436,1354,Global Supplies Ltd,19132.87,18412.25,False
+P000563,Tennis Racket,Sports,Fusion,0.598,74,Retail Source India,33811.67,3589.24,True
+P000564,Table,Home,Fusion,0.501,1381,Prime Distribution,2951.03,15292.07,False
+P000565,Lipstick,Beauty,Prime,0.843,743,Retail Source India,49210.52,3151.57,True
+P000566,Cap,Fashion,Zenith,0.691,321,Apex Manufacturing,23398.56,3600.42,True
+P000567,Shoes,Fashion,Elite,0.801,955,Apex Manufacturing,10359.54,24260.82,False
+P000568,Headphones,Electronics,Nimbus,0.581,696,Apex Manufacturing,25468.47,20651.41,False
+P000569,Laptop,Electronics,EcoLife,0.528,1238,Apex Manufacturing,10103.28,10435.73,False
+P000570,Yoga Mat,Sports,Nimbus,0.492,435,Prime Distribution,49643.68,12351.12,True
+P000571,Football,Sports,Fusion,0.415,1003,Apex Manufacturing,41998.89,19752.69,True
+P000572,Cream,Beauty,Apex,0.749,1061,Apex Manufacturing,32825.55,11648.02,True
+P000573,Lipstick,Beauty,Zenith,0.754,714,Vertex Imports,42113.77,24284.0,True
+P000574,Jacket,Fashion,Apex,0.82,1326,Global Supplies Ltd,35873.37,3934.77,True
+P000575,Shirt,Fashion,Zenith,0.386,1325,Global Supplies Ltd,28001.99,8223.17,False
+P000576,Jacket,Fashion,Nimbus,0.465,55,Prime Distribution,22102.22,24451.51,True
+P000577,Face Wash,Beauty,Nova,0.768,987,Retail Source India,463.84,6925.68,True
+P000578,Lamp,Home,Urban,0.866,1188,Prime Distribution,9407.83,18234.52,True
+P000579,Cricket Bat,Sports,Apex,0.925,1074,Global Supplies Ltd,34861.71,8337.05,True
+P000580,Football,Sports,Vision,0.242,562,Global Supplies Ltd,17652.23,21665.24,False
+P000581,Chair,Home,Apex,0.804,643,Global Supplies Ltd,2389.89,22155.93,True
+P000582,Cricket Bat,Sports,Vision,0.824,925,Retail Source India,21650.87,6102.63,True
+P000583,Cricket Bat,Sports,Fusion,0.471,807,Apex Manufacturing,37303.79,7466.82,True
+P000584,Football,Sports,Nimbus,0.692,541,Global Supplies Ltd,16850.15,4441.77,True
+P000585,Snacks,Grocery,Nimbus,0.484,142,Global Supplies Ltd,43868.58,683.39,False
+P000586,Football,Sports,EcoLife,0.321,1221,Vertex Imports,5837.74,9005.94,True
+P000587,Face Wash,Beauty,Zenith,0.663,961,Prime Distribution,25966.64,29875.56,True
+P000588,Football,Sports,Apex,0.428,658,Apex Manufacturing,43124.33,11167.58,False
+P000589,Lipstick,Beauty,Urban,0.173,704,Prime Distribution,20553.73,5612.6,False
+P000590,Headphones,Electronics,EcoLife,0.609,886,Apex Manufacturing,3117.08,2601.63,True
+P000591,Sofa,Home,Vision,0.833,817,Global Supplies Ltd,43148.5,17121.06,True
+P000592,Table,Home,Apex,0.542,1320,Retail Source India,26093.77,8963.0,True
+P000593,Juice,Grocery,Vision,0.853,508,Apex Manufacturing,20620.17,15041.43,True
+P000594,Cap,Fashion,EcoLife,0.771,23,Apex Manufacturing,28981.1,22766.91,False
+P000595,Coffee,Grocery,Nova,0.792,547,Global Supplies Ltd,24848.3,28970.26,True
+P000596,Lipstick,Beauty,Apex,0.592,1496,Vertex Imports,25663.29,5928.52,True
+P000597,Chair,Home,Urban,0.605,886,Vertex Imports,33030.71,20718.49,True
+P000598,Jacket,Fashion,Nimbus,0.343,378,Retail Source India,2982.01,346.23,True
+P000599,Cricket Bat,Sports,EcoLife,0.454,1358,Apex Manufacturing,40199.07,7727.05,True
+P000600,Cricket Bat,Sports,EcoLife,0.515,1278,Retail Source India,41448.62,28447.55,True
+P000601,Tablet,Electronics,Nimbus,0.847,1203,Prime Distribution,1295.35,29875.65,True
+P000602,Cricket Bat,Sports,Urban,0.588,1460,Vertex Imports,7810.3,18598.45,True
+P000603,Headphones,Electronics,Prime,0.421,1329,Global Supplies Ltd,44956.75,18231.2,False
+P000604,Football,Sports,Nova,0.902,338,Prime Distribution,17975.0,28931.59,True
+P000605,Cap,Fashion,Vision,0.19,1223,Retail Source India,5955.24,10628.93,True
+P000606,Lamp,Home,Vision,0.866,52,Global Supplies Ltd,7383.88,29241.78,True
+P000607,Chair,Home,Urban,0.104,598,Prime Distribution,10103.85,19945.82,True
+P000608,Rice,Grocery,Fusion,0.874,258,Global Supplies Ltd,15117.73,26240.86,True
+P000609,Perfume,Beauty,Nova,0.853,709,Vertex Imports,26581.26,21279.06,True
+P000610,Cream,Beauty,Zenith,0.682,418,Retail Source India,40586.29,28238.11,True
+P000611,Jacket,Fashion,Urban,0.701,670,Prime Distribution,26360.71,3194.09,True
+P000612,Perfume,Beauty,Prime,0.817,384,Retail Source India,43529.96,13125.89,True
+P000613, Sofa ,Home,Elite,0.629,378,Vertex Imports,18319.97,14037.79,False
+P000614,Lipstick,Beauty,Elite,0.523,693,Retail Source India,2146.83,1656.45,True
+P000615,Cream,Beauty,Nimbus,0.517,621,Vertex Imports,37112.89,13631.8,True
+P000616,Juice,Grocery,Nova,0.796,602,Retail Source India,27764.89,17576.85,True
+P000617,Snacks,Grocery,Nova,0.633,278,Vertex Imports,14476.53,21369.77,True
+P000618,Shelf,Home,Nova,0.593,845,Retail Source India,46521.01,10432.76,True
+P000619,Lipstick,Beauty,Vision,0.545,681,Retail Source India,25587.9,25771.15,True
+P000620,Rice,Grocery,Zenith,0.769,614,Apex Manufacturing,38405.19,13588.18,False
+P000621,Football,Sports,Nimbus,0.827,757,Vertex Imports,43981.26,3568.29,True
+P000622,Cream,Beauty,Apex,0.75,508,Apex Manufacturing,29847.14,18490.06,True
+P000623,Football,Sports,Apex,0.827,745,Retail Source India,49165.31,16445.2,True
+P000624,Lipstick,Beauty,Fusion,0.604,543,Global Supplies Ltd,21875.21,4020.53,True
+P000625,Tennis Racket,Sports,Zenith,0.329,675,Vertex Imports,29347.56,10338.01,True
+P000626,Lamp,Home,Fusion,0.595,1278,Global Supplies Ltd,18842.64,3761.55,True
+P000627,Table,Home,Zenith,0.564,404,Global Supplies Ltd,47101.5,24520.22,True
+P000628,Tea,Grocery,Apex,0.312,1304,Global Supplies Ltd,2888.52,8523.38,True
+P000629,Jeans,Fashion,Apex,0.535,1274,Vertex Imports,44397.74,10937.74,False
+P000630,Shelf,Home,Fusion,0.957,1358,Prime Distribution,10256.51,23840.24,False
+P000631,Snacks,Grocery,Fusion,0.575,110,Retail Source India,41036.57,18402.21,True
+P000632,Cap,Fashion,Nimbus,0.297,1029,Apex Manufacturing,37980.7,1571.91,True
+P000633,Phone,Electronics,Urban,0.854,1393,Apex Manufacturing,28001.86,22990.46,True
+P000634,Juice,Grocery,Zenith,0.673,456,Apex Manufacturing,27843.8,26620.65,True
+P000635,Headphones,Electronics,Fusion,0.205,1179,Retail Source India,49167.87,16412.33,True
+P000636,Laptop,Electronics,Urban,0.777,1130,Prime Distribution,29901.14,2830.4,True
+P000637,Chair,Home,Prime,0.57,99,Global Supplies Ltd,30593.35,5736.29,True
+P000638,Rice,Grocery,Nimbus,0.587,1023,Retail Source India,2223.99,27293.93,True
+P000639,Lipstick,Beauty,Zenith,0.637,1341,Global Supplies Ltd,28023.92,18467.4,True
+P000640,Cap,Fashion,Zenith,0.638,844,Apex Manufacturing,21670.62,7491.55,True
+P000641,Lamp,Home,EcoLife,0.443,1049,Global Supplies Ltd,9361.15,5631.12,False
+P000642,Football,Sports,Apex,0.365,845,Vertex Imports,13813.21,948.08,False
+P000643,Tea,Grocery,Prime,0.762,1227,Apex Manufacturing,20382.61,13298.18,True
+P000644,Perfume,Beauty,EcoLife,0.612,619,Vertex Imports,30508.26,5104.5,False
+P000645,Cream,Beauty,Elite,0.501,526,Apex Manufacturing,40790.83,6555.94,True
+P000646,Chair,Home,Urban,0.519,895,Apex Manufacturing,15616.52,4367.97,True
+P000647,Monitor,Electronics,Fusion,0.778,1194,Global Supplies Ltd,42359.84,28165.34,False
+P000648,Shoes,Fashion,Nimbus,0.558,856,Retail Source India,3287.43,26926.36,True
+P000649,Sofa,Home,Prime,0.452,1331,Prime Distribution,13387.85,16827.54,True
+P000650,Shelf,Home,Vision,0.608,471,Apex Manufacturing,35379.43,23217.46,True
+P000651,Tennis Racket,Sports,Elite,0.418,847,Apex Manufacturing,46003.88,21219.98,True
+P000652,Cricket Bat,Sports,Nova,0.869,675,Vertex Imports,29247.67,20610.26,True
+P000653,Juice,Grocery,Fusion,0.708,1364,Vertex Imports,41301.17,13838.22,False
+P000654,Lipstick,Beauty,Nova,0.836,690,Global Supplies Ltd,42501.51,3996.35,False
+P000655,Juice,Grocery,Fusion,0.467,523,Retail Source India,13271.99,29045.05,True
+P000656,Table,Home,Urban,0.573,522,Apex Manufacturing,17821.07,26490.17,True
+P000657,Chair,Home,Apex,0.367,1402,Retail Source India,21621.56,7539.3,True
+P000658,Shirt,Fashion,Vision,0.515,1293,Retail Source India,4725.14,29131.79,True
+P000659,Snacks,Grocery,Nova,0.785,837,Vertex Imports,31404.74,7101.2,True
+P000660,Cream,Beauty,EcoLife,0.291,538,Prime Distribution,45630.81,24997.02,False
+P000661,Cricket Bat,Sports,Vision,0.402,1003,Retail Source India,34622.78,1476.23,True
+P000662,Chair,Home,EcoLife,0.302,823,Global Supplies Ltd,46012.63,22332.35,True
+P000663,Snacks,Grocery,Nova,0.209,309,Prime Distribution,30196.63,15885.91,True
+P000664,Yoga Mat,Sports,Apex,0.671,832,Vertex Imports,30944.92,676.84,True
+P000665,Football,Sports,Prime,0.533,1270,Apex Manufacturing,4874.56,3436.27,True
+P000666,Table,Home,EcoLife,0.794,91,Vertex Imports,47114.6,236.86,False
+P000667,Tennis Racket,Sports,Urban,0.337,82,Apex Manufacturing,3932.85,17880.39,True
+P000668,Chair,Home,EcoLife,0.675,588,Vertex Imports,40198.46,6074.93,False
+P000669,Phone,Electronics,Zenith,0.449,317,Global Supplies Ltd,14242.58,2526.4,True
+P000670,Football,Sports,Elite,0.396,870,Apex Manufacturing,17634.36,25684.02,True
+P000671,Chair,Home,Elite,0.849,728,Vertex Imports,25558.61,12584.67,True
+P000672,Jeans,Fashion,Urban,0.524,862,Apex Manufacturing,47014.81,26832.71,True
+P000673,Cricket Bat,Sports,Zenith,0.755,294,Apex Manufacturing,36228.76,3426.4,True
+P000674,Cap,Fashion,Fusion,0.655,85,Apex Manufacturing,28994.46,9610.24,True
+P000675,Monitor,Electronics,Elite,0.731,187,Apex Manufacturing,22736.64,20660.27,True
+P000676,Shelf,Home,Urban,0.782,384,Retail Source India,40192.8,22819.21,True
+P000677,Tablet,Electronics,Urban,0.476,577,Retail Source India,35073.06,29051.11,False
+P000678,Jeans,Fashion,Nova,0.843,1191,Vertex Imports,9498.44,25827.55,True
+P000679,Laptop,Electronics,Prime,0.563,542,Apex Manufacturing,37518.82,23534.43,True
+P000680,Rice,Grocery,Nova,0.358,70,Vertex Imports,3534.32,23255.71,True
+P000681,Shoes,Fashion,EcoLife,0.629,647,Global Supplies Ltd,2590.19,6679.66,True
+P000682,Tennis Racket,Sports,Vision,0.436,853,Prime Distribution,38221.25,245.07,False
+P000683,Juice,Grocery,Apex,0.409,1434,Global Supplies Ltd,244.62,24597.97,True
+P000684,Phone,Electronics,Apex,0.444,919,Global Supplies Ltd,32025.4,4444.34,False
+P000685,Headphones,Electronics,Apex,0.591,227,Prime Distribution,17116.35,21017.13,True
+P000686,Face Wash,Beauty,Vision,0.819,1285,Retail Source India,37268.02,2821.41,True
+P000687,Cricket Bat,Sports,Zenith,0.552,910,Vertex Imports,1936.83,18148.98,False
+P000688,Rice,Grocery,Nimbus,0.449,1436,Global Supplies Ltd,49053.48,20584.66,True
+P000689,Perfume,Beauty,Fusion,0.685,1122,Prime Distribution,12442.7,19531.28,False
+P000690,Perfume,Beauty,Fusion,0.487,1023,Global Supplies Ltd,26004.7,21415.96,True
+P000691,Rice,Grocery,Fusion,0.533,1469,Vertex Imports,46411.01,26109.9,True
+P000692,Coffee,Grocery,Vision,0.872,754,Apex Manufacturing,1170.57,14949.02,False
+P000693,Shirt,Fashion,Apex,0.561,25,Apex Manufacturing,26945.43,19458.57,False
+P000694,Lamp,Home,Prime,0.597,1189,Prime Distribution,20592.43,22814.6,False
+P000695,Snacks,Grocery,Elite,0.334,893,Retail Source India,43050.97,648.02,True
+P000696,Monitor,Electronics,Vision,0.588,6,Retail Source India,32502.72,17707.54,True
+P000697,Perfume,Beauty,Zenith,0.23,402,Prime Distribution,25029.75,12216.18,True
+P000698,Perfume,Beauty,EcoLife,0.604,1005,Apex Manufacturing,39266.25,2584.57,False
+P000699,Lamp,Home,EcoLife,0.343,205,Global Supplies Ltd,28202.09,12832.73,False
+P000700,Jeans,Fashion,Zenith,0.597,1301,Vertex Imports,48091.58,10892.41,True
+P000701,Face Wash,Beauty,Prime,0.207,246,Prime Distribution,18482.91,7242.74,False
+P000702,Shoes,Fashion,Nimbus,0.391,91,Global Supplies Ltd,24849.86,3219.93,False
+P000703,Rice,Grocery,EcoLife,0.576,968,Prime Distribution,18219.0,3663.4,True
+P000704,Rice,Grocery,Zenith,0.468,920,Vertex Imports,25006.39,18236.02,True
+P000705,Face Wash,Beauty,Urban,0.71,628,Prime Distribution,26898.64,11216.67,False
+P000706,Laptop,Electronics,Prime,0.768,164,Retail Source India,10087.33,20926.0,True
+P000707,Cricket Bat,Sports,Elite,0.364,1005,Global Supplies Ltd,28908.8,17079.49,True
+P000708,Table,Home,,0.426,156,Prime Distribution,38256.31,14377.79,True
+P000709,Phone,Electronics,Fusion,0.644,1055,Apex Manufacturing,18758.16,7100.88,True
+P000710,Table,Home,Prime,0.238,1225,Vertex Imports,38800.05,28685.33,True
+P000711,Cricket Bat,Sports,Elite,0.402,322,Apex Manufacturing,29585.43,19950.38,True
+P000712,Shoes,Fashion,Elite,0.598,1168,Prime Distribution,40052.11,4166.47,True
+P000713,Phone,Electronics,Zenith,0.633,687,Global Supplies Ltd,39681.47,17051.36,True
+P000714,Juice,Grocery,Zenith,0.548,1319,Global Supplies Ltd,15881.66,28964.81,False
+P000715,Coffee,Grocery,Nimbus,0.279,615,Prime Distribution,3800.79,3809.9,True
+P000716,Table,Home,Urban,0.42,507,Retail Source India,46257.12,2340.92,True
+P000717,Cricket Bat,Sports,Nimbus,0.356,940,Prime Distribution,2603.18,8186.63,True
+P000718,Juice,Grocery,Fusion,0.677,764,Apex Manufacturing,32218.24,29754.75,True
+P000719,Perfume,Beauty,Vision,0.669,833,Retail Source India,18940.61,24812.17,False
+P000720,Headphones,Electronics,EcoLife,0.508,33,Apex Manufacturing,28674.24,8204.67,True
+P000721,Jacket,Fashion,Nova,0.774,138,Global Supplies Ltd,15062.11,25750.32,False
+P000722,Shoes,Fashion,Urban,0.48,1197,Prime Distribution,5825.13,28733.84,True
+P000723,Lipstick,Beauty,EcoLife,0.652,1311,Retail Source India,20841.38,26814.83,True
+P000724,Shelf,Home,Nimbus,0.454,918,Vertex Imports,10585.85,9235.25,True
+P000725,Laptop,Electronics,Zenith,0.208,386,Vertex Imports,22956.97,11898.87,True
+P000726,Football,Sports,Prime,0.556,618,Vertex Imports,45438.71,8550.78,True
+P000727,Monitor,Electronics,Elite,0.799,699,Vertex Imports,39673.03,18708.36,True
+P000728,Lamp,Home,Nimbus,0.485,1003,Global Supplies Ltd,37562.39,7421.3,True
+P000729,Chair,Home,Fusion,0.856,1278,Vertex Imports,41676.69,7812.68,True
+P000730,Tea,Grocery,Fusion,0.234,511,Retail Source India,26321.92,29559.21,True
+P000731,Cricket Bat,Sports,Urban,0.318,388,Vertex Imports,6759.74,7829.77,True
+P000732,Rice,Grocery,Prime,0.382,1296,Global Supplies Ltd,24431.46,12010.83,False
+P000733,Perfume,Beauty,Nimbus,0.524,518,Global Supplies Ltd,26486.2,28630.37,True
+P000734,Shirt,Fashion,Vision,0.72,890,Apex Manufacturing,18046.86,24118.39,True
+P000735, Cream ,Beauty,Nimbus,0.782,137,Vertex Imports,45249.06,20914.44,True
+P000736,Perfume,Beauty,Nimbus,0.306,764,Apex Manufacturing,27485.33,16996.3,True
+P000737,Lamp,Home,Apex,0.678,348,Global Supplies Ltd,40740.55,25890.47,True
+P000738,Rice,Grocery,Nimbus,0.673,1244,Vertex Imports,25238.48,8741.29,True
+P000739,Headphones,Electronics,Vision,0.791,741,Apex Manufacturing,45073.9,17453.37,True
+P000740,Jacket,Fashion,Fusion,0.512,11,Global Supplies Ltd,41459.54,24632.69,True
+P000741,Phone,Electronics,Nova,0.368,1268,Retail Source India,32365.45,21070.13,False
+P000742,Face Wash,Beauty,EcoLife,0.903,800,Apex Manufacturing,18262.96,8953.99,True
+P000743,Tea,Grocery,Zenith,0.402,1228,Global Supplies Ltd,12439.92,11598.27,True
+P000744,Face Wash,Beauty,Fusion,0.506,559,Retail Source India,6275.33,27270.31,True
+P000745,Lamp,Home,Elite,0.66,52,Global Supplies Ltd,5008.86,1896.01,True
+P000746,Chair,Home,Urban,0.567,1092,Prime Distribution,44371.85,7112.89,True
+P000747,Perfume,Beauty,Nova,0.745,302,Vertex Imports,19787.35,28282.95,False
+P000748,Tablet,Electronics,Prime,0.132,285,Vertex Imports,12420.16,25059.24,True
+P000749,Chair,Home,Fusion,0.592,80,Apex Manufacturing,23756.94,937.65,True
+P000750,Face Wash,Beauty,Vision,0.708,1299,Retail Source India,37589.59,14830.12,False
+P000751,Coffee,Grocery,Zenith,0.498,1104,Apex Manufacturing,24391.06,4066.1,True
+P000752,Tennis Racket,Sports,Prime,0.779,1409,Global Supplies Ltd,1121.16,24985.17,True
+P000753,Jacket,Fashion,Nova,0.726,1225,Apex Manufacturing,48329.8,4381.99,False
+P000754,Table,Home,Prime,0.586,592,Global Supplies Ltd,21899.71,24334.14,True
+P000755,Perfume,Beauty,Fusion,0.758,1453,Prime Distribution,29088.41,9605.93,True
+P000756,Sofa,Home,Elite,0.785,346,Retail Source India,28870.25,27239.68,True
+P000757,Tea,Grocery,Zenith,0.654,873,Retail Source India,1164.95,26544.94,True
+P000758,Shirt,Fashion,Vision,0.534,935,Prime Distribution,4045.75,18445.17,True
+P000759,Perfume,Beauty,Elite,0.745,1396,Retail Source India,29699.22,20250.14,True
+P000760,Shirt,Fashion,Zenith,0.742,708,Global Supplies Ltd,40773.28,29503.0,True
+P000761,Cricket Bat,Sports,Nova,0.743,1129,Vertex Imports,28360.48,19775.74,False
+P000762,Lamp,Home,Zenith,0.551,852,Apex Manufacturing,6349.76,2167.25,True
+P000763,Cap,Fashion,Urban,0.27,526,Retail Source India,14045.73,10801.92,True
+P000764,Shelf,Home,Nimbus,0.52,206,Prime Distribution,40874.87,24742.81,True
+P000765,Coffee,Grocery,Elite,0.533,197,Retail Source India,20732.18,19800.44,True
+P000766,Monitor,Electronics,Elite,0.181,841,Apex Manufacturing,15500.26,3262.28,True
+P000767,Football,Sports,Urban,0.749,20,Vertex Imports,36725.34,7591.67,False
+P000768,Table,Home,Prime,0.356,534,Prime Distribution,21048.48,21076.77,False
+P000769,Monitor,Electronics,Vision,0.834,1389,Prime Distribution,10902.32,24774.82,True
+P000770,Sofa,Home,Zenith,0.255,1077,Retail Source India,32726.67,17127.57,True
+P000771,Cap,Fashion,Apex,0.72,1396,Vertex Imports,43878.56,28628.82,True
+P000772,Monitor,Electronics,Zenith,0.756,1190,Apex Manufacturing,12284.0,25706.04,True
+P000773,Laptop,Electronics,Nimbus,0.806,421,Prime Distribution,49527.56,3199.4,True
+P000774,Cream,Beauty,Prime,0.921,110,Apex Manufacturing,36626.96,10063.16,True
+P000775,Snacks,Grocery,Nova,0.445,1090,Global Supplies Ltd,25520.62,610.44,False
+P000776,Jeans,Fashion,Urban,0.74,1387,Global Supplies Ltd,45892.99,3913.23,True
+P000777,Shirt,Fashion,Apex,0.176,178,Apex Manufacturing,2372.5,15557.99,False
+P000778,Phone,Electronics,EcoLife,0.609,912,Prime Distribution,9267.47,1973.71,False
+P000779,Phone,Electronics,Prime,0.906,573,Prime Distribution,32246.94,19945.53,True
+P000780,Lamp,Home,Apex,0.501,213,Global Supplies Ltd,20626.79,2036.98,True
+P000781,Phone,Electronics,Fusion,0.086,24,Vertex Imports,5615.2,3702.66,True
+P000782,Shirt,Fashion,Zenith,0.666,272,Global Supplies Ltd,36065.51,22807.19,True
+P000783,Tea,Grocery,Vision,0.68,731,Apex Manufacturing,37775.53,29866.04,False
+P000784,Lamp,Home,Zenith,0.551,157,Retail Source India,40056.8,18017.3,False
+P000785,Tea,Grocery,Zenith,0.621,975,Apex Manufacturing,45899.45,25949.81,True
+P000786,Cream,Beauty,Elite,0.343,436,Retail Source India,26898.54,16014.28,True
+P000787,Cream,Beauty,Prime,0.217,1037,Apex Manufacturing,11318.75,8283.58,True
+P000788,Perfume,Beauty,Urban,0.751,839,Retail Source India,40443.54,2580.61,False
+P000789,Rice,Grocery,Elite,0.648,1404,Global Supplies Ltd,24981.7,29235.7,False
+P000790,Shoes,Fashion,Nova,0.456,1297,Global Supplies Ltd,17457.02,14559.58,True
+P000791,Cream,Beauty,Vision,0.852,217,Retail Source India,31914.25,7190.86,False
+P000792,Rice,Grocery,Urban,0.846,626,Retail Source India,9641.55,7104.37,True
+P000793,Football,Sports,Nimbus,0.509,63,Apex Manufacturing,11472.4,9454.7,False
+P000794,Football,Sports,Nova,0.751,1300,Global Supplies Ltd,38409.64,5956.73,True
+P000795,Chair,Home,Urban,0.539,1328,Vertex Imports,35977.52,22685.06,True
+P000796,Shirt,Fashion,Nova,0.597,1057,Retail Source India,33908.79,13708.17,True
+P000797,Juice,Grocery,Prime,0.923,216,Global Supplies Ltd,37039.33,13693.18,True
+P000798,Tea,Grocery,Apex,0.17,1266,Vertex Imports,24775.05,29098.58,True
+P000799,Chair,Home,Elite,0.726,751,Apex Manufacturing,26917.0,517.94,True
+P000800,Monitor,Electronics,Nova,0.894,636,Retail Source India,21433.42,14530.09,False
+P000801,Cap,Fashion,Prime,0.902,258,Vertex Imports,15100.89,28419.15,False
+P000802,Headphones,Electronics,Nimbus,0.654,962,Global Supplies Ltd,5837.52,519.37,True
+P000803,Cream,Beauty,Nova,0.442,321,Vertex Imports,23215.87,1457.84,True
+P000804,Rice,Grocery,Nova,0.605,275,Vertex Imports,42021.36,19799.24,False
+P000805,Snacks,Grocery,Nimbus,0.788,1391,Global Supplies Ltd,37762.66,19190.66,True
+P000806,Shoes,Fashion,Vision,0.634,207,Apex Manufacturing,22171.29,17864.29,True
+P000807,Jeans,Fashion,Nimbus,0.377,956,Global Supplies Ltd,14197.24,15845.52,True
+P000808,Rice,Grocery,Elite,0.633,590,Prime Distribution,6881.38,2557.95,True
+P000809,Shoes,Fashion,Urban,0.304,255,Prime Distribution,23239.45,17860.59,False
+P000810,Laptop,Electronics,Apex,0.451,942,Vertex Imports,9970.74,25294.13,True
+P000811,Yoga Mat,Sports,Zenith,0.494,1410,Vertex Imports,10578.25,4185.27,True
+P000812,Tea,Grocery,Vision,0.337,689,Vertex Imports,5550.11,2040.52,True
+P000813,Rice,Grocery,Fusion,0.138,209,Prime Distribution,36876.57,19505.98,True
+P000814,Headphones,Electronics,Urban,0.825,361,Global Supplies Ltd,48890.76,9313.29,True
+P000815,Snacks,Grocery,Zenith,0.709,500,Vertex Imports,40833.48,16838.12,True
+P000816,Shoes,Fashion,Elite,0.337,838,Global Supplies Ltd,48169.7,9414.47,True
+P000817,Shoes,Fashion,Fusion,0.778,174,Retail Source India,13833.09,24819.58,True
+P000818,Table,Home,Urban,0.647,315,Apex Manufacturing,26545.39,21609.11,True
+P000819,Phone,Electronics,Apex,0.812,1188,Vertex Imports,48377.6,5530.02,True
+P000820,Chair,Home,EcoLife,0.546,471,Vertex Imports,25607.69,20825.25,True
+P000821,Rice,Grocery,EcoLife,0.192,57,Apex Manufacturing,15876.0,26192.11,True
+P000822,Lipstick,Beauty,Zenith,0.787,738,Vertex Imports,39439.29,24682.2,True
+P000823,Shirt,Fashion,Zenith,0.622,988,Vertex Imports,14335.18,27296.92,False
+P000824,Shoes,Fashion,Vision,0.2,874,Vertex Imports,40355.95,1511.82,True
+P000825,Cricket Bat,Sports,EcoLife,0.866,799,Vertex Imports,27362.2,3820.88,False
+P000826,Jacket,Fashion,Vision,0.625,1215,Prime Distribution,39279.35,24476.46,True
+P000827,Snacks,Grocery,Fusion,0.167,206,Prime Distribution,6152.04,26584.29,True
+P000828,Phone,Electronics,Urban,0.46,725,Prime Distribution,30192.31,1353.53,False
+P000829,Tablet,Electronics,Nimbus,0.814,455,Prime Distribution,42136.12,22308.03,False
+P000830,Phone,Electronics,Prime,0.564,278,Vertex Imports,33454.6,26788.04,True
+P000831,Coffee,Grocery,Vision,0.338,807,Global Supplies Ltd,10958.57,11183.4,True
+P000832,Tea,Grocery,Nimbus,0.495,1380,Retail Source India,25474.92,15958.35,True
+P000833,Table,Home,Nimbus,0.538,1404,Prime Distribution,21426.25,23601.43,False
+P000834,Face Wash,Beauty,Nimbus,0.575,537,Vertex Imports,46330.16,9223.51,True
+P000835,Tea,Grocery,Zenith,0.748,237,Prime Distribution,22486.41,5831.72,True
+P000836,Tennis Racket,Sports,Apex,0.723,1349,Prime Distribution,22028.5,3238.79,True
+P000837,Shelf,Home,Apex,0.848,330,Prime Distribution,30025.1,6299.62,True
+P000838,Cricket Bat,Sports,Zenith,0.571,554,Global Supplies Ltd,38345.63,8339.35,True
+P000839,Shoes,Fashion,Fusion,0.523,750,Global Supplies Ltd,4130.37,16595.32,True
+P000840,Perfume,Beauty,Elite,0.909,717,Global Supplies Ltd,46892.39,21235.12,True
+P000841,Lipstick,Beauty,Prime,0.209,1330,Vertex Imports,33990.63,10188.37,True
+P000842,Lamp,Home,EcoLife,0.927,276,Apex Manufacturing,39014.2,27002.6,False
+P000843,Tennis Racket,Sports,Prime,0.42,430,Vertex Imports,34990.67,6549.84,True
+P000844,Snacks,Grocery,Zenith,0.409,272,Apex Manufacturing,26049.48,6517.66,False
+P000845,Tea,Grocery,Elite,0.796,705,Global Supplies Ltd,2149.11,4181.7,True
+P000846,Cricket Bat,Sports,Prime,0.262,396,Vertex Imports,47692.59,20922.4,False
+P000847,Lipstick,Beauty,,0.917,703,Prime Distribution,43741.86,2095.08,True
+P000848,Football,Sports,Nova,0.537,8,Retail Source India,28432.96,5876.64,False
+P000849,Chair,Home,Nimbus,0.947,105,Apex Manufacturing,31172.57,25246.83,False
+P000850,Yoga Mat,Sports,Vision,0.315,266,Retail Source India,23869.08,5823.46,True
+P000851,Headphones,Electronics,EcoLife,0.525,327,Apex Manufacturing,33525.1,29930.62,True
+P000852,Perfume,Beauty,EcoLife,0.74,0,Retail Source India,3033.73,4564.76,True
+P000853,Lipstick,Beauty,Zenith,0.288,320,Global Supplies Ltd,26170.09,25365.83,True
+P000854,Shirt,Fashion,Nimbus,0.969,1432,Vertex Imports,28554.72,23184.15,True
+P000855,Chair,Home,Urban,0.788,1277,Retail Source India,36106.9,28384.98,True
+P000856,Cricket Bat,Sports,Nimbus,0.19,342,Prime Distribution,786.65,28081.6,True
+P000857,Yoga Mat,Sports,Nimbus,0.484,137,Apex Manufacturing,16877.39,5120.54,True
+P000858,Monitor,Electronics,Nova,0.227,1051,Retail Source India,21217.53,19506.3,False
+P000859,Shirt,Fashion,EcoLife,0.524,10,Retail Source India,17005.1,22604.05,True
+P000860,Shirt,Fashion,Nimbus,0.798,896,Prime Distribution,45072.72,11755.25,True
+P000861,Coffee,Grocery,Zenith,0.394,879,Vertex Imports,5308.76,27342.6,True
+P000862,Rice,Grocery,Apex,0.778,462,Retail Source India,13592.47,19880.79,True
+P000863,Snacks,Grocery,Apex,0.851,299,Global Supplies Ltd,24401.0,11612.68,True
+P000864,Shoes,Fashion,Vision,0.817,586,Global Supplies Ltd,21344.67,26370.66,False
+P000865,Football,Sports,Nova,0.592,1390,Retail Source India,33633.58,20864.53,True
+P000866,Cream,Beauty,Apex,0.692,176,Global Supplies Ltd,19825.05,24340.84,False
+P000867,Cricket Bat,Sports,Fusion,0.489,187,Retail Source India,22435.2,7122.69,False
+P000868,Lipstick,Beauty,Urban,0.43,968,Global Supplies Ltd,3716.72,4845.22,True
+P000869,Phone,Electronics,Apex,0.537,1372,Retail Source India,26124.7,4459.23,True
+P000870,Shelf,Home,Zenith,0.653,553,Apex Manufacturing,236.87,1226.36,True
+P000871,Cricket Bat,Sports,EcoLife,0.804,764,Apex Manufacturing,39339.77,5394.11,False
+P000872,Snacks,Grocery,Prime,0.76,451,Prime Distribution,23534.19,6289.87,True
+P000873,Football,Sports,Urban,0.559,990,Prime Distribution,49451.47,4671.26,True
+P000874,Laptop,Electronics,Urban,0.602,1036,Retail Source India,17511.43,17629.98,True
+P000875,Chair,Home,Apex,0.398,795,Apex Manufacturing,1084.08,17431.0,True
+P000876,Cap,Fashion,EcoLife,0.426,1338,Retail Source India,2404.27,28614.24,True
+P000877,Shelf,Home,Apex,0.271,503,Apex Manufacturing,16985.05,5711.99,True
+P000878,Tennis Racket,Sports,EcoLife,0.471,1391,Retail Source India,49898.47,13342.06,False
+P000879,Headphones,Electronics,Nova,0.582,50,Apex Manufacturing,13690.55,11350.95,True
+P000880,Chair,Home,Zenith,0.194,104,Vertex Imports,36689.46,2426.38,False
+P000881,Jacket,Fashion,Apex,0.412,1146,Apex Manufacturing,4214.16,21859.85,False
+P000882,Sofa,Home,Zenith,0.589,162,Vertex Imports,44612.55,21250.79,True
+P000883,Headphones,Electronics,Apex,0.919,1027,Apex Manufacturing,21511.22,15729.51,True
+P000884,Lipstick,Beauty,Apex,0.261,348,Apex Manufacturing,25344.64,26477.24,True
+P000885,Shirt,Fashion,Nimbus,0.628,962,Prime Distribution,20971.42,21278.62,True
+P000886,Tablet,Electronics,Prime,0.419,448,Retail Source India,43488.99,25043.21,True
+P000887,Phone,Electronics,Nova,0.148,1430,Global Supplies Ltd,10659.93,29096.69,True
+P000888,Shoes,Fashion,EcoLife,0.465,719,Apex Manufacturing,22723.63,23862.31,True
+P000889,Jacket,Fashion,Apex,0.321,951,Apex Manufacturing,19590.33,8936.19,False
+P000890,Lipstick,Beauty,Vision,0.669,202,Apex Manufacturing,34312.55,22170.71,True
+P000891,Tennis Racket,Sports,Zenith,0.863,1366,Apex Manufacturing,37616.59,12014.98,True
+P000892,Tennis Racket,Sports,Fusion,0.566,515,Apex Manufacturing,48635.97,1453.72,True
+P000893,Chair,Home,Urban,0.811,286,Retail Source India,21845.94,9919.49,True
+P000894,Chair,Home,Urban,0.253,1173,Retail Source India,26910.59,14878.48,True
+P000895,Lipstick,Beauty,Zenith,0.969,958,Vertex Imports,15024.4,8312.42,True
+P000896,Phone,Electronics,EcoLife,0.541,83,Apex Manufacturing,44531.52,5146.52,False
+P000897, Rice ,Grocery,EcoLife,0.586,1404,Vertex Imports,1831.58,11428.11,False
+P000898,Table,Home,Fusion,0.417,76,Prime Distribution,8195.13,26008.28,True
+P000899,Chair,Home,Elite,0.651,388,Retail Source India,41055.98,7210.01,True
+P000900,Laptop,Electronics,Elite,0.783,1041,Vertex Imports,33462.34,12044.49,True
+P000901,Cream,Beauty,Urban,0.64,654,Vertex Imports,6758.14,8722.01,True
+P000902,Cream,Beauty,Urban,0.273,394,Apex Manufacturing,30469.78,28095.26,True
+P000903,Tennis Racket,Sports,EcoLife,0.425,149,Apex Manufacturing,47886.53,26396.86,True
+P000904,Tea,Grocery,Elite,0.711,672,Vertex Imports,48447.08,28659.45,False
+P000905,Lamp,Home,Vision,0.786,1111,Retail Source India,17834.52,26562.51,False
+P000906,Rice,Grocery,Zenith,0.709,288,Vertex Imports,47233.08,11642.88,True
+P000907,Rice,Grocery,Nimbus,0.756,227,Apex Manufacturing,6532.56,25828.31,True
+P000908,Coffee,Grocery,Prime,0.677,805,Retail Source India,14269.47,12976.85,True
+P000909,Phone,Electronics,Nimbus,0.602,889,Apex Manufacturing,28273.01,25161.79,True
+P000910,Headphones,Electronics,Nova,0.345,1012,Global Supplies Ltd,30375.2,1790.94,True
+P000911,Juice,Grocery,Prime,0.803,384,Retail Source India,47759.86,13653.19,True
+P000912, Chair ,Home,Urban,0.701,1171,Global Supplies Ltd,31732.19,26976.16,False
+P000913,Lamp,Home,Apex,0.577,374,Prime Distribution,1879.0,11751.05,False
+P000914,Football,Sports,Vision,0.683,1388,Vertex Imports,1919.83,4711.98,True
+P000915,Rice,Grocery,Prime,0.513,1379,Retail Source India,4658.05,8331.63,True
+P000916,Tablet,Electronics,Urban,0.506,1219,Retail Source India,41925.39,2013.1,True
+P000917,Chair,Home,Apex,0.643,388,Vertex Imports,2558.59,8436.59,True
+P000918,Tea,Grocery,Vision,0.882,1055,Global Supplies Ltd,42762.94,19207.55,False
+P000919,Laptop,Electronics,Apex,0.101,414,Global Supplies Ltd,1300.02,18611.08,False
+P000920,Football,Sports,EcoLife,0.39,1387,Vertex Imports,35159.95,7283.71,True
+P000921,Cricket Bat,Sports,Vision,0.621,726,Vertex Imports,12937.03,11965.22,False
+P000922,Table,Home,Zenith,0.888,691,Vertex Imports,15568.23,27806.23,True
+P000923,Yoga Mat,Sports,Prime,0.853,832,Apex Manufacturing,5377.06,26744.89,True
+P000924,Perfume,Beauty,Nimbus,0.754,261,Retail Source India,13386.17,13907.01,True
+P000925,Shelf,Home,Urban,0.248,1314,Global Supplies Ltd,10463.94,7677.77,True
+P000926,Rice,Grocery,,0.589,967,Retail Source India,42748.43,16210.84,True
+P000927,Perfume,Beauty,Apex,0.789,969,Prime Distribution,10839.4,26542.74,True
+P000928,Lamp,Home,Nimbus,0.821,452,Apex Manufacturing,45956.05,20675.24,True
+P000929,Shelf,Home,Urban,0.681,1161,Vertex Imports,15821.41,20055.33,True
+P000930,Jacket,Fashion,Elite,0.777,183,Apex Manufacturing,47026.58,5649.84,True
+P000931,Headphones,Electronics,Fusion,0.815,1477,Vertex Imports,29942.2,1423.45,True
+P000932,Shirt,Fashion,Apex,0.829,803,Vertex Imports,14576.06,6347.45,True
+P000933,Juice,Grocery,Fusion,0.675,517,Prime Distribution,7899.88,22816.41,True
+P000934,Rice,Grocery,Prime,0.381,904,Apex Manufacturing,35918.38,7207.35,True
+P000935,Cricket Bat,Sports,EcoLife,0.848,913,Retail Source India,16048.42,14497.99,True
+P000936,Face Wash,Beauty,Vision,0.649,762,Prime Distribution,2070.67,1355.76,True
+P000937,Headphones,Electronics,Vision,0.699,287,Vertex Imports,25772.5,25820.98,False
+P000938,Yoga Mat,Sports,Apex,0.567,1129,Apex Manufacturing,6117.72,5012.67,True
+P000939,Tennis Racket,Sports,Vision,0.489,862,Prime Distribution,11088.94,21366.55,False
+P000940,Shoes,Fashion,Fusion,0.815,1082,Vertex Imports,46919.9,23148.18,True
+P000941,Shoes,Fashion,Vision,0.521,953,Vertex Imports,24804.51,9441.79,True
+P000942,Cream,Beauty,Zenith,0.563,1381,Apex Manufacturing,18012.87,24519.53,True
+P000943,Cream,Beauty,Fusion,0.142,1311,Prime Distribution,35296.42,13458.71,True
+P000944,Chair,Home,Fusion,0.75,1056,Vertex Imports,31907.64,2693.86,True
+P000945,Shelf,Home,Prime,0.516,1499,Vertex Imports,16991.72,14424.72,True
+P000946,Rice,Grocery,Prime,0.441,812,Apex Manufacturing,2349.19,2149.1,True
+P000947,Cricket Bat,Sports,Nova,0.401,966,Global Supplies Ltd,27301.65,6659.34,False
+P000948,Chair,Home,EcoLife,0.358,33,Retail Source India,38980.24,10883.02,True
+P000949,Jacket,Fashion,Vision,0.685,340,Retail Source India,31934.27,1036.47,True
+P000950,Cream,Beauty,Prime,0.659,52,Apex Manufacturing,40282.52,20322.29,True
+P000951,Lamp,Home,EcoLife,0.608,435,Vertex Imports,37601.06,12116.09,True
+P000952,Monitor,Electronics,Zenith,0.63,636,Vertex Imports,20022.01,29417.24,False
+P000953,Cream,Beauty,EcoLife,0.434,1401,Global Supplies Ltd,34032.36,16973.77,True
+P000954,Sofa,Home,EcoLife,0.375,1397,Vertex Imports,45280.55,541.18,True
+P000955,Jeans,Fashion,Urban,0.775,874,Prime Distribution,28586.12,23793.07,False
+P000956,Cricket Bat,Sports,Prime,0.424,292,Vertex Imports,22451.5,24447.8,False
+P000957,Lamp,Home,Apex,0.741,845,Retail Source India,41019.88,18191.87,True
+P000958,Yoga Mat,Sports,Apex,0.608,394,Prime Distribution,12740.43,7579.6,False
+P000959,Cricket Bat,Sports,Nova,0.535,610,Retail Source India,36470.5,11620.74,True
+P000960,Yoga Mat,Sports,Fusion,0.385,1124,Apex Manufacturing,37911.79,22398.98,False
+P000961,Face Wash,Beauty,Apex,0.918,1237,Vertex Imports,44485.74,22629.65,True
+P000962,Phone,Electronics,Fusion,0.693,663,Apex Manufacturing,40020.1,6924.96,True
+P000963,Shirt,Fashion,EcoLife,0.923,466,Prime Distribution,43454.47,16356.68,True
+P000964,Phone,Electronics,Vision,0.472,861,Retail Source India,3499.04,4099.84,True
+P000965,Yoga Mat,Sports,Nimbus,0.915,507,Retail Source India,27596.61,120.64,True
+P000966,Shelf,Home,Nova,0.276,440,Global Supplies Ltd,25108.59,11043.55,True
+P000967,Tablet,Electronics,Vision,0.671,745,Prime Distribution,10890.83,27849.01,True
+P000968,Cricket Bat,Sports,Vision,0.722,596,Global Supplies Ltd,29722.99,5364.12,True
+P000969,Football,Sports,Vision,0.335,1218,Apex Manufacturing,24246.94,1097.18,True
+P000970,Lamp,Home,Nimbus,0.16,501,Global Supplies Ltd,33188.02,13722.16,True
+P000971,Yoga Mat,Sports,Nova,0.122,11,Global Supplies Ltd,32842.3,19183.68,True
+P000972,Cricket Bat,Sports,Urban,0.807,435,Prime Distribution,46956.65,25505.58,True
+P000973,Cap,Fashion,EcoLife,0.854,985,Global Supplies Ltd,18698.63,2228.28,True
+P000974,Coffee,Grocery,Fusion,0.691,232,Apex Manufacturing,48820.8,1804.54,False
+P000975,Laptop,Electronics,Prime,0.645,381,Global Supplies Ltd,42203.93,1644.2,True
+P000976,Snacks,Grocery,EcoLife,0.13,1116,Prime Distribution,14223.31,21416.22,True
+P000977,Lamp,Home,Prime,0.324,1364,Global Supplies Ltd,1347.86,25840.57,True
+P000978,Chair,Home,Elite,0.653,284,Vertex Imports,9426.42,13553.5,True
+P000979,Shirt,Fashion,Nova,0.834,180,Prime Distribution,5673.99,13127.76,True
+P000980,Rice,Grocery,EcoLife,0.896,440,Prime Distribution,44537.82,14848.52,True
+P000981,Headphones,Electronics,Elite,0.566,1035,Global Supplies Ltd,5735.69,13018.54,False
+P000982,Tea,Grocery,Prime,0.894,14,Prime Distribution,16060.95,10026.13,False
+P000983,Shoes,Fashion,Fusion,0.592,32,Prime Distribution,8638.71,18463.01,True
+P000984,Phone,Electronics,Urban,0.423,47,Vertex Imports,47276.65,407.17,True
+P000985,Tablet,Electronics,Apex,0.771,124,Vertex Imports,1470.69,9704.44,True
+P000986,Phone,Electronics,EcoLife,0.511,1121,Vertex Imports,20701.74,14707.18,True
+P000987,Lamp,Home,EcoLife,0.458,925,Retail Source India,24657.66,22028.4,True
+P000988,Headphones,Electronics,Fusion,0.476,602,Global Supplies Ltd,-1.0,15322.61,True
+P000989,Shoes,Fashion,Nova,0.287,334,Apex Manufacturing,8433.2,19255.16,False
+P000990,Shelf,Home,Prime,0.654,1156,Global Supplies Ltd,5978.46,20703.66,True
+P000991,Chair,Home,Elite,0.295,322,Global Supplies Ltd,41338.21,7705.79,False
+P000992,Lamp,Home,EcoLife,0.194,1265,Retail Source India,2073.06,932.63,True
+P000993,Phone,Electronics,Elite,0.26,960,Vertex Imports,42807.46,14264.83,True
+P000994,Rice,Grocery,Nova,0.717,556,Retail Source India,17647.02,24369.3,False
+P000995,Cream,Beauty,EcoLife,0.658,399,Global Supplies Ltd,8260.03,28662.03,True
+P000996,Phone,Electronics,Nimbus,0.18,1299,Vertex Imports,27196.93,2453.49,True
+P000997,Face Wash,Beauty,EcoLife,0.333,127,Global Supplies Ltd,5079.94,22604.26,True
+P000998,Shoes,Fashion,Zenith,0.78,823,Apex Manufacturing,22005.01,27068.47,True
+P000999,Chair,Home,Fusion,0.75,197,Apex Manufacturing,2046.63,4640.69,True
+P001000,Cricket Bat,Sports,Urban,0.273,989,Apex Manufacturing,37943.28,1251.65,True

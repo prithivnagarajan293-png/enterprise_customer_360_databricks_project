@@ -1,51 +1,51 @@
 store_id,store_name,city,state,region,opening_date
-S001,Chennai Store 1,Chennai,Tamil Nadu,East,2026-07-23
-S002,Mumbai Store 2,Mumbai,Maharashtra,North,2026-07-23
-S003,Jaipur Store 3,Jaipur,Rajasthan,South,2026-07-23
-S004,Ahmedabad Store 4,Ahmedabad,Gujarat,East,2026-07-23
-S005,Mumbai Store 5,Mumbai,Maharashtra,North,2026-07-23
-S006,Hyderabad Store 6,Hyderabad,Telangana,West,2026-07-23
-S007,Kolkata Store 7,Kolkata,West Bengal,West,2026-07-23
-S008,Pune Store 8,Pune,Maharashtra,West,2026-07-23
-S009,Chennai Store 9,Chennai,Tamil Nadu,South,2026-07-23
-S010,Mumbai Store 10,Mumbai,Maharashtra,South,2026-07-23
-S011,Kolkata Store 11,Kolkata,West Bengal,North,2026-07-23
-S012,Kolkata Store 12,Kolkata,West Bengal,East,2026-07-23
-S013,Pune Store 13,Pune,Maharashtra,North,2026-07-23
-S014,Kolkata Store 14,Kolkata,West Bengal,South,2026-07-23
-S015,Delhi Store 15,Delhi,Delhi,West,2026-07-23
-S016,Pune Store 16,Pune,Maharashtra,East,2026-07-23
-S017,Pune Store 17,Pune,Maharashtra,South,2026-07-23
-S018,Kolkata Store 18,Kolkata,West Bengal,West,2026-07-23
-S019,Hyderabad Store 19,Hyderabad,Telangana,North,2026-07-23
-S020,Mumbai Store 20,Mumbai,Maharashtra,West,2026-07-23
-S021,Ahmedabad Store 21,Ahmedabad,Gujarat,North,2026-07-23
-S022,Hyderabad Store 22,Hyderabad,Telangana,West,2026-07-23
-S023,Pune Store 23,Pune,Maharashtra,North,2026-07-23
-S024,Chennai Store 24,Chennai,Tamil Nadu,North,2026-07-23
-S025,Pune Store 25,Pune,Maharashtra,West,2026-07-23
-S026,Coimbatore Store 26,Coimbatore,Tamil Nadu,West,2026-07-23
-S027,Chennai Store 27,Chennai,Tamil Nadu,West,2026-07-23
-S028,Jaipur Store 28,Jaipur,Rajasthan,North,2026-07-23
-S029,Pune Store 29,Pune,Maharashtra,West,2026-07-23
-S030,Bengaluru Store 30,Bengaluru,Karnataka,North,2026-07-23
-S031,Hyderabad Store 31,Hyderabad,Telangana,North,2026-07-23
-S032,Coimbatore Store 32,Coimbatore,Tamil Nadu,North,2026-07-23
-S033,Kolkata Store 33,Kolkata,West Bengal,West,2026-07-23
-S034,Jaipur Store 34,Jaipur,Rajasthan,South,2026-07-23
-S035,Hyderabad Store 35,Hyderabad,Telangana,South,2026-07-23
-S036,Pune Store 36,Pune,Maharashtra,South,2026-07-23
-S037,Jaipur Store 37,Jaipur,Rajasthan,South,2026-07-23
-S038,Mumbai Store 38,Mumbai,Maharashtra,North,2026-07-23
-S039,Pune Store 39,Pune,Maharashtra,East,2026-07-23
-S040,Coimbatore Store 40,Coimbatore,Tamil Nadu,East,2026-07-23
-S041,Jaipur Store 41,Jaipur,Rajasthan,East,2026-07-23
-S042,Bengaluru Store 42,Bengaluru,Karnataka,West,2026-07-23
-S043,Pune Store 43,Pune,Maharashtra,West,2026-07-23
-S044,Chennai Store 44,Chennai,Tamil Nadu,West,2026-07-23
-S045,Jaipur Store 45,Jaipur,Rajasthan,East,2026-07-23
-S046,Mumbai Store 46,Mumbai,Maharashtra,South,2026-07-23
-S047,Bengaluru Store 47,Bengaluru,Karnataka,South,2026-07-23
-S048,Chennai Store 48,Chennai,Tamil Nadu,South,2026-07-23
-S049,Delhi Store 49,Delhi,Delhi,South,2026-07-23
-S050,Kolkata Store 50,Kolkata,West Bengal,East,2026-07-23
+S001,Mumbai Store 1,Mumbai,Maharashtra,North,2026-07-23
+S002,Delhi Store 2,Delhi,Delhi,East,2026-07-23
+S003,Mumbai Store 3,Mumbai,Maharashtra,East,2026-07-23
+S004,Ahmedabad Store 4,Ahmedabad,Gujarat,South,2026-07-23
+S005,Ahmedabad Store 5,Ahmedabad,Gujarat,West,2026-07-23
+S006,Hyderabad Store 6,Hyderabad,Telangana,East,2026-07-23
+S007,Mumbai Store 7,Mumbai,Maharashtra,South,2026-07-23
+S008,Chennai Store 8,Chennai,Tamil Nadu,East,2026-07-23
+S009,Jaipur Store 9,Jaipur,Rajasthan,South,2026-07-23
+S010,Coimbatore Store 10,Coimbatore,Tamil Nadu,East,2026-07-23
+S011,Coimbatore Store 11,Coimbatore,Tamil Nadu,West,2026-07-23
+S012,Mumbai Store 12,Mumbai,Maharashtra,East,2026-07-23
+S013,Coimbatore Store 13,Coimbatore,Tamil Nadu,West,2026-07-23
+S014,Hyderabad Store 14,Hyderabad,Telangana,West,2026-07-23
+S015,Hyderabad Store 15,Hyderabad,Telangana,South,2026-07-23
+S016,Mumbai Store 16,Mumbai,Maharashtra,East,2026-07-23
+S017,Ahmedabad Store 17,Ahmedabad,Gujarat,North,2026-07-23
+S018,Hyderabad Store 18,Hyderabad,Telangana,East,2026-07-23
+S019,Chennai Store 19,Chennai,Tamil Nadu,South,2026-07-23
+S020,Jaipur Store 20,Jaipur,Rajasthan,West,2026-07-23
+S021,Kolkata Store 21,Kolkata,West Bengal,South,2026-07-23
+S022,Jaipur Store 22,Jaipur,Rajasthan,East,2026-07-23
+S023,Kolkata Store 23,Kolkata,West Bengal,East,2026-07-23
+S024,Coimbatore Store 24,Coimbatore,Tamil Nadu,East,2026-07-23
+S025,Delhi Store 25,Delhi,Delhi,South,2026-07-23
+S026,Ahmedabad Store 26,Ahmedabad,Gujarat,South,2026-07-23
+S027,Jaipur Store 27,Jaipur,Rajasthan,South,2026-07-23
+S028,Pune Store 28,Pune,Maharashtra,West,2026-07-23
+S029,Pune Store 29,Pune,Maharashtra,South,2026-07-23
+S030,Mumbai Store 30,Mumbai,Maharashtra,North,2026-07-23
+S031,Coimbatore Store 31,Coimbatore,Tamil Nadu,West,2026-07-23
+S032,Ahmedabad Store 32,Ahmedabad,Gujarat,West,2026-07-23
+S033,Hyderabad Store 33,Hyderabad,Telangana,South,2026-07-23
+S034,Ahmedabad Store 34,Ahmedabad,Gujarat,South,2026-07-23
+S035,Pune Store 35,Pune,Maharashtra,South,2026-07-23
+S036,Mumbai Store 36,Mumbai,Maharashtra,East,2026-07-23
+S037,Chennai Store 37,Chennai,Tamil Nadu,West,2026-07-23
+S038,Hyderabad Store 38,Hyderabad,Telangana,North,2026-07-23
+S039,Bengaluru Store 39,Bengaluru,Karnataka,West,2026-07-23
+S040,Kolkata Store 40,Kolkata,West Bengal,South,2026-07-23
+S041,Mumbai Store 41,Mumbai,Maharashtra,East,2026-07-23
+S042,Chennai Store 42,Chennai,Tamil Nadu,North,2026-07-23
+S043,Delhi Store 43,Delhi,Delhi,South,2026-07-23
+S044,Bengaluru Store 44,Bengaluru,Karnataka,East,2026-07-23
+S045,Kolkata Store 45,Kolkata,West Bengal,South,2026-07-23
+S046,Delhi Store 46,Delhi,Delhi,East,2026-07-23
+S047,Hyderabad Store 47,Hyderabad,Telangana,West,2026-07-23
+S048,Mumbai Store 48,Mumbai,Maharashtra,West,2026-07-23
+S049,Hyderabad Store 49,Hyderabad,Telangana,West,2026-07-23
+S050,Hyderabad Store 50,Hyderabad,Telangana,South,2026-07-23

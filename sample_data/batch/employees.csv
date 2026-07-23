@@ -1,501 +1,501 @@
 employee_id,first_name,last_name,store_id,role,hire_date
-E00001,Tyler,Garcia,S027,Inventory Executive,2026-01-29
-E00002,Nicole,Evans,S022,Store Manager,2026-04-18
-E00003,Anna,Gray,S048,Cashier,2016-09-27
-E00004,Rita,Mcbride,S037,Cashier,2026-01-16
-E00005,Kimberly,Harris,S010,Cashier,2020-04-29
-E00006,Amanda,Greene,S020,Cashier,2025-11-20
-E00007,Nicholas,Roberts,S050,Cashier,2025-06-05
-E00008,Patrick,Crawford,S021,Store Manager,2017-10-04
-E00009,Justin,Brown,S035,Inventory Executive,2021-08-05
-E00010,Emily,Vazquez,S003,Store Manager,2018-05-24
-E00011,Isaac,Brown,S007,Cashier,2016-08-23
-E00012,Peggy,Lopez,S039,Sales Associate,2023-06-14
-E00013,Troy,Dixon,S013,Store Manager,2021-10-10
-E00014,William,Roth,S026,Store Manager,2019-10-06
-E00015,Christopher,Townsend,S047,Sales Associate,2022-11-12
-E00016,Alexander,Patel,S015,Supervisor,2021-06-01
-E00017,Jennifer,Henderson,S013,Sales Associate,2020-07-07
-E00018,Melissa,Clark,S001,Store Manager,2017-10-24
-E00019,Mark,Noble,S031,Store Manager,2019-09-29
-E00020,Molly,Wade,S045,Store Manager,2022-12-02
-E00021,Sydney,Johnson,S013,Supervisor,2021-07-20
-E00022,Susan,Larsen,S045,Cashier,2023-10-12
-E00023,Natalie,Smith,S001,Inventory Executive,2019-10-02
-E00024,Heather,Bailey,S035,Store Manager,2025-10-22
-E00025,Rachel,Coffey,S008,Supervisor,2023-12-07
-E00026,Ethan,Garza,S050,Store Manager,2022-01-19
-E00027,Kelsey,Pace,S015,Supervisor,2020-03-14
-E00028,Matthew,Patterson,S029,Cashier,2020-07-02
-E00029,Melanie,Moore,S041,Sales Associate,2024-03-11
-E00030,Sharon,Sullivan,S007,Supervisor,2022-03-18
-E00031,Michelle,Alvarez,S001,Store Manager,2026-03-22
-E00032,Mike,Baker,S029,Cashier,2020-02-05
-E00033,Beth,Bailey,S008,Sales Associate,2016-09-26
-E00034,Richard,Wong,S022,Inventory Executive,2025-06-08
-E00035,James,Roy,S011,Inventory Executive,2018-01-30
-E00036,Holly,Mendez,S044,Sales Associate,2021-05-31
-E00037,Amanda,Miller,S014,Inventory Executive,2025-11-29
-E00038,Alexander,Graves,S048,Supervisor,2023-06-21
-E00039,Misty,Rodriguez,S006,Supervisor,2018-03-30
-E00040,Charles,Smith,S042,Inventory Executive,2021-11-02
-E00041,Wendy,Cannon,S024,Supervisor,2023-11-01
-E00042,Anthony,Graham,S034,Cashier,2017-07-05
-E00043,Todd,Ray,S030,Supervisor,2019-08-12
-E00044,Kathleen,Becker,S039,Supervisor,2016-12-16
-E00045,Lucas,Weeks,S024,Cashier,2016-08-10
-E00046,Jorge,Brown,S023,Inventory Executive,2019-08-03
-E00047,Samantha,Rice,S007,Supervisor,2019-02-23
-E00048,Donald,Clark,S048,Sales Associate,2017-07-29
-E00049,Lawrence,Washington,S045,Inventory Executive,2021-11-18
-E00050,Joseph,Cordova,S016,Cashier,2023-03-27
-E00051,Kelly,Simmons,S049,Cashier,2021-12-27
-E00052,Angel,Golden,S004,Store Manager,2017-08-10
-E00053,William,Cooper,S047,Store Manager,2018-02-17
-E00054,Valerie,Sanchez,S038,Cashier,2020-05-03
-E00055,Caleb,Pierce,S050,Supervisor,2017-01-06
-E00056,Brittany,Cobb,S039,Inventory Executive,2019-11-04
-E00057,Jeffrey,Johnson,S013,Sales Associate,2017-10-22
-E00058,Rebecca,King,S046,Cashier,2018-03-04
-E00059,Melissa,Molina,S032,Inventory Executive,2019-03-14
-E00060,Stephanie,Malone,S014,Supervisor,2024-04-12
-E00061,Todd,Williams,S019,Supervisor,2021-04-21
-E00062,Dana,Alvarez,S002,Inventory Executive,2018-03-04
-E00063,Fernando,Campbell,S039,Store Manager,2020-12-12
-E00064,Tina,Santos,S047,Store Manager,2021-02-23
-E00065,Kathleen,Mills,S003,Supervisor,2020-08-21
-E00066,Gregory,Dawson,S023,Store Manager,2019-11-22
-E00067,Richard,Butler,S023,Sales Associate,2018-01-15
-E00068,Susan,Johnson,S048,Store Manager,2020-01-09
-E00069,Vanessa,Valdez,S037,Sales Associate,2018-06-30
-E00070,Lorraine,Rodriguez,S024,Supervisor,2017-05-29
-E00071,Mark,Wilson,S002,Supervisor,2022-05-13
-E00072,Austin,Ellis,S025,Store Manager,2018-09-27
-E00073,Matthew,Krueger,S001,Inventory Executive,2018-02-28
-E00074,Austin,Savage,S017,Supervisor,2022-01-23
-E00075,Jamie,Garcia,S012,Cashier,2018-10-31
-E00076,Alexis,Reyes,S031,Inventory Executive,2021-01-19
-E00077,Sandra,Diaz,S042,Store Manager,2022-07-24
-E00078,Rodney,Olson,S028,Sales Associate,2023-12-09
-E00079,Sheri,Brooks,S042,Sales Associate,2019-01-09
+E00001,Tyler,Garcia,S013,Store Manager,2026-01-29
+E00002,Nicole,Evans,S030,Cashier,2026-04-18
+E00003,Anna,Gray,S019,Store Manager,2016-09-27
+E00004,Rita,Mcbride,S018,Store Manager,2026-01-16
+E00005,Kimberly,Harris,S024,Cashier,2020-04-29
+E00006,Amanda,Greene,S048,Store Manager,2025-11-20
+E00007,Nicholas,Roberts,S014,Store Manager,2025-06-05
+E00008,Patrick,Crawford,S019,Sales Associate,2017-10-04
+E00009,Justin,Brown,S006,Cashier,2021-08-05
+E00010,Emily,Vazquez,S007,Supervisor,2018-05-24
+E00011,Isaac,Brown,S022,Store Manager,2016-08-23
+E00012,Peggy,Lopez,S037,Store Manager,2023-06-14
+E00013,Troy,Dixon,S019,Inventory Executive,2021-10-10
+E00014,William,Roth,S022,Supervisor,2019-10-06
+E00015,Christopher,Townsend,S042,Store Manager,2022-11-12
+E00016,Alexander,Patel,S011,Cashier,2021-06-01
+E00017,Jennifer,Henderson,S041,Inventory Executive,2020-07-07
+E00018,Melissa,Clark,S035,Store Manager,2017-10-24
+E00019,Mark,Noble,S012,Store Manager,2019-09-29
+E00020,Molly,Wade,S025,Sales Associate,2022-12-02
+E00021,Sydney,Johnson,S033,Cashier,2021-07-20
+E00022,Susan,Larsen,S024,Cashier,2023-10-12
+E00023,Natalie,Smith,S011,Inventory Executive,2019-10-02
+E00024,Heather,Bailey,S008,Cashier,2025-10-22
+E00025,Rachel,Coffey,S027,Store Manager,2023-12-07
+E00026,Ethan,Garza,S049,Supervisor,2022-01-19
+E00027,Kelsey,Pace,S042,Inventory Executive,2020-03-14
+E00028,Matthew,Patterson,S012,Store Manager,2020-07-02
+E00029,Melanie,Moore,S043,Supervisor,2024-03-11
+E00030,Sharon,Sullivan,S019,Sales Associate,2022-03-18
+E00031,Michelle,Alvarez,S038,Inventory Executive,2026-03-22
+E00032,Mike,Baker,S033,Supervisor,2020-02-05
+E00033,Beth,Bailey,S012,Store Manager,2016-09-26
+E00034,Richard,Wong,S029,Sales Associate,2025-06-08
+E00035,James,Roy,S021,Sales Associate,2018-01-30
+E00036,Holly,Mendez,S042,Inventory Executive,2021-05-31
+E00037,Amanda,Miller,S040,Inventory Executive,2025-11-29
+E00038,Alexander,Graves,S032,Store Manager,2023-06-21
+E00039,Misty,Rodriguez,S049,Inventory Executive,2018-03-30
+E00040,Charles,Smith,S008,Store Manager,2021-11-02
+E00041,Wendy,Cannon,S016,Cashier,2023-11-01
+E00042,Anthony,Graham,S004,Supervisor,2017-07-05
+E00043,Todd,Ray,S021,Cashier,2019-08-12
+E00044,Kathleen,Becker,S017,Store Manager,2016-12-16
+E00045,Lucas,Weeks,S042,Cashier,2016-08-10
+E00046,Jorge,Brown,S034,Sales Associate,2019-08-03
+E00047,Samantha,Rice,S018,Supervisor,2019-02-23
+E00048,Donald,Clark,S037,Sales Associate,2017-07-29
+E00049,Lawrence,Washington,S044,Sales Associate,2021-11-18
+E00050,Joseph,Cordova,S004,Store Manager,2023-03-27
+E00051,Kelly,Simmons,S030,Inventory Executive,2021-12-27
+E00052,Angel,Golden,S011,Store Manager,2017-08-10
+E00053,William,Cooper,S021,Sales Associate,2018-02-17
+E00054,Valerie,Sanchez,S005,Cashier,2020-05-03
+E00055,Caleb,Pierce,S047,Inventory Executive,2017-01-06
+E00056,Brittany,Cobb,S006,Sales Associate,2019-11-04
+E00057,Jeffrey,Johnson,S017,Supervisor,2017-10-22
+E00058,Rebecca,King,S020,Sales Associate,2018-03-04
+E00059,Melissa,Molina,S048,Supervisor,2019-03-14
+E00060,Stephanie,Malone,S035,Supervisor,2024-04-12
+E00061,Todd,Williams,S011,Store Manager,2021-04-21
+E00062,Dana,Alvarez,S014,Cashier,2018-03-04
+E00063,Fernando,Campbell,S041,Cashier,2020-12-12
+E00064,Tina,Santos,S018,Supervisor,2021-02-23
+E00065,Kathleen,Mills,S001,Supervisor,2020-08-21
+E00066,Gregory,Dawson,S027,Inventory Executive,2019-11-22
+E00067,Richard,Butler,S025,Cashier,2018-01-15
+E00068,Susan,Johnson,S047,Cashier,2020-01-09
+E00069,Vanessa,Valdez,S025,Inventory Executive,2018-06-30
+E00070,Lorraine,Rodriguez,S041,Supervisor,2017-05-29
+E00071,Mark,Wilson,S016,Supervisor,2022-05-13
+E00072,Austin,Ellis,S020,Inventory Executive,2018-09-27
+E00073,Matthew,Krueger,S007,Sales Associate,2018-02-28
+E00074,Austin,Savage,S005,Inventory Executive,2022-01-23
+E00075,Jamie,Garcia,S032,Inventory Executive,2018-10-31
+E00076,Alexis,Reyes,S045,Cashier,2021-01-19
+E00077,Sandra,Diaz,S025,Store Manager,2022-07-24
+E00078,Rodney,Olson,S001,Supervisor,2023-12-09
+E00079,Sheri,Brooks,S005,Store Manager,2019-01-09
 E00080,Maria,Quinn,S029,Cashier,2020-10-21
-E00081,Mercedes,Chen,S038,Sales Associate,2025-09-16
-E00082,Joshua,Diaz,S027,Cashier,2023-05-28
-E00083,Jeremy,Perez,S049,Sales Associate,2022-09-29
-E00084,Louis,Garcia,S041,Supervisor,2020-10-05
-E00085,Dylan,Lyons,S048,Cashier,2018-01-19
-E00086,Jaime,Davis,S008,Inventory Executive,2016-07-22
-E00087,Amy,Aguilar,S028,Inventory Executive,2023-06-28
-E00088,Amanda,Richmond,S002,Cashier,2023-09-13
-E00089,Debra,Waters,S002,Inventory Executive,2020-11-09
-E00090,Jennifer,Douglas,S015,Supervisor,2026-01-11
-E00091,Kristy,Smith,S001,Inventory Executive,2022-03-17
-E00092,Scott,Chapman,S042,Cashier,2024-11-08
-E00093,Jared,Black,S038,Store Manager,2021-01-06
-E00094,Suzanne,Waller,S037,Cashier,2019-12-09
-E00095,Robin,Fuller,S036,Cashier,2018-12-27
-E00096,Maria,Rodriguez,S042,Supervisor,2018-07-03
-E00097,George,Morris,S004,Cashier,2025-02-18
-E00098,Michael,Harris,S013,Sales Associate,2026-04-14
-E00099,Justin,Rodriguez,S032,Supervisor,2021-08-25
-E00100,Hannah,Reyes,S043,Sales Associate,2024-12-27
-E00101,David,Bryant,S034,Cashier,2022-06-20
-E00102,Gregory,Robertson,S023,Inventory Executive,2026-05-30
-E00103,Jennifer,Marshall,S030,Supervisor,2022-06-02
-E00104,Billy,Wilson,S032,Supervisor,2018-06-04
-E00105,Christine,Carroll,S004,Cashier,2022-05-26
-E00106,Cheyenne,Davis,S018,Inventory Executive,2017-09-04
-E00107,Ashley,Bennett,S030,Sales Associate,2020-08-02
-E00108,Danny,Underwood,S045,Supervisor,2021-12-04
-E00109,Cameron,Diaz,S033,Sales Associate,2025-01-06
-E00110,Amy,Smith,S007,Cashier,2018-08-16
-E00111,Tammy,Boyer,S037,Store Manager,2020-12-14
-E00112,Susan,Fernandez,S028,Inventory Executive,2020-12-15
-E00113,Nicole,Jones,S026,Store Manager,2025-11-13
-E00114,Thomas,Stephens,S028,Cashier,2019-10-14
-E00115,Douglas,Jackson,S032,Supervisor,2022-10-16
-E00116,David,Higgins,S013,Store Manager,2023-10-07
-E00117,Stacy,Hardy,S039,Store Manager,2018-05-07
-E00118,Christina,Gonzalez,S025,Inventory Executive,2019-11-24
-E00119,Angela,Wyatt,S044,Cashier,2018-03-04
-E00120,Kimberly,Anderson,S038,Sales Associate,2018-07-24
-E00121,Jesse,Nguyen,S010,Cashier,2018-12-27
-E00122,Elizabeth,Tucker,S023,Cashier,2023-11-05
-E00123,Barbara,Kim,S014,Store Manager,2022-11-09
-E00124,Matthew,Kramer,S026,Sales Associate,2019-02-09
-E00125,Angelica,King,S047,Inventory Executive,2024-08-27
-E00126,Patricia,Sanders,S048,Supervisor,2023-01-29
-E00127,Christopher,Pacheco,S019,Inventory Executive,2025-12-09
-E00128,Gregory,Jones,S043,Inventory Executive,2023-03-16
-E00129,Shawn,Jackson,S012,Store Manager,2020-06-29
-E00130,Barbara,Smith,S003,Cashier,2017-03-05
-E00131,Lauren,Rogers,S032,Store Manager,2020-04-19
-E00132,Michael,Bauer,S007,Supervisor,2019-05-14
-E00133,Tina,Allen,S030,Store Manager,2025-07-10
-E00134,Kyle,Evans,S047,Inventory Executive,2019-04-06
-E00135,Bryan,Lawson,S027,Supervisor,2022-09-17
-E00136,Christina,Castillo,S013,Store Manager,2017-04-25
-E00137,Harry,Gonzales,S035,Cashier,2021-06-08
-E00138,Daniel,Church,S036,Sales Associate,2024-10-26
-E00139,Matthew,Gibson,S047,Cashier,2019-02-02
-E00140,Andre,Jacobs,S032,Supervisor,2024-11-04
-E00141,Kim,Walker,S017,Inventory Executive,2022-08-25
-E00142,Bruce,Lambert,S029,Store Manager,2017-04-08
-E00143,Amy,Glenn,S032,Supervisor,2018-05-10
-E00144,David,Trevino,S039,Sales Associate,2026-07-11
-E00145,Bradley,Byrd,S024,Inventory Executive,2020-05-04
-E00146,Barbara,Hill,S040,Store Manager,2021-01-05
-E00147,Nicholas,Stark,S042,Inventory Executive,2018-08-01
-E00148,Margaret,Watson,S020,Sales Associate,2022-03-27
-E00149,Rachel,Anderson,S035,Sales Associate,2021-03-24
-E00150,Sherry,Rivera,S024,Supervisor,2024-01-16
-E00151,Nathan,Beck,S039,Inventory Executive,2026-02-22
-E00152,Laurie,Alvarez,S038,Supervisor,2023-09-11
-E00153,Russell,Williams,S049,Cashier,2019-06-01
-E00154,Tara,Miller,S012,Store Manager,2017-04-13
-E00155,Troy,Franklin,S010,Cashier,2018-09-11
-E00156,Michele,Cain,S006,Inventory Executive,2021-10-07
-E00157,Erin,Logan,S013,Cashier,2019-09-15
-E00158,Alexandria,Johnson,S045,Supervisor,2025-08-07
-E00159,Heidi,Ortega,S017,Supervisor,2026-03-22
-E00160,Megan,Watson,S041,Inventory Executive,2016-09-17
-E00161,Chad,Turner,S008,Sales Associate,2024-09-05
-E00162,Robert,Johnson,S025,Supervisor,2022-12-15
-E00163,Michael,Tucker,S008,Inventory Executive,2016-12-08
-E00164,Allison,Peters,S006,Inventory Executive,2022-07-13
-E00165,Patty,Rhodes,S027,Inventory Executive,2025-09-22
-E00166,Ricky,Beltran,S037,Sales Associate,2022-04-21
-E00167,Joseph,Jennings,S014,Store Manager,2018-03-15
-E00168,Nathan,Anderson,S016,Cashier,2026-05-04
-E00169,Mary,Miller,S014,Cashier,2018-08-07
-E00170,Cathy,Robinson,S016,Inventory Executive,2019-04-02
-E00171,Carol,Stephens,S031,Inventory Executive,2020-10-27
-E00172,Kayla,Kennedy,S014,Cashier,2016-12-18
-E00173,Mallory,Harris,S021,Supervisor,2020-11-17
-E00174,Jason,Rogers,S034,Sales Associate,2019-12-14
-E00175,Margaret,Duncan,S033,Supervisor,2023-11-21
-E00176,Tammy,Todd,S024,Sales Associate,2019-09-03
-E00177,Alyssa,Hernandez,S016,Store Manager,2018-08-12
-E00178,Stephanie,Ramirez,S022,Sales Associate,2019-08-12
-E00179,Jeffrey,Collins,S028,Sales Associate,2023-07-11
-E00180,Rachel,Farmer,S004,Sales Associate,2024-10-03
-E00181,Leslie,Bowman,S039,Store Manager,2022-02-20
-E00182,Melissa,Rivera,S050,Inventory Executive,2026-03-20
-E00183,Thomas,Cole,S032,Store Manager,2024-09-14
-E00184,Kathleen,Mullins,S031,Inventory Executive,2022-11-21
-E00185,Edward,Thomas,S008,Cashier,2025-05-15
-E00186,Angela,Yates,S012,Inventory Executive,2018-02-19
-E00187,Julie,Long,S011,Supervisor,2019-02-25
-E00188,John,Cabrera,S038,Inventory Executive,2018-02-01
-E00189,David,Hansen,S013,Store Manager,2017-04-15
-E00190,Michael,Johnson,S048,Store Manager,2019-01-20
-E00191,Ruben,Todd,S008,Supervisor,2019-05-01
-E00192,Jennifer,Lane,S015,Inventory Executive,2024-03-01
-E00193,Joshua,Yoder,S011,Sales Associate,2026-01-26
-E00194,Brittany,Mitchell,S009,Inventory Executive,2023-11-06
-E00195,Brandon,Rhodes,S015,Cashier,2018-07-12
-E00196,Stacy,Parker,S029,Supervisor,2019-12-06
-E00197,Jennifer,Thomas,S033,Supervisor,2026-01-07
-E00198,Ryan,Matthews,S022,Cashier,2024-09-03
-E00199,Tracy,Pugh,S016,Inventory Executive,2024-11-22
-E00200,Danielle,Ross,S042,Store Manager,2018-04-03
-E00201,James,Anthony,S044,Supervisor,2017-04-01
-E00202,Calvin,Coleman,S024,Cashier,2020-06-16
-E00203,Steven,Estrada,S021,Store Manager,2020-09-06
-E00204,Ricky,Andrews,S031,Supervisor,2017-11-04
-E00205,Mary,Chapman,S047,Supervisor,2021-05-28
-E00206,Rick,Hayes,S050,Inventory Executive,2021-06-30
-E00207,Ryan,Schwartz,S006,Supervisor,2017-08-18
-E00208,Andrew,Whitney,S020,Sales Associate,2023-02-25
-E00209,Charles,Sims,S005,Sales Associate,2021-10-31
-E00210,Tiffany,Johnson,S043,Store Manager,2022-03-20
-E00211,Rebecca,Rollins,S014,Store Manager,2023-12-17
-E00212,Megan,Todd,S042,Store Manager,2020-02-26
-E00213,Charles,Charles,S014,Store Manager,2017-04-26
-E00214,Shane,Chapman,S016,Inventory Executive,2017-08-07
-E00215,Laura,Flowers,S045,Cashier,2025-09-10
-E00216,Mark,Mercado,S005,Store Manager,2019-04-03
-E00217,Suzanne,Schultz,S032,Store Manager,2020-04-12
-E00218,Kevin,Hubbard,S003,Inventory Executive,2017-06-17
-E00219,Patrick,Robinson,S010,Supervisor,2022-03-01
-E00220,Rachel,Johnson,S011,Cashier,2021-07-08
-E00221,Brian,Carter,S040,Store Manager,2022-07-20
-E00222,Jason,Thomas,S033,Cashier,2022-01-31
-E00223,Thomas,Erickson,S047,Sales Associate,2025-08-27
-E00224,Joshua,Johnson,S025,Inventory Executive,2024-12-19
-E00225,Anthony,Miller,S045,Store Manager,2021-10-01
-E00226,Jacob,Davis,S029,Store Manager,2017-01-06
-E00227,Isaiah,Elliott,S027,Sales Associate,2021-04-18
-E00228,Amber,Christian,S040,Store Manager,2019-12-13
-E00229,Daniel,West,S013,Sales Associate,2021-02-01
-E00230,Theresa,Price,S037,Cashier,2022-03-28
-E00231,Linda,Cox,S027,Inventory Executive,2025-11-06
-E00232,Lisa,Marshall,S025,Supervisor,2021-07-10
-E00233,John,Lewis,S001,Inventory Executive,2020-12-14
-E00234,Kathleen,Rogers,S035,Store Manager,2024-12-05
-E00235,Jennifer,White,S021,Cashier,2020-10-28
-E00236,Brian,Carlson,S026,Inventory Executive,2026-04-14
-E00237,Jacqueline,Hernandez,S049,Store Manager,2020-09-16
-E00238,Evan,Shah,S015,Inventory Executive,2018-02-10
-E00239,Lance,Herman,S042,Store Manager,2018-03-01
-E00240,Daniel,Sampson,S018,Cashier,2021-09-17
-E00241,Blake,Jacobs,S004,Cashier,2019-04-12
-E00242,Jodi,Thomas,S002,Store Manager,2024-07-04
-E00243,Tom,Cox,S010,Supervisor,2021-10-22
-E00244,Robin,Powell,S050,Inventory Executive,2025-10-07
-E00245,Lori,Velez,S031,Store Manager,2018-01-16
-E00246,Keith,Peterson,S040,Sales Associate,2021-06-22
-E00247,Carlos,Kelley,S023,Store Manager,2018-02-05
-E00248,Richard,Miller,S038,Sales Associate,2018-01-24
-E00249,Matthew,Perry,S008,Cashier,2026-04-09
-E00250,Andrew,Dougherty,S007,Inventory Executive,2021-02-01
-E00251,Amber,Davis,S005,Inventory Executive,2025-11-10
-E00252,Angelica,Chung,S035,Inventory Executive,2017-03-01
-E00253,Rachel,Baker,S027,Inventory Executive,2025-09-12
-E00254,Anita,Bell,S040,Cashier,2017-02-03
-E00255,Angela,Hinton,S014,Sales Associate,2021-05-09
-E00256,Caitlin,Guerrero,S049,Inventory Executive,2022-12-30
-E00257,Micheal,Black,S016,Store Manager,2019-03-12
-E00258,Janice,Good,S029,Store Manager,2023-06-17
-E00259,Darren,Walker,S014,Inventory Executive,2022-06-15
-E00260,Leah,Malone,S020,Inventory Executive,2024-05-18
-E00261,Todd,Jacobs,S041,Cashier,2024-06-28
-E00262,Marcia,Romero,S007,Cashier,2020-04-02
-E00263,Debra,Ingram,S021,Supervisor,2026-01-01
-E00264,Jeffrey,Smith,S003,Sales Associate,2023-02-16
-E00265,Summer,Pruitt,S020,Supervisor,2020-08-10
-E00266,Danny,Welch,S024,Supervisor,2020-04-22
-E00267,Maria,Hayden,S004,Cashier,2023-10-04
-E00268,Andrea,Bailey,S027,Store Manager,2026-04-03
-E00269,Melissa,Goodwin,S044,Sales Associate,2021-07-08
-E00270,Melissa,Sanchez,S025,Sales Associate,2025-08-19
-E00271,Parker,Roth,S020,Store Manager,2021-02-25
-E00272,Samantha,Hines,S021,Store Manager,2016-08-23
-E00273,Jamie,Hanson,S027,Sales Associate,2024-08-31
-E00274,Ryan,Grant,S001,Sales Associate,2020-12-03
-E00275,Heather,Thomas,S008,Sales Associate,2019-10-25
-E00276,Jason,Perkins,S022,Store Manager,2021-12-30
-E00277,Erica,Benton,S025,Inventory Executive,2020-03-12
-E00278,Shelly,Potter,S046,Sales Associate,2020-04-21
-E00279,Charles,Roth,S010,Sales Associate,2023-09-23
-E00280,Debra,Rodriguez,S037,Store Manager,2017-11-04
-E00281,Paul,Hernandez,S001,Supervisor,2021-09-09
-E00282,Erik,Andrews,S006,Supervisor,2018-09-26
-E00283,Lisa,Reynolds,S016,Store Manager,2017-02-11
-E00284,Bruce,Duffy,S015,Store Manager,2019-04-19
-E00285,Lisa,Rodriguez,S025,Supervisor,2024-10-13
-E00286,Kristina,Robinson,S004,Inventory Executive,2024-06-05
-E00287,Allison,Brown,S022,Store Manager,2021-11-25
-E00288,Alyssa,Berry,S031,Cashier,2017-06-14
-E00289,Lisa,Robertson,S047,Cashier,2025-07-22
-E00290,Jamie,Brown,S027,Cashier,2018-04-27
-E00291,James,Jones,S016,Inventory Executive,2018-11-26
-E00292,William,Harrison,S034,Cashier,2026-02-28
-E00293,Kevin,Dougherty,S004,Supervisor,2021-03-15
-E00294,Clarence,Clarke,S037,Store Manager,2022-04-21
-E00295,Stephen,Jones,S007,Supervisor,2024-12-17
-E00296,Anthony,Guerrero,S013,Store Manager,2025-08-03
-E00297,Dan,Martinez,S009,Cashier,2022-12-05
-E00298,Megan,Smith,S017,Cashier,2019-07-03
-E00299,Henry,Green,S048,Sales Associate,2024-01-10
-E00300,Stephanie,Dean,S001,Sales Associate,2019-12-14
-E00301,Brenda,Payne,S011,Store Manager,2026-06-23
-E00302,Justin,Gray,S041,Cashier,2024-05-23
-E00303,Brandon,Maldonado,S032,Store Manager,2023-05-20
-E00304,Mary,Pierce,S026,Cashier,2021-02-19
-E00305,Hannah,Villa,S025,Inventory Executive,2020-05-19
-E00306,Christina,Flores,S003,Inventory Executive,2021-06-24
-E00307,Robert,Green,S022,Supervisor,2023-03-10
-E00308,Suzanne,White,S017,Cashier,2024-01-18
-E00309,Erin,Richard,S034,Store Manager,2019-10-09
-E00310,Emily,Leonard,S018,Cashier,2023-12-23
-E00311,Madison,Hansen,S013,Sales Associate,2018-11-20
-E00312,Jessica,Davis,S044,Sales Associate,2017-01-12
-E00313,Michelle,Le,S028,Supervisor,2021-08-12
-E00314,Elizabeth,Ray,S024,Cashier,2020-02-01
-E00315,Andrew,Drake,S009,Inventory Executive,2019-11-27
-E00316,Michael,Barajas,S022,Inventory Executive,2021-11-22
-E00317,Michael,Gutierrez,S005,Store Manager,2026-06-06
-E00318,Megan,Richardson,S028,Store Manager,2026-01-01
-E00319,Judith,Thompson,S036,Cashier,2017-10-25
-E00320,Christine,Snyder,S029,Inventory Executive,2025-02-17
-E00321,Christopher,Myers,S007,Store Manager,2021-08-25
-E00322,Jeffrey,Davis,S047,Supervisor,2026-05-16
-E00323,Brittany,Sheppard,S036,Sales Associate,2018-07-20
-E00324,Francis,Luna,S037,Cashier,2020-01-14
-E00325,Gregory,Blackwell,S046,Store Manager,2021-09-12
-E00326,Joseph,Fisher,S012,Store Manager,2021-11-26
-E00327,Brett,Collins,S038,Sales Associate,2020-09-28
-E00328,Antonio,Sweeney,S011,Cashier,2019-12-22
-E00329,David,Cole,S038,Cashier,2019-11-24
-E00330,Patrick,Malone,S042,Cashier,2018-11-12
-E00331,William,Smith,S042,Store Manager,2022-03-24
-E00332,Susan,Holder,S011,Inventory Executive,2024-03-24
-E00333,Sheila,French,S038,Inventory Executive,2018-12-26
-E00334,Bruce,Anderson,S018,Inventory Executive,2022-05-04
-E00335,Clinton,Robinson,S008,Store Manager,2018-11-11
-E00336,Loretta,Thomas,S008,Store Manager,2019-12-23
-E00337,Dale,Brown,S001,Cashier,2023-03-28
-E00338,Loretta,Walker,S014,Inventory Executive,2020-11-21
-E00339,Kyle,Williams,S024,Supervisor,2017-06-06
-E00340,Brenda,Richards,S037,Inventory Executive,2017-03-17
-E00341,James,Robertson,S013,Inventory Executive,2022-05-27
-E00342,Linda,Young,S008,Store Manager,2026-06-06
-E00343,Meghan,Ochoa,S011,Supervisor,2020-06-29
-E00344,Cheryl,Fox,S021,Sales Associate,2020-04-28
-E00345,Roy,Burton,S001,Cashier,2024-01-02
-E00346,Margaret,Hodge,S011,Cashier,2023-05-21
-E00347,Sabrina,Williams,S007,Supervisor,2017-10-07
-E00348,Austin,Watkins,S020,Cashier,2019-09-12
-E00349,Thomas,Cooper,S010,Cashier,2024-08-25
-E00350,Joseph,Smith,S040,Inventory Executive,2016-11-30
-E00351,Rachel,Young,S042,Store Manager,2023-05-26
-E00352,David,Miller,S045,Store Manager,2017-07-20
-E00353,John,Sullivan,S028,Inventory Executive,2023-07-27
-E00354,Danny,Rice,S033,Inventory Executive,2022-02-17
-E00355,Sean,Robinson,S034,Supervisor,2022-09-15
-E00356,Renee,Jackson,S026,Store Manager,2020-07-11
-E00357,Eileen,Foster,S040,Store Manager,2018-11-29
-E00358,Michelle,Page,S035,Cashier,2018-08-28
-E00359,Bruce,Davis,S045,Inventory Executive,2023-08-19
-E00360,Brianna,Hernandez,S010,Supervisor,2022-08-17
-E00361,Paula,Dudley,S012,Inventory Executive,2022-03-01
-E00362,Matthew,Mckenzie,S008,Sales Associate,2026-03-19
-E00363,Michael,Frazier,S043,Supervisor,2017-08-15
-E00364,Daniel,Patterson,S030,Store Manager,2019-02-25
-E00365,John,Burke,S039,Cashier,2026-02-19
-E00366,Richard,Elliott,S027,Store Manager,2022-05-27
-E00367,Jaime,Hahn,S018,Inventory Executive,2020-10-17
-E00368,Jerry,Erickson,S008,Store Manager,2025-01-14
-E00369,Kevin,Hughes,S013,Sales Associate,2020-09-17
-E00370,Julie,Fuller,S047,Cashier,2018-05-27
-E00371,Tammy,Palmer,S036,Cashier,2024-12-06
-E00372,Jose,Gardner,S007,Cashier,2019-02-01
-E00373,Mary,Miller,S013,Cashier,2023-11-13
-E00374,Sean,Acosta,S034,Store Manager,2016-10-27
-E00375,Thomas,Bowers,S009,Sales Associate,2018-08-10
-E00376,Emily,Chan,S007,Store Manager,2022-06-09
-E00377,Brianna,Sutton,S026,Inventory Executive,2018-08-15
-E00378,Catherine,Herrera,S050,Sales Associate,2017-10-24
-E00379,Nathan,Mitchell,S016,Store Manager,2018-06-27
-E00380,Michael,Peterson,S012,Inventory Executive,2017-09-13
-E00381,Gregory,Figueroa,S017,Cashier,2020-06-20
-E00382,Kyle,Madden,S047,Sales Associate,2016-11-11
-E00383,Fred,Hill,S010,Store Manager,2019-04-21
-E00384,Kimberly,Morgan,S026,Sales Associate,2026-06-14
-E00385,Breanna,Gaines,S026,Supervisor,2018-01-13
-E00386,Jack,Jones,S006,Sales Associate,2019-06-07
-E00387,Nicole,Ford,S050,Sales Associate,2025-02-26
-E00388,Erin,Perry,S001,Sales Associate,2020-03-13
-E00389,William,Barry,S021,Sales Associate,2026-07-08
-E00390,Edward,Anderson,S049,Store Manager,2020-06-07
-E00391,Jennifer,Fernandez,S011,Sales Associate,2020-10-28
-E00392,Breanna,Clay,S035,Supervisor,2022-02-28
-E00393,Richard,Lawrence,S029,Cashier,2018-02-17
-E00394,Martin,Jones,S029,Supervisor,2016-09-10
-E00395,Nina,Williamson,S025,Cashier,2020-10-25
-E00396,Andrew,Ramirez,S020,Sales Associate,2024-04-29
-E00397,Pam,Lopez,S040,Sales Associate,2020-10-24
-E00398,Isabella,Peters,S042,Inventory Executive,2017-11-29
-E00399,Vanessa,Roberts,S049,Inventory Executive,2017-07-11
-E00400,Lee,Morrow,S032,Supervisor,2016-09-01
-E00401,Willie,Koch,S046,Supervisor,2021-06-21
-E00402,Katherine,Pierce,S031,Store Manager,2022-05-24
-E00403,Deborah,Olsen,S004,Inventory Executive,2019-01-20
-E00404,Lauren,Martin,S045,Supervisor,2024-02-03
-E00405,Meredith,Ford,S032,Sales Associate,2020-12-24
-E00406,Daniel,Oliver,S005,Cashier,2023-07-28
-E00407,Christopher,Johnson,S029,Store Manager,2024-07-31
-E00408,Ashley,Weaver,S012,Store Manager,2019-08-30
-E00409,David,Lee,S045,Cashier,2021-02-25
-E00410,Jeremy,Martin,S002,Sales Associate,2022-03-10
-E00411,Brian,Oliver,S014,Cashier,2023-11-30
-E00412,Kari,Sparks,S024,Cashier,2026-01-03
-E00413,William,Hall,S002,Inventory Executive,2022-10-20
-E00414,Michael,Nolan,S046,Supervisor,2016-11-01
-E00415,Claudia,Ortiz,S010,Store Manager,2025-06-24
-E00416,Christina,Herrera,S030,Sales Associate,2019-06-01
-E00417,Ronnie,Hoffman,S023,Store Manager,2017-07-07
-E00418,William,Willis,S012,Supervisor,2021-11-14
-E00419,Brenda,Christensen,S023,Store Manager,2019-09-16
-E00420,Michael,Arnold,S005,Supervisor,2021-11-24
-E00421,Henry,Roth,S048,Inventory Executive,2017-09-29
-E00422,Philip,Newton,S038,Sales Associate,2016-09-21
-E00423,Sean,Mcdaniel,S038,Sales Associate,2024-02-27
-E00424,Diana,Jennings,S032,Supervisor,2020-04-06
-E00425,Victor,Wiggins,S049,Sales Associate,2021-02-05
-E00426,Bruce,Smith,S038,Inventory Executive,2022-09-20
-E00427,Paula,Parker,S021,Sales Associate,2025-03-03
-E00428,Stephen,Montoya,S015,Inventory Executive,2017-09-07
-E00429,Jennifer,Lowe,S043,Cashier,2017-07-21
-E00430,Kayla,Phillips,S036,Sales Associate,2021-11-27
-E00431,Gina,Martin,S033,Inventory Executive,2020-05-30
-E00432,Sheila,Green,S013,Supervisor,2018-12-21
-E00433,Sabrina,Young,S042,Sales Associate,2018-04-15
-E00434,Jennifer,Pitts,S043,Sales Associate,2018-09-25
-E00435,Joshua,Orozco,S050,Supervisor,2021-10-20
-E00436,Amber,Ward,S036,Supervisor,2020-05-04
-E00437,Tammy,Griffith,S034,Cashier,2022-11-18
-E00438,Evelyn,Cook,S031,Cashier,2023-02-24
-E00439,William,Lane,S018,Sales Associate,2021-05-16
-E00440,Emily,Lawson,S042,Sales Associate,2024-03-03
-E00441,Alexa,Murphy,S023,Supervisor,2020-02-09
-E00442,Daniel,Haynes,S050,Sales Associate,2019-03-11
-E00443,John,Reyes,S006,Inventory Executive,2021-07-18
-E00444,Michael,Jones,S040,Inventory Executive,2016-10-26
-E00445,Nancy,Hogan,S024,Inventory Executive,2024-07-28
-E00446,Melissa,Fleming,S016,Cashier,2017-01-09
-E00447,Lauren,Simmons,S006,Supervisor,2021-06-06
-E00448,Samantha,Bishop,S044,Inventory Executive,2026-05-23
-E00449,Debra,Ramos,S038,Sales Associate,2026-07-17
-E00450,Crystal,Hoover,S044,Cashier,2016-08-26
-E00451,John,Webster,S042,Sales Associate,2024-03-07
-E00452,Danielle,Alvarez,S021,Sales Associate,2017-08-28
-E00453,Jessica,Smith,S020,Supervisor,2025-07-02
-E00454,Margaret,Ruiz,S047,Cashier,2020-07-12
-E00455,Mike,Peters,S023,Cashier,2019-01-08
-E00456,Chad,Martinez,S031,Cashier,2020-11-15
-E00457,Joan,Hunter,S032,Supervisor,2020-12-21
-E00458,Deborah,Gallagher,S024,Cashier,2024-10-07
-E00459,Michelle,Charles,S047,Inventory Executive,2017-05-01
-E00460,Randy,Rush,S036,Store Manager,2022-11-23
-E00461,Richard,Rodriguez,S037,Store Manager,2022-11-17
-E00462,Craig,Harris,S043,Inventory Executive,2022-03-22
-E00463,Kimberly,Garcia,S040,Inventory Executive,2023-08-06
-E00464,Michelle,Wallace,S026,Sales Associate,2024-09-06
-E00465,Mark,Parsons,S023,Supervisor,2019-02-07
-E00466,Tracy,Morris,S025,Inventory Executive,2020-05-27
-E00467,Bruce,Andrews,S027,Supervisor,2016-08-19
-E00468,Sheila,Robertson,S009,Cashier,2023-08-07
-E00469,Derek,Gutierrez,S016,Inventory Executive,2019-04-06
-E00470,Holly,Scott,S001,Store Manager,2017-11-29
-E00471,Michael,Sanders,S038,Store Manager,2024-03-24
-E00472,Michele,Stevenson,S005,Inventory Executive,2022-08-26
-E00473,Clayton,Blair,S050,Store Manager,2025-06-23
-E00474,Norman,Dean,S036,Store Manager,2022-06-02
-E00475,Katherine,Jones,S048,Store Manager,2024-07-31
-E00476,Matthew,Dunn,S018,Sales Associate,2020-02-19
-E00477,Mark,Mueller,S011,Store Manager,2022-07-09
-E00478,William,Matthews,S038,Store Manager,2016-10-14
-E00479,Lynn,Shah,S022,Cashier,2020-12-10
-E00480,Brittany,Morales,S013,Sales Associate,2022-11-26
-E00481,David,Schmidt,S046,Cashier,2023-06-08
-E00482,Heather,Hall,S048,Store Manager,2020-06-19
-E00483,Scott,Herrera,S040,Cashier,2018-05-17
-E00484,Tracey,Owens,S023,Store Manager,2026-03-28
-E00485,Shirley,Salinas,S007,Inventory Executive,2026-01-20
-E00486,Jasmine,Ross,S027,Sales Associate,2017-06-21
-E00487,Laura,Salazar,S043,Store Manager,2016-12-15
-E00488,Amber,Chapman,S008,Cashier,2018-06-26
-E00489,Joseph,Buchanan,S002,Inventory Executive,2022-01-20
-E00490,Jennifer,Holland,S027,Supervisor,2021-10-25
-E00491,Kevin,Garza,S020,Store Manager,2017-11-23
-E00492,Amanda,Smith,S007,Sales Associate,2026-05-09
-E00493,John,Potts,S028,Sales Associate,2017-03-29
-E00494,Angel,Perez,S026,Store Manager,2021-05-25
-E00495,Amanda,Ellis,S047,Inventory Executive,2025-09-16
-E00496,Karen,Wolf,S001,Store Manager,2025-11-27
-E00497,Tammy,Smith,S047,Cashier,2024-03-10
-E00498,Jody,Lewis,S017,Cashier,2021-10-16
-E00499,George,Cruz,S032,Sales Associate,2026-03-21
-E00500,Matthew,Rodriguez,S032,Sales Associate,2024-04-01
+E00081,Mercedes,Chen,S023,Inventory Executive,2025-09-16
+E00082,Joshua,Diaz,S001,Cashier,2023-05-28
+E00083,Jeremy,Perez,S007,Sales Associate,2022-09-29
+E00084,Louis,Garcia,S021,Cashier,2020-10-05
+E00085,Dylan,Lyons,S009,Sales Associate,2018-01-19
+E00086,Jaime,Davis,S006,Supervisor,2016-07-22
+E00087,Amy,Aguilar,S003,Cashier,2023-06-28
+E00088,Amanda,Richmond,S017,Cashier,2023-09-13
+E00089,Debra,Waters,S012,Supervisor,2020-11-09
+E00090,Jennifer,Douglas,S011,Inventory Executive,2026-01-11
+E00091,Kristy,Smith,S040,Inventory Executive,2022-03-17
+E00092,Scott,Chapman,S027,Inventory Executive,2024-11-08
+E00093,Jared,Black,S015,Sales Associate,2021-01-06
+E00094,Suzanne,Waller,S008,Sales Associate,2019-12-09
+E00095,Robin,Fuller,S004,Inventory Executive,2018-12-27
+E00096,Maria,Rodriguez,S026,Cashier,2018-07-03
+E00097,George,Morris,S017,Inventory Executive,2025-02-18
+E00098,Michael,Harris,S036,Store Manager,2026-04-14
+E00099,Justin,Rodriguez,S010,Store Manager,2021-08-25
+E00100,Hannah,Reyes,S003,Supervisor,2024-12-27
+E00101,David,Bryant,S040,Supervisor,2022-06-20
+E00102,Gregory,Robertson,S049,Supervisor,2026-05-30
+E00103,Jennifer,Marshall,S040,Inventory Executive,2022-06-02
+E00104,Billy,Wilson,S041,Supervisor,2018-06-04
+E00105,Christine,Carroll,S033,Store Manager,2022-05-26
+E00106,Cheyenne,Davis,S011,Cashier,2017-09-04
+E00107,Ashley,Bennett,S004,Cashier,2020-08-02
+E00108,Danny,Underwood,S019,Cashier,2021-12-04
+E00109,Cameron,Diaz,S018,Store Manager,2025-01-06
+E00110,Amy,Smith,S009,Store Manager,2018-08-16
+E00111,Tammy,Boyer,S026,Cashier,2020-12-14
+E00112,Susan,Fernandez,S042,Supervisor,2020-12-15
+E00113,Nicole,Jones,S015,Supervisor,2025-11-13
+E00114,Thomas,Stephens,S011,Sales Associate,2019-10-14
+E00115,Douglas,Jackson,S046,Inventory Executive,2022-10-16
+E00116,David,Higgins,S028,Cashier,2023-10-07
+E00117,Stacy,Hardy,S046,Store Manager,2018-05-07
+E00118,Christina,Gonzalez,S038,Store Manager,2019-11-24
+E00119,Angela,Wyatt,S011,Inventory Executive,2018-03-04
+E00120,Kimberly,Anderson,S046,Store Manager,2018-07-24
+E00121,Jesse,Nguyen,S048,Inventory Executive,2018-12-27
+E00122,Elizabeth,Tucker,S046,Inventory Executive,2023-11-05
+E00123,Barbara,Kim,S018,Supervisor,2022-11-09
+E00124,Matthew,Kramer,S021,Supervisor,2019-02-09
+E00125,Angelica,King,S045,Supervisor,2024-08-27
+E00126,Patricia,Sanders,S014,Supervisor,2023-01-29
+E00127,Christopher,Pacheco,S045,Inventory Executive,2025-12-09
+E00128,Gregory,Jones,S033,Sales Associate,2023-03-16
+E00129,Shawn,Jackson,S038,Sales Associate,2020-06-29
+E00130,Barbara,Smith,S002,Store Manager,2017-03-05
+E00131,Lauren,Rogers,S021,Supervisor,2020-04-19
+E00132,Michael,Bauer,S031,Inventory Executive,2019-05-14
+E00133,Tina,Allen,S031,Inventory Executive,2025-07-10
+E00134,Kyle,Evans,S042,Inventory Executive,2019-04-06
+E00135,Bryan,Lawson,S014,Supervisor,2022-09-17
+E00136,Christina,Castillo,S029,Supervisor,2017-04-25
+E00137,Harry,Gonzales,S002,Supervisor,2021-06-08
+E00138,Daniel,Church,S020,Cashier,2024-10-26
+E00139,Matthew,Gibson,S003,Store Manager,2019-02-02
+E00140,Andre,Jacobs,S038,Sales Associate,2024-11-04
+E00141,Kim,Walker,S039,Store Manager,2022-08-25
+E00142,Bruce,Lambert,S047,Inventory Executive,2017-04-08
+E00143,Amy,Glenn,S007,Store Manager,2018-05-10
+E00144,David,Trevino,S001,Store Manager,2026-07-11
+E00145,Bradley,Byrd,S015,Inventory Executive,2020-05-04
+E00146,Barbara,Hill,S004,Sales Associate,2021-01-05
+E00147,Nicholas,Stark,S022,Supervisor,2018-08-01
+E00148,Margaret,Watson,S048,Cashier,2022-03-27
+E00149,Rachel,Anderson,S009,Inventory Executive,2021-03-24
+E00150,Sherry,Rivera,S023,Inventory Executive,2024-01-16
+E00151,Nathan,Beck,S041,Supervisor,2026-02-22
+E00152,Laurie,Alvarez,S040,Supervisor,2023-09-11
+E00153,Russell,Williams,S028,Cashier,2019-06-01
+E00154,Tara,Miller,S040,Supervisor,2017-04-13
+E00155,Troy,Franklin,S014,Store Manager,2018-09-11
+E00156,Michele,Cain,S020,Supervisor,2021-10-07
+E00157,Erin,Logan,S026,Cashier,2019-09-15
+E00158,Alexandria,Johnson,S032,Store Manager,2025-08-07
+E00159,Heidi,Ortega,S006,Sales Associate,2026-03-22
+E00160,Megan,Watson,S006,Cashier,2016-09-17
+E00161,Chad,Turner,S006,Inventory Executive,2024-09-05
+E00162,Robert,Johnson,S019,Sales Associate,2022-12-15
+E00163,Michael,Tucker,S025,Sales Associate,2016-12-08
+E00164,Allison,Peters,S043,Sales Associate,2022-07-13
+E00165,Patty,Rhodes,S025,Store Manager,2025-09-22
+E00166,Ricky,Beltran,S042,Store Manager,2022-04-21
+E00167,Joseph,Jennings,S007,Inventory Executive,2018-03-15
+E00168,Nathan,Anderson,S002,Sales Associate,2026-05-04
+E00169,Mary,Miller,S018,Store Manager,2018-08-07
+E00170,Cathy,Robinson,S038,Store Manager,2019-04-02
+E00171,Carol,Stephens,S004,Inventory Executive,2020-10-27
+E00172,Kayla,Kennedy,S023,Inventory Executive,2016-12-18
+E00173,Mallory,Harris,S041,Sales Associate,2020-11-17
+E00174,Jason,Rogers,S021,Supervisor,2019-12-14
+E00175,Margaret,Duncan,S024,Sales Associate,2023-11-21
+E00176,Tammy,Todd,S022,Sales Associate,2019-09-03
+E00177,Alyssa,Hernandez,S018,Sales Associate,2018-08-12
+E00178,Stephanie,Ramirez,S031,Supervisor,2019-08-12
+E00179,Jeffrey,Collins,S049,Inventory Executive,2023-07-11
+E00180,Rachel,Farmer,S022,Cashier,2024-10-03
+E00181,Leslie,Bowman,S029,Supervisor,2022-02-20
+E00182,Melissa,Rivera,S044,Store Manager,2026-03-20
+E00183,Thomas,Cole,S050,Store Manager,2024-09-14
+E00184,Kathleen,Mullins,S030,Sales Associate,2022-11-21
+E00185,Edward,Thomas,S032,Store Manager,2025-05-15
+E00186,Angela,Yates,S036,Store Manager,2018-02-19
+E00187,Julie,Long,S047,Sales Associate,2019-02-25
+E00188,John,Cabrera,S022,Cashier,2018-02-01
+E00189,David,Hansen,S011,Sales Associate,2017-04-15
+E00190,Michael,Johnson,S022,Inventory Executive,2019-01-20
+E00191,Ruben,Todd,S019,Supervisor,2019-05-01
+E00192,Jennifer,Lane,S030,Inventory Executive,2024-03-01
+E00193,Joshua,Yoder,S041,Cashier,2026-01-26
+E00194,Brittany,Mitchell,S006,Supervisor,2023-11-06
+E00195,Brandon,Rhodes,S021,Sales Associate,2018-07-12
+E00196,Stacy,Parker,S011,Supervisor,2019-12-06
+E00197,Jennifer,Thomas,S038,Sales Associate,2026-01-07
+E00198,Ryan,Matthews,S040,Store Manager,2024-09-03
+E00199,Tracy,Pugh,S037,Supervisor,2024-11-22
+E00200,Danielle,Ross,S021,Sales Associate,2018-04-03
+E00201,James,Anthony,S014,Inventory Executive,2017-04-01
+E00202,Calvin,Coleman,S026,Supervisor,2020-06-16
+E00203,Steven,Estrada,S017,Inventory Executive,2020-09-06
+E00204,Ricky,Andrews,S037,Inventory Executive,2017-11-04
+E00205,Mary,Chapman,S004,Sales Associate,2021-05-28
+E00206,Rick,Hayes,S004,Sales Associate,2021-06-30
+E00207,Ryan,Schwartz,S043,Inventory Executive,2017-08-18
+E00208,Andrew,Whitney,S022,Store Manager,2023-02-25
+E00209,Charles,Sims,S003,Supervisor,2021-10-31
+E00210,Tiffany,Johnson,S001,Cashier,2022-03-20
+E00211,Rebecca,Rollins,S036,Store Manager,2023-12-17
+E00212,Megan,Todd,S049,Cashier,2020-02-26
+E00213,Charles,Charles,S022,Inventory Executive,2017-04-26
+E00214,Shane,Chapman,S046,Cashier,2017-08-07
+E00215,Laura,Flowers,S009,Store Manager,2025-09-10
+E00216,Mark,Mercado,S010,Supervisor,2019-04-03
+E00217,Suzanne,Schultz,S037,Store Manager,2020-04-12
+E00218,Kevin,Hubbard,S031,Store Manager,2017-06-17
+E00219,Patrick,Robinson,S015,Inventory Executive,2022-03-01
+E00220,Rachel,Johnson,S022,Cashier,2021-07-08
+E00221,Brian,Carter,S046,Sales Associate,2022-07-20
+E00222,Jason,Thomas,S044,Inventory Executive,2022-01-31
+E00223,Thomas,Erickson,S031,Supervisor,2025-08-27
+E00224,Joshua,Johnson,S046,Sales Associate,2024-12-19
+E00225,Anthony,Miller,S022,Sales Associate,2021-10-01
+E00226,Jacob,Davis,S040,Store Manager,2017-01-06
+E00227,Isaiah,Elliott,S027,Cashier,2021-04-18
+E00228,Amber,Christian,S020,Sales Associate,2019-12-13
+E00229,Daniel,West,S047,Supervisor,2021-02-01
+E00230,Theresa,Price,S048,Sales Associate,2022-03-28
+E00231,Linda,Cox,S002,Store Manager,2025-11-06
+E00232,Lisa,Marshall,S004,Inventory Executive,2021-07-10
+E00233,John,Lewis,S023,Sales Associate,2020-12-14
+E00234,Kathleen,Rogers,S002,Supervisor,2024-12-05
+E00235,Jennifer,White,S016,Sales Associate,2020-10-28
+E00236,Brian,Carlson,S017,Supervisor,2026-04-14
+E00237,Jacqueline,Hernandez,S005,Cashier,2020-09-16
+E00238,Evan,Shah,S034,Inventory Executive,2018-02-10
+E00239,Lance,Herman,S032,Inventory Executive,2018-03-01
+E00240,Daniel,Sampson,S032,Sales Associate,2021-09-17
+E00241,Blake,Jacobs,S029,Sales Associate,2019-04-12
+E00242,Jodi,Thomas,S034,Sales Associate,2024-07-04
+E00243,Tom,Cox,S042,Supervisor,2021-10-22
+E00244,Robin,Powell,S023,Inventory Executive,2025-10-07
+E00245,Lori,Velez,S013,Sales Associate,2018-01-16
+E00246,Keith,Peterson,S045,Inventory Executive,2021-06-22
+E00247,Carlos,Kelley,S003,Store Manager,2018-02-05
+E00248,Richard,Miller,S007,Inventory Executive,2018-01-24
+E00249,Matthew,Perry,S005,Supervisor,2026-04-09
+E00250,Andrew,Dougherty,S006,Supervisor,2021-02-01
+E00251,Amber,Davis,S004,Sales Associate,2025-11-10
+E00252,Angelica,Chung,S013,Sales Associate,2017-03-01
+E00253,Rachel,Baker,S004,Inventory Executive,2025-09-12
+E00254,Anita,Bell,S024,Store Manager,2017-02-03
+E00255,Angela,Hinton,S019,Cashier,2021-05-09
+E00256,Caitlin,Guerrero,S034,Store Manager,2022-12-30
+E00257,Micheal,Black,S016,Supervisor,2019-03-12
+E00258,Janice,Good,S042,Supervisor,2023-06-17
+E00259,Darren,Walker,S004,Sales Associate,2022-06-15
+E00260,Leah,Malone,S044,Cashier,2024-05-18
+E00261,Todd,Jacobs,S041,Inventory Executive,2024-06-28
+E00262,Marcia,Romero,S013,Cashier,2020-04-02
+E00263,Debra,Ingram,S015,Supervisor,2026-01-01
+E00264,Jeffrey,Smith,S036,Inventory Executive,2023-02-16
+E00265,Summer,Pruitt,S004,Sales Associate,2020-08-10
+E00266,Danny,Welch,S044,Cashier,2020-04-22
+E00267,Maria,Hayden,S003,Inventory Executive,2023-10-04
+E00268,Andrea,Bailey,S016,Supervisor,2026-04-03
+E00269,Melissa,Goodwin,S032,Supervisor,2021-07-08
+E00270,Melissa,Sanchez,S032,Supervisor,2025-08-19
+E00271,Parker,Roth,S030,Supervisor,2021-02-25
+E00272,Samantha,Hines,S016,Supervisor,2016-08-23
+E00273,Jamie,Hanson,S022,Supervisor,2024-08-31
+E00274,Ryan,Grant,S025,Store Manager,2020-12-03
+E00275,Heather,Thomas,S023,Store Manager,2019-10-25
+E00276,Jason,Perkins,S020,Store Manager,2021-12-30
+E00277,Erica,Benton,S040,Cashier,2020-03-12
+E00278,Shelly,Potter,S014,Store Manager,2020-04-21
+E00279,Charles,Roth,S033,Cashier,2023-09-23
+E00280,Debra,Rodriguez,S040,Store Manager,2017-11-04
+E00281,Paul,Hernandez,S045,Store Manager,2021-09-09
+E00282,Erik,Andrews,S013,Store Manager,2018-09-26
+E00283,Lisa,Reynolds,S050,Cashier,2017-02-11
+E00284,Bruce,Duffy,S007,Cashier,2019-04-19
+E00285,Lisa,Rodriguez,S009,Supervisor,2024-10-13
+E00286,Kristina,Robinson,S040,Sales Associate,2024-06-05
+E00287,Allison,Brown,S037,Store Manager,2021-11-25
+E00288,Alyssa,Berry,S024,Sales Associate,2017-06-14
+E00289,Lisa,Robertson,S016,Cashier,2025-07-22
+E00290,Jamie,Brown,S035,Inventory Executive,2018-04-27
+E00291,James,Jones,S047,Sales Associate,2018-11-26
+E00292,William,Harrison,S013,Sales Associate,2026-02-28
+E00293,Kevin,Dougherty,S013,Cashier,2021-03-15
+E00294,Clarence,Clarke,S014,Store Manager,2022-04-21
+E00295,Stephen,Jones,S044,Cashier,2024-12-17
+E00296,Anthony,Guerrero,S020,Inventory Executive,2025-08-03
+E00297,Dan,Martinez,S021,Store Manager,2022-12-05
+E00298,Megan,Smith,S048,Cashier,2019-07-03
+E00299,Henry,Green,S030,Cashier,2024-01-10
+E00300,Stephanie,Dean,S010,Supervisor,2019-12-14
+E00301,Brenda,Payne,S017,Cashier,2026-06-23
+E00302,Justin,Gray,S028,Sales Associate,2024-05-23
+E00303,Brandon,Maldonado,S028,Cashier,2023-05-20
+E00304,Mary,Pierce,S025,Supervisor,2021-02-19
+E00305,Hannah,Villa,S019,Cashier,2020-05-19
+E00306,Christina,Flores,S021,Cashier,2021-06-24
+E00307,Robert,Green,S048,Store Manager,2023-03-10
+E00308,Suzanne,White,S020,Inventory Executive,2024-01-18
+E00309,Erin,Richard,S031,Supervisor,2019-10-09
+E00310,Emily,Leonard,S011,Cashier,2023-12-23
+E00311,Madison,Hansen,S027,Store Manager,2018-11-20
+E00312,Jessica,Davis,S036,Sales Associate,2017-01-12
+E00313,Michelle,Le,S048,Store Manager,2021-08-12
+E00314,Elizabeth,Ray,S043,Sales Associate,2020-02-01
+E00315,Andrew,Drake,S030,Inventory Executive,2019-11-27
+E00316,Michael,Barajas,S030,Sales Associate,2021-11-22
+E00317,Michael,Gutierrez,S004,Sales Associate,2026-06-06
+E00318,Megan,Richardson,S038,Store Manager,2026-01-01
+E00319,Judith,Thompson,S004,Supervisor,2017-10-25
+E00320,Christine,Snyder,S037,Store Manager,2025-02-17
+E00321,Christopher,Myers,S031,Sales Associate,2021-08-25
+E00322,Jeffrey,Davis,S023,Sales Associate,2026-05-16
+E00323,Brittany,Sheppard,S043,Cashier,2018-07-20
+E00324,Francis,Luna,S011,Sales Associate,2020-01-14
+E00325,Gregory,Blackwell,S048,Store Manager,2021-09-12
+E00326,Joseph,Fisher,S033,Inventory Executive,2021-11-26
+E00327,Brett,Collins,S014,Supervisor,2020-09-28
+E00328,Antonio,Sweeney,S030,Cashier,2019-12-22
+E00329,David,Cole,S011,Store Manager,2019-11-24
+E00330,Patrick,Malone,S035,Sales Associate,2018-11-12
+E00331,William,Smith,S035,Store Manager,2022-03-24
+E00332,Susan,Holder,S034,Inventory Executive,2024-03-24
+E00333,Sheila,French,S039,Cashier,2018-12-26
+E00334,Bruce,Anderson,S038,Inventory Executive,2022-05-04
+E00335,Clinton,Robinson,S020,Inventory Executive,2018-11-11
+E00336,Loretta,Thomas,S023,Cashier,2019-12-23
+E00337,Dale,Brown,S025,Store Manager,2023-03-28
+E00338,Loretta,Walker,S040,Inventory Executive,2020-11-21
+E00339,Kyle,Williams,S005,Inventory Executive,2017-06-06
+E00340,Brenda,Richards,S018,Store Manager,2017-03-17
+E00341,James,Robertson,S026,Store Manager,2022-05-27
+E00342,Linda,Young,S020,Supervisor,2026-06-06
+E00343,Meghan,Ochoa,S017,Store Manager,2020-06-29
+E00344,Cheryl,Fox,S010,Sales Associate,2020-04-28
+E00345,Roy,Burton,S038,Cashier,2024-01-02
+E00346,Margaret,Hodge,S002,Store Manager,2023-05-21
+E00347,Sabrina,Williams,S005,Store Manager,2017-10-07
+E00348,Austin,Watkins,S011,Store Manager,2019-09-12
+E00349,Thomas,Cooper,S010,Inventory Executive,2024-08-25
+E00350,Joseph,Smith,S025,Supervisor,2016-11-30
+E00351,Rachel,Young,S035,Store Manager,2023-05-26
+E00352,David,Miller,S022,Store Manager,2017-07-20
+E00353,John,Sullivan,S032,Cashier,2023-07-27
+E00354,Danny,Rice,S005,Inventory Executive,2022-02-17
+E00355,Sean,Robinson,S038,Supervisor,2022-09-15
+E00356,Renee,Jackson,S049,Supervisor,2020-07-11
+E00357,Eileen,Foster,S039,Store Manager,2018-11-29
+E00358,Michelle,Page,S049,Cashier,2018-08-28
+E00359,Bruce,Davis,S008,Store Manager,2023-08-19
+E00360,Brianna,Hernandez,S025,Supervisor,2022-08-17
+E00361,Paula,Dudley,S003,Inventory Executive,2022-03-01
+E00362,Matthew,Mckenzie,S044,Sales Associate,2026-03-19
+E00363,Michael,Frazier,S028,Supervisor,2017-08-15
+E00364,Daniel,Patterson,S010,Store Manager,2019-02-25
+E00365,John,Burke,S003,Sales Associate,2026-02-19
+E00366,Richard,Elliott,S033,Cashier,2022-05-27
+E00367,Jaime,Hahn,S004,Store Manager,2020-10-17
+E00368,Jerry,Erickson,S043,Cashier,2025-01-14
+E00369,Kevin,Hughes,S030,Supervisor,2020-09-17
+E00370,Julie,Fuller,S046,Cashier,2018-05-27
+E00371,Tammy,Palmer,S041,Supervisor,2024-12-06
+E00372,Jose,Gardner,S016,Store Manager,2019-02-01
+E00373,Mary,Miller,S045,Supervisor,2023-11-13
+E00374,Sean,Acosta,S003,Sales Associate,2016-10-27
+E00375,Thomas,Bowers,S007,Supervisor,2018-08-10
+E00376,Emily,Chan,S007,Sales Associate,2022-06-09
+E00377,Brianna,Sutton,S043,Store Manager,2018-08-15
+E00378,Catherine,Herrera,S001,Supervisor,2017-10-24
+E00379,Nathan,Mitchell,S038,Inventory Executive,2018-06-27
+E00380,Michael,Peterson,S009,Cashier,2017-09-13
+E00381,Gregory,Figueroa,S025,Store Manager,2020-06-20
+E00382,Kyle,Madden,S023,Supervisor,2016-11-11
+E00383,Fred,Hill,S021,Sales Associate,2019-04-21
+E00384,Kimberly,Morgan,S032,Store Manager,2026-06-14
+E00385,Breanna,Gaines,S019,Sales Associate,2018-01-13
+E00386,Jack,Jones,S046,Inventory Executive,2019-06-07
+E00387,Nicole,Ford,S046,Sales Associate,2025-02-26
+E00388,Erin,Perry,S009,Inventory Executive,2020-03-13
+E00389,William,Barry,S049,Supervisor,2026-07-08
+E00390,Edward,Anderson,S032,Inventory Executive,2020-06-07
+E00391,Jennifer,Fernandez,S022,Cashier,2020-10-28
+E00392,Breanna,Clay,S023,Cashier,2022-02-28
+E00393,Richard,Lawrence,S028,Supervisor,2018-02-17
+E00394,Martin,Jones,S034,Inventory Executive,2016-09-10
+E00395,Nina,Williamson,S005,Store Manager,2020-10-25
+E00396,Andrew,Ramirez,S023,Supervisor,2024-04-29
+E00397,Pam,Lopez,S008,Store Manager,2020-10-24
+E00398,Isabella,Peters,S024,Supervisor,2017-11-29
+E00399,Vanessa,Roberts,S044,Supervisor,2017-07-11
+E00400,Lee,Morrow,S006,Supervisor,2016-09-01
+E00401,Willie,Koch,S027,Inventory Executive,2021-06-21
+E00402,Katherine,Pierce,S038,Store Manager,2022-05-24
+E00403,Deborah,Olsen,S003,Inventory Executive,2019-01-20
+E00404,Lauren,Martin,S016,Supervisor,2024-02-03
+E00405,Meredith,Ford,S048,Sales Associate,2020-12-24
+E00406,Daniel,Oliver,S025,Store Manager,2023-07-28
+E00407,Christopher,Johnson,S027,Cashier,2024-07-31
+E00408,Ashley,Weaver,S022,Inventory Executive,2019-08-30
+E00409,David,Lee,S024,Store Manager,2021-02-25
+E00410,Jeremy,Martin,S008,Supervisor,2022-03-10
+E00411,Brian,Oliver,S008,Cashier,2023-11-30
+E00412,Kari,Sparks,S015,Sales Associate,2026-01-03
+E00413,William,Hall,S038,Store Manager,2022-10-20
+E00414,Michael,Nolan,S027,Sales Associate,2016-11-01
+E00415,Claudia,Ortiz,S012,Sales Associate,2025-06-24
+E00416,Christina,Herrera,S017,Store Manager,2019-06-01
+E00417,Ronnie,Hoffman,S005,Inventory Executive,2017-07-07
+E00418,William,Willis,S010,Store Manager,2021-11-14
+E00419,Brenda,Christensen,S026,Inventory Executive,2019-09-16
+E00420,Michael,Arnold,S026,Cashier,2021-11-24
+E00421,Henry,Roth,S038,Sales Associate,2017-09-29
+E00422,Philip,Newton,S006,Sales Associate,2016-09-21
+E00423,Sean,Mcdaniel,S042,Supervisor,2024-02-27
+E00424,Diana,Jennings,S037,Supervisor,2020-04-06
+E00425,Victor,Wiggins,S048,Store Manager,2021-02-05
+E00426,Bruce,Smith,S036,Supervisor,2022-09-20
+E00427,Paula,Parker,S038,Supervisor,2025-03-03
+E00428,Stephen,Montoya,S036,Store Manager,2017-09-07
+E00429,Jennifer,Lowe,S034,Supervisor,2017-07-21
+E00430,Kayla,Phillips,S037,Inventory Executive,2021-11-27
+E00431,Gina,Martin,S041,Inventory Executive,2020-05-30
+E00432,Sheila,Green,S027,Sales Associate,2018-12-21
+E00433,Sabrina,Young,S006,Inventory Executive,2018-04-15
+E00434,Jennifer,Pitts,S028,Sales Associate,2018-09-25
+E00435,Joshua,Orozco,S004,Store Manager,2021-10-20
+E00436,Amber,Ward,S011,Supervisor,2020-05-04
+E00437,Tammy,Griffith,S041,Cashier,2022-11-18
+E00438,Evelyn,Cook,S017,Sales Associate,2023-02-24
+E00439,William,Lane,S025,Inventory Executive,2021-05-16
+E00440,Emily,Lawson,S012,Sales Associate,2024-03-03
+E00441,Alexa,Murphy,S049,Store Manager,2020-02-09
+E00442,Daniel,Haynes,S037,Cashier,2019-03-11
+E00443,John,Reyes,S028,Store Manager,2021-07-18
+E00444,Michael,Jones,S009,Sales Associate,2016-10-26
+E00445,Nancy,Hogan,S001,Cashier,2024-07-28
+E00446,Melissa,Fleming,S009,Supervisor,2017-01-09
+E00447,Lauren,Simmons,S019,Supervisor,2021-06-06
+E00448,Samantha,Bishop,S038,Cashier,2026-05-23
+E00449,Debra,Ramos,S008,Supervisor,2026-07-17
+E00450,Crystal,Hoover,S025,Sales Associate,2016-08-26
+E00451,John,Webster,S007,Inventory Executive,2024-03-07
+E00452,Danielle,Alvarez,S006,Inventory Executive,2017-08-28
+E00453,Jessica,Smith,S033,Supervisor,2025-07-02
+E00454,Margaret,Ruiz,S016,Supervisor,2020-07-12
+E00455,Mike,Peters,S044,Cashier,2019-01-08
+E00456,Chad,Martinez,S034,Store Manager,2020-11-15
+E00457,Joan,Hunter,S043,Store Manager,2020-12-21
+E00458,Deborah,Gallagher,S015,Supervisor,2024-10-07
+E00459,Michelle,Charles,S001,Supervisor,2017-05-01
+E00460,Randy,Rush,S010,Sales Associate,2022-11-23
+E00461,Richard,Rodriguez,S013,Cashier,2022-11-17
+E00462,Craig,Harris,S027,Sales Associate,2022-03-22
+E00463,Kimberly,Garcia,S023,Supervisor,2023-08-06
+E00464,Michelle,Wallace,S031,Sales Associate,2024-09-06
+E00465,Mark,Parsons,S042,Store Manager,2019-02-07
+E00466,Tracy,Morris,S032,Supervisor,2020-05-27
+E00467,Bruce,Andrews,S024,Supervisor,2016-08-19
+E00468,Sheila,Robertson,S040,Store Manager,2023-08-07
+E00469,Derek,Gutierrez,S011,Inventory Executive,2019-04-06
+E00470,Holly,Scott,S034,Store Manager,2017-11-29
+E00471,Michael,Sanders,S005,Cashier,2024-03-24
+E00472,Michele,Stevenson,S020,Cashier,2022-08-26
+E00473,Clayton,Blair,S046,Cashier,2025-06-23
+E00474,Norman,Dean,S014,Sales Associate,2022-06-02
+E00475,Katherine,Jones,S031,Sales Associate,2024-07-31
+E00476,Matthew,Dunn,S002,Sales Associate,2020-02-19
+E00477,Mark,Mueller,S049,Sales Associate,2022-07-09
+E00478,William,Matthews,S020,Inventory Executive,2016-10-14
+E00479,Lynn,Shah,S012,Supervisor,2020-12-10
+E00480,Brittany,Morales,S020,Supervisor,2022-11-26
+E00481,David,Schmidt,S014,Store Manager,2023-06-08
+E00482,Heather,Hall,S009,Sales Associate,2020-06-19
+E00483,Scott,Herrera,S022,Supervisor,2018-05-17
+E00484,Tracey,Owens,S006,Cashier,2026-03-28
+E00485,Shirley,Salinas,S036,Inventory Executive,2026-01-20
+E00486,Jasmine,Ross,S045,Sales Associate,2017-06-21
+E00487,Laura,Salazar,S001,Sales Associate,2016-12-15
+E00488,Amber,Chapman,S035,Cashier,2018-06-26
+E00489,Joseph,Buchanan,S044,Supervisor,2022-01-20
+E00490,Jennifer,Holland,S044,Inventory Executive,2021-10-25
+E00491,Kevin,Garza,S022,Inventory Executive,2017-11-23
+E00492,Amanda,Smith,S043,Supervisor,2026-05-09
+E00493,John,Potts,S009,Cashier,2017-03-29
+E00494,Angel,Perez,S036,Store Manager,2021-05-25
+E00495,Amanda,Ellis,S013,Cashier,2025-09-16
+E00496,Karen,Wolf,S046,Cashier,2025-11-27
+E00497,Tammy,Smith,S007,Sales Associate,2024-03-10
+E00498,Jody,Lewis,S033,Cashier,2021-10-16
+E00499,George,Cruz,S030,Supervisor,2026-03-21
+E00500,Matthew,Rodriguez,S039,Cashier,2024-04-01
