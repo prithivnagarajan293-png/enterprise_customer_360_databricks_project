@@ -3,52 +3,69 @@ import pandas as pd
 
 from faker import Faker
 
-from utils.config import (
-    NUM_CUSTOMERS,
-    BATCH_DATA_DIR
-)
+from simulations.customer_profiles import CUSTOMER_SEGMENTS
+from utils.config import NUM_CUSTOMERS, BATCH_DATA_DIR
 
 fake = Faker()
+
+
+INCOME_BY_SEGMENT = {
+    "Bronze": (5000, 40000),
+    "Silver": (40000, 120000),
+    "Gold": (120000, 400000),
+    "Platinum": (400000, 1500000),
+}
 
 
 def generate_customers():
 
     customers = []
 
-    cities = [
-        "Chennai",
-        "Bengaluru",
-        "Hyderabad",
-        "Mumbai",
-        "Delhi",
-        "Pune",
-        "Kolkata",
-        "Ahmedabad",
-        "Coimbatore",
-        "Jaipur"
+    locations = [
+        ("Chennai", "Tamil Nadu"),
+        ("Bengaluru", "Karnataka"),
+        ("Hyderabad", "Telangana"),
+        ("Mumbai", "Maharashtra"),
+        ("Delhi", "Delhi"),
+        ("Pune", "Maharashtra"),
+        ("Kolkata", "West Bengal"),
+        ("Ahmedabad", "Gujarat"),
+        ("Coimbatore", "Tamil Nadu"),
+        ("Jaipur", "Rajasthan"),
     ]
 
-    states = [
-        "Tamil Nadu",
-        "Karnataka",
-        "Telangana",
-        "Maharashtra",
-        "Delhi",
-        "Maharashtra",
-        "West Bengal",
-        "Gujarat",
-        "Tamil Nadu",
-        "Rajasthan"
+    segment_names = list(CUSTOMER_SEGMENTS.keys())
+
+    segment_weights = [
+        CUSTOMER_SEGMENTS[s]["weight"]
+        for s in segment_names
     ]
 
-    loyalty_levels = [
-        "Bronze",
-        "Silver",
-        "Gold",
-        "Platinum"
+    channels = [
+        "Store",
+        "Website",
+        "Mobile App"
+    ]
+
+    payment_methods = [
+        "UPI",
+        "Credit Card",
+        "Debit Card",
+        "Cash",
+        "Net Banking"
     ]
 
     for i in range(1, NUM_CUSTOMERS + 1):
+
+        city, state = random.choice(locations)
+
+        segment = random.choices(
+            segment_names,
+            weights=segment_weights,
+            k=1
+        )[0]
+
+        min_ltv, max_ltv = INCOME_BY_SEGMENT[segment]
 
         customers.append({
 
@@ -62,9 +79,9 @@ def generate_customers():
 
             "phone": fake.msisdn()[:10],
 
-            "city": random.choice(cities),
+            "city": city,
 
-            "state": random.choice(states),
+            "state": state,
 
             "country": "India",
 
@@ -78,40 +95,47 @@ def generate_customers():
                 end_date="today"
             ),
 
-            "loyalty_level": random.choices(
-                loyalty_levels,
-                weights=[45,30,20,5]
-            )[0]
+            "customer_segment": segment,
+
+            "annual_income": random.choice([
+                "Low",
+                "Middle",
+                "Upper Middle",
+                "High"
+            ]),
+
+            "preferred_channel": random.choice(channels),
+
+            "preferred_payment": random.choice(payment_methods),
+
+            "marketing_opt_in": random.choice(
+                [True, True, True, False]
+            ),
+
+            "estimated_lifetime_value": round(
+                random.uniform(min_ltv, max_ltv),
+                2
+            ),
+
+            "loyalty_level": segment
 
         })
 
     df = pd.DataFrame(customers)
 
-    # -------------------------
-    # Dirty Data
-    # -------------------------
-
-    # Missing emails
+    # ---------------- Dirty Data ----------------
 
     df.loc[df.sample(frac=0.01).index, "email"] = None
 
-    # Missing cities
-
     df.loc[df.sample(frac=0.005).index, "city"] = None
-
-    # Mixed Case
 
     df.loc[df.sample(frac=0.01).index, "first_name"] = (
         df["first_name"].str.upper()
     )
 
-    # Extra Spaces
-
     df.loc[df.sample(frac=0.01).index, "last_name"] = (
         " " + df["last_name"] + " "
     )
-
-    # Duplicate Customers
 
     duplicates = df.sample(100)
 
