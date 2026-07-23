@@ -21,6 +21,7 @@ NUM_EMPLOYEES = 500
 NUM_CAMPAIGNS = 100
 NUM_ORDERS = 100_000
 AVG_ITEMS_PER_ORDER = 3.5
+MAX_ITEMS_PER_ORDER = 6
 
 # -----------------------------
 # Random Seed
