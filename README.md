@@ -168,9 +168,9 @@ The dashboard provides:
 - Hourly Sales Distribution
 - Interactive Filters
 
-<img src="screenshots/retailmart_dashboard_1.png">
+<img src="screenshots/retailmart_dashboard_11.png">
 
-<img src="screenshots/retailmart_dashboard_2.png">
+<img src="screenshots/retailmart_dashboard_12.png">
 
 <img src="powerbi/star_schema_fact_table.png">
 
