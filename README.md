@@ -193,6 +193,10 @@ The dashboard provides:
 
 <img src="screenshots/databricks_workspace_gold.png">
 
+## Sample pyspark code (gold layer fact table)
+
+<img src="screenshots/databricks_gold_fact_sales.png">
+
 ---
 
 ## Power BI Semantic Model
