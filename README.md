@@ -168,53 +168,46 @@ The dashboard provides:
 - Hourly Sales Distribution
 - Interactive Filters
 
-<img src="screenshots/retailmart_dashboard_11.png">
-
-<img src="screenshots/retailmart_dashboard_12.png">
-
-<img src="powerbi/star_schema_fact_table.png">
 
 # Project Screenshots
 
 ## Databricks Catalog
 
-<img src="docs/images/catalog-explorer.png">
+<img src="screenshots/databricks_compute_raw.png">
 
 ---
 
 ## Bronze Layer
 
-<img src="docs/images/bronze-layer.png">
+<img src="screenshots/databricks_workspace_bronze.png">
 
 ---
 
 ## Silver Layer
 
-<img src="docs/images/silver-layer.png">
+<img src="screenshots/databricks_workspace_silver.png">
 
 ---
 
 ## Gold Layer
 
-<img src="docs/images/gold-layer.png">
+<img src="screenshots/databricks_workspace_gold.png">
 
 ---
 
 ## Power BI Semantic Model
 
-<img src="docs/images/powerbi-model.png">
+<img src="powerbi/star_schema_fact_table.png">
 
 ---
 
 ## Executive Dashboard
 
-<img src="docs/images/dashboard.png">
+<img src="screenshots/retailmart_dashboard_11.png">
+
+<img src="screenshots/retailmart_dashboard_12.png">
 
 ---
-
-## Sample PySpark Transformation
-
-<img src="docs/images/spark-transformations.png">
 
 # Skills Demonstrated
 
