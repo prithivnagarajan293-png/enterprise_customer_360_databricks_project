@@ -4,7 +4,7 @@
 
 ### End-to-End Data Engineering Project using Databricks, Apache Spark, Delta Lake & Power BI
 
-<img src="docs/diagrams/high-level-architecture.png" width="100%"/>
+<img src="architecture/project_architecture.png" width="100%"/>
 
 </div>
 
