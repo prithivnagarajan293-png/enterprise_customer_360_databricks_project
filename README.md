@@ -42,7 +42,6 @@
 - [Medallion Architecture](#medallion-architecture)
 - [Gold Layer Star Schema](#gold-layer-star-schema)
 - [Technology Stack](#technology-stack)
-- [Repository Structure](#repository-structure)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Project Screenshots](#project-screenshots)
 - [Skills Demonstrated](#skills-demonstrated)
