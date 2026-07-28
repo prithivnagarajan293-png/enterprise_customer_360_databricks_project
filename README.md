@@ -93,7 +93,6 @@ This project demonstrates how a modern Lakehouse architecture transforms raw ope
 
 # Solution Architecture
 
-<img src="docs/diagrams/high-level-architecture.png">
 
 The solution follows a modern Lakehouse architecture:
 
@@ -104,7 +103,6 @@ The solution follows a modern Lakehouse architecture:
 
 # Medallion Architecture
 
-<img src="docs/diagrams/medallion-architecture.png">
 
 | Layer | Purpose |
 |--------|---------|
@@ -116,7 +114,6 @@ The Medallion Architecture improves data quality, simplifies downstream analytic
 
 # Gold Layer Star Schema
 
-<img src="docs/diagrams/star-schema.png">
 
 The Gold layer follows a dimensional model optimized for analytical workloads.
 
@@ -155,29 +152,6 @@ This dimensional model enables efficient reporting, aggregation, and dashboard d
 | Analytics | Power BI |
 | Version Control | Git & GitHub |
 
-# Repository Structure
-
-```text
-Enterprise-Customer360-Lakehouse
-│
-├── databricks/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── powerbi/
-│   └── RetailMart_Customer360_Dashboard.pbix
-│
-├── docs/
-│   ├── diagrams/
-│   └── images/
-│
-├── datasets/
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 # Power BI Dashboard
 
@@ -194,7 +168,11 @@ The dashboard provides:
 - Hourly Sales Distribution
 - Interactive Filters
 
-<img src="docs/images/dashboard.png">
+<img src="screenshots/Retailmart_dashboard_1.png">
+
+<img src="screenshots/Retailmart_dashboard_2.png">
+
+<img src="powerbi/star_schema_fact_table.png">
 
 # Project Screenshots
 
